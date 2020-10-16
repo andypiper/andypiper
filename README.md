@@ -2,7 +2,7 @@
 
 I'm Andy. You can mostly find me on [Twitter](https://twitter.com/andypiper), where I work on the [Developer Relations team](https://twitter.com/twitterdev).
 
-I also sometimes write things on [DEV](https://dev.to/andypiper), [Medium](https://medium.com/@andypiper), or on [my own website](https://andypiper.co.uk).
+I also sometimes write things on [DEV](https://dev.to/andypiper), [Medium](https://andypiper.medium.com), or on [my own website](https://andypiper.co.uk).
 
 - 😄 Pronouns: they/them
 - 🔭 I’m currently working on supporting developers using the Twitter APIs, particularly [![v2](https://img.shields.io/endpoint?url=https%3A%2F%2Ftwbadges.glitch.me%2Fbadges%2Fv2)](https://developer.twitter.com/en/docs/twitter-api)
