@@ -1,6 +1,6 @@
 ### Hello! 👋🏻
 
-I'm Andy. You can mostly find me on [Twitter](https://twitter.com/andypiper), where I work on the [Developer Relations team](https://twitter.com/twitterdev). 
+I'm Andy. You can mostly find me on [Twitter](https://twitter.com/andypiper), where I work on the [Developer Relations team](https://twitter.com/twitterdev) - I'm currently leading some work on new features for the developer platform.
 
 - 💻 Check out [our code samples on GitHub](https://github.com/twitterdev)!
 
