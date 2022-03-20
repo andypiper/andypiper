@@ -4,7 +4,7 @@ I'm Andy. You can mostly find me on [Twitter](https://twitter.com/andypiper), wh
 
 - 💻 Check out [our code samples on GitHub](https://github.com/twitterdev)!
 
-I also sometimes write things on [DEV](https://dev.to/andypiper), [Medium](https://andypiper.medium.com), or on [my own website](https://andypiper.co.uk).
+I also sometimes write things on [DEV](https://dev.to/andypiper), [Medium](https://andypiper.medium.com), or on [my own website](https://andypiper.co.uk). I have a [RoutineHub profile](https://routinehub.co/user/andypiper) for Apple Shortcuts.
 
 - 😄 Preferred pronouns: [they/them](https://pronoun.is/they)
 - 📑 My links -> [Glitch in Bio](https://andypiper.me)
