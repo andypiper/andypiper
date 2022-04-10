@@ -17,7 +17,7 @@ I also sometimes write things on [DEV](https://dev.to/andypiper), [Medium](https
 - 📑 My links -> [Glitch in Bio](https://andypiper.me)
 - 🔭 I’m currently working on supporting developers using the Twitter APIs, particularly [![v2](https://img.shields.io/endpoint?url=https%3A%2F%2Ftwbadges.glitch.me%2Fbadges%2Fv2)](https://developer.twitter.com/en/docs/twitter-api)
 - 💬 I help to look after the [Twitter Developer Community forums](https://twittercommunity.com), and you will also find me answering questions on [Stack Overflow](https://stackoverflow.com/users/262478/andy-piper).
-- 🌱 I’m trying to spend time learning .NET Core and Azure... when I have time!
+- 🌱 I’m trying to spend time learning .NET, Rust, and MicroPython... when I have time!
 - 📝 Favorite editor: VS Code 
 - 💻 First computer: [Acorn Electron](https://en.wikipedia.org/wiki/Acorn_Electron)
 
