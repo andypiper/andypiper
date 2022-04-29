@@ -1,8 +1,6 @@
 
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
 
-## Check out the [Devs for Ukraine online conference](https://www.devsforukraine.io/) for Developers
-
 ---
 
 ### Hello! 👋🏻
