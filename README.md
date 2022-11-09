@@ -5,7 +5,7 @@
 
 ### Hello! 👋🏻
 
-I'm Andy. You can find me on [Twitter](https://twitter.com/andypiper) and on [Mastodon](https://mastodon.social/@andypiper).
+I'm Andy. You can find me on [Twitter](https://twitter.com/andypiper) and on <a rel="me" href="https://mastodon.social/@andypiper">Mastodon</a>.
 
 I sometimes write longer things on [DEV](https://dev.to/andypiper), [Medium](https://andypiper.medium.com), or on [my own website](https://andypiper.co.uk). I have a [RoutineHub profile](https://routinehub.co/user/andypiper) for Apple Shortcuts.
 
@@ -21,5 +21,4 @@ I sometimes write longer things on [DEV](https://dev.to/andypiper), [Medium](htt
 
 [![@andypiper's Holopin board](https://holopin.io/api/user/board?user=andypiper)](https://holopin.io/@andypiper)
 
-<a rel="me" href="https://mastodon.social/@andypiper">.</a>
 
