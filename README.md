@@ -21,5 +21,5 @@ I sometimes write longer things on [DEV](https://dev.to/andypiper), [Medium](htt
 
 [![@andypiper's Holopin board](https://holopin.io/api/user/board?user=andypiper)](https://holopin.io/@andypiper)
 
-<a rel="me" href="https://mastodon.social/@andypiper">&nbsp;</a>
+<a rel="me" href="https://mastodon.social/@andypiper">.</a>
 
