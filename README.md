@@ -5,7 +5,7 @@
 
 ### Hello! 👋🏻
 
-I'm Andy. You can find me on <a rel="me" href="https://macaw.social/@andypiper">Mastodon</a> and on [Twitter](https://twitter.com/andypiper).
+I'm Andy. You can find me on <a rel="me" href="https://macaw.social/@andypiper">Mastodon</a>. 
 
 I sometimes write longer things on [DEV](https://dev.to/andypiper), [Medium](https://andypiper.medium.com), or on [my own website](https://andypiper.co.uk). I'm one of the co-hosts of the weekly technology podcast, [Games at Work dot biz](https://gamesatwork.biz) - you can find us on all of the major podcast directories.
 
