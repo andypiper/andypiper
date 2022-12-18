@@ -7,7 +7,7 @@
 
 I'm Andy. You can find me on <a rel="me" href="https://macaw.social/@andypiper">Mastodon</a> (and in other places in the #Fediverse)
 
-I sometimes write longer things on [DEV](https://dev.to/andypiper), [Medium](https://andypiper.medium.com), or on [my own website](https://andypiper.co.uk). I'm one of the co-hosts of the weekly technology podcast, [Games at Work dot biz](https://gamesatwork.biz) - you can find us on all of the major podcast directories.
+I sometimes write longer things on [DEV](https://dev.to/andypiper), [Medium](https://andypiper.medium.com), or on [my own website](https://andypiper.co.uk). I have [a newsletter](https://buttondown.email/andypiper), which gets sent to subscribers on an occasional basis. I'm one of the co-hosts of the weekly technology podcast, [Games at Work dot biz](https://gamesatwork.biz) - you can find us on all of the major podcast directories.
 
 In terms of code, I have a [RoutineHub profile](https://routinehub.co/user/andypiper) for Apple Shortcuts. I also use [Glitch](https://glitch.com/@andypiper) and [Replit](https://replit.com/@andypiper) as platforms for quick apps and demos.
 
