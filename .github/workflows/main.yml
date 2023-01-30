@@ -1,0 +1,2 @@
+- name: omg.lol GitHub status sync
+  uses: lucasmelin/omg.lol-gh-status-sync-action@v1
