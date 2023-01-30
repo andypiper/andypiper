@@ -1,2 +1,5 @@
 - name: omg.lol GitHub status sync
   uses: lucasmelin/omg.lol-gh-status-sync-action@v1
+  with:
+    omg_lol_user: andypiper
+    github_token: ${{ secrets.PERSONAL_USER_TOKEN }}
