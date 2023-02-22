@@ -7,7 +7,10 @@
 
 ### Hello! 👋🏻
 
-I'm Andy. You can find me on <a rel="me" href="https://macaw.social/@andypiper">Mastodon</a> (and in other places in the #Fediverse). 📑 My links -> [Glitch in Bio](https://andypiper.me)
+I'm Andy. You can find me on <a rel="me" href="https://macaw.social/@andypiper">Mastodon</a> (and in other places in the #Fediverse).
+
+📑 [Glitch in Bio](https://andypiper.me)
+💖 [OMG](https://andypiper.omg.lol)
 
 - I sometimes write longer things on [DEV](https://dev.to/andypiper), [Medium](https://andypiper.medium.com), or on [my own website](https://andypiper.co.uk). 
 - I have [a newsletter](https://buttondown.email/andypiper) 📮 which gets sent to subscribers on an occasional basis. 
