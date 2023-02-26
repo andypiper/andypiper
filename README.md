@@ -27,7 +27,7 @@ In terms of code, I have a [RoutineHub profile](https://routinehub.co/user/andyp
 - 📝 Favorite (most-used) editors: VS Code (GUI), vim (CLI)
 - 💻 First computer: [Acorn Electron](https://en.wikipedia.org/wiki/Acorn_Electron)
 
-[![Fediverse](https://img.shields.io/badge/andypiper%20-%231DA1F2.svg?&style=flat-square&logo=mastodon&logoColor=white&color=blueviolet)](https://macaw.social/@andypiper) [![YouTube](https://img.shields.io/badge/andypiperuk%20-%23FF0000.svg?&style=flat-square&logo=YouTube&logoColor=white)](https://youtube.com/andypiperuk) <a href="https://xbox.com"><img src="https://img.shields.io/badge/LostRinkitink%20-%23107C10.svg?&style=flat-square&logo=Xbox&logoColor=white"/></a> <a href="https://ko-fi.com/T6T11M0HS"><img src="https://camo.githubusercontent.com/cd07f1a5d90e454e7bbf69d22ebe4cdbd3a0b3dcf56ba0b6c2495a8e99c776be/68747470733a2f2f6b6f2d66692e636f6d2f696d672f676974687562627574746f6e5f736d2e737667" height="20"/></a>
+[![](https://omg.8bitsqu.id/?user=andypiper)](https://andypiper.omg.lol) [![Fediverse](https://img.shields.io/badge/andypiper%20-%231DA1F2.svg?&style=flat-square&logo=mastodon&logoColor=white&color=blueviolet)](https://macaw.social/@andypiper) [![YouTube](https://img.shields.io/badge/andypiperuk%20-%23FF0000.svg?&style=flat-square&logo=YouTube&logoColor=white)](https://youtube.com/andypiperuk) <a href="https://xbox.com"><img src="https://img.shields.io/badge/LostRinkitink%20-%23107C10.svg?&style=flat-square&logo=Xbox&logoColor=white"/></a> <a href="https://ko-fi.com/T6T11M0HS"><img src="https://camo.githubusercontent.com/cd07f1a5d90e454e7bbf69d22ebe4cdbd3a0b3dcf56ba0b6c2495a8e99c776be/68747470733a2f2f6b6f2d66692e636f6d2f696d672f676974687562627574746f6e5f736d2e737667" height="20"/></a>
 
 ---
 
