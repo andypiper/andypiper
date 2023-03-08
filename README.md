@@ -22,7 +22,7 @@ In terms of code, I have a [RoutineHub profile](https://routinehub.co/user/andyp
 
 ### Fun facts 🎱
 
-- 👤 Preferred pronouns: [he/they/them](https://pronoun.is/they)
+- 👤 Preferred pronouns: [he/they/them](https://wikipedia.org/wiki/Singular_they)
 - 🌱 I’m spending time learning 🐍 [MicroPython](https://micropython.org), and 🌐 Fediverse APIs like [ActivityPub](https://activitypub.rocks)... when I have time!
 - 📝 Favorite (most-used) editors: VS Code (GUI), vim (CLI)
 - 💻 First computer: [Acorn Electron](https://en.wikipedia.org/wiki/Acorn_Electron)
