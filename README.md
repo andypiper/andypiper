@@ -1,15 +1,16 @@
 
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
 
-**✨ In the #OpenUK [2023 New Year's Honours List](https://openuk.uk/2023-honours-list/) 🏅 as a top UK influencer in Open Technology ✨**
+**✨ Named in the #OpenUK [2023 New Year's Honours List](https://openuk.uk/2023-honours-list/) 🏅 as a top UK influencer in Open Technology ✨**
 
 ---
 
 ### Hello! 👋🏻
 
-I'm Andy. You can find me on <a rel="me" href="https://macaw.social/@andypiper">Mastodon</a> (and in other places in the #Fediverse).
+I'm Andy. You can find me primarily on <a rel="me" href="https://macaw.social/@andypiper">Mastodon</a> (but I am also in other places in the #Fediverse).
 
 📑 [Glitch in Bio](https://andypiper.me)
+
 💖 [OMG](https://andypiper.omg.lol)
 
 - I sometimes write longer things on [DEV](https://dev.to/andypiper), [Medium](https://andypiper.medium.com), or on [my own website](https://andypiper.co.uk). 
@@ -22,8 +23,7 @@ In terms of code, I have a [RoutineHub profile](https://routinehub.co/user/andyp
 
 ### Fun facts 🎱
 
-- 👤 Preferred pronouns: [he/they/them](https://pronoun.is/they)
-- 🌱 I’m spending time learning 🐍 [MicroPython](https://micropython.org), and 🌐 Fediverse APIs like [ActivityPub](https://activitypub.rocks)... when I have time!
+- 🌱 I’m spending time learning 🐍 [MicroPython](https://micropython.org), and 🌐 Fediverse APIs like [ActivityPub](https://activitypub.rocks)
 - 📝 Favorite (most-used) editors: VS Code (GUI), vim (CLI)
 - 💻 First computer: [Acorn Electron](https://en.wikipedia.org/wiki/Acorn_Electron)
 
@@ -32,5 +32,4 @@ In terms of code, I have a [RoutineHub profile](https://routinehub.co/user/andyp
 ---
 
 [![@andypiper's Holopin board](https://holopin.io/api/user/board?user=andypiper)](https://holopin.io/@andypiper)
-
 
