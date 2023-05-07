@@ -5,11 +5,13 @@
 
 ---
 
-### Hello! 👋🏻
+### Hey there, friend! 👋🏻
 
 I'm Andy. You can find me primarily on <a rel="me" href="https://macaw.social/@andypiper">Mastodon</a> (but I am also in other places in the #Fediverse).
 
-📑 [Glitch in Bio](https://andypiper.me)
+I'm a maker at [Forge & Craft](https://forgeandcraft.co.uk), and I attend and help out with the [Makeroni](https://makeroni.cc) pop-up hackspace meetup.
+
+📑 [Glitch in Bio](https://andypiper.me) (it's like "Link in Bio" via Linktree etc, but free, and [yours to improve](https://dev.to/andypiper/a-quick-glitch-bio-break-1c6a)!)
 
 💖 [OMG](https://andypiper.omg.lol)
 
@@ -17,7 +19,7 @@ I'm Andy. You can find me primarily on <a rel="me" href="https://macaw.social/@a
 - I have [a newsletter](https://buttondown.email/andypiper) 📮 which gets sent to subscribers on an occasional basis. 
 - I'm one of the co-hosts of the weekly technology podcast 🎙️ [Games at Work dot biz](https://gamesatwork.biz) - you can find us on all of the major podcast directories. Let us know what you think!
 
-In terms of code, I have a [RoutineHub profile](https://routinehub.co/user/andypiper) for Apple Shortcuts. I also use [Glitch](https://glitch.com/@andypiper) and [Replit](https://replit.com/@andypiper) as platforms for quick apps and demos.
+In terms of code beyond GitHub, I have a [RoutineHub profile](https://routinehub.co/user/andypiper) for Apple Shortcuts. I also use [Glitch](https://glitch.com/@andypiper) and [Replit](https://replit.com/@andypiper) as platforms for quick apps and demos.
 
 ---
 
