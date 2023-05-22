@@ -7,7 +7,7 @@
 
 ### Hey there, friend! 👋🏻
 
-I'm Andy. You can find me primarily on <a rel="me" href="https://macaw.social/@andypiper">Mastodon</a> (but I am also in other places in the #Fediverse).
+I'm Andy. You can find me primarily on <a rel="me" href="https://macaw.social/@andypiper">Mastodon</a> (but I am also in other places in the #Fediverse). I help the [Mastodon project](https://github.com/mastodon) with Developer Relations and community.
 
 I'm a maker at [Forge & Craft](https://forgeandcraft.co.uk), and I attend and help out with the [Makeroni](https://makeroni.cc) pop-up hackspace meetup.
 
