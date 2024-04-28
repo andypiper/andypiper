@@ -9,9 +9,9 @@ I'm a maker at [Forge & Craft](https://forgeandcraft.co.uk), and I attend and he
 
 💖 [OMG](https://andypiper.omg.lol)
 
-- I sometimes write longer things on [DEV](https://dev.to/andypiper), [Medium](https://andypiper.medium.com), or on [my own website](https://andypiper.co.uk). 
-- I have [a newsletter](https://buttondown.email/andypiper) 📮 which gets sent to subscribers on an occasional basis. 
 - I'm one of the co-hosts of the weekly technology podcast 🎙️ [Games at Work dot biz](https://gamesatwork.biz) - you can find us on all of the major podcast directories. Let us know what you think!
+- I sometimes write longer things on [DEV](https://dev.to/andypiper), [Medium](https://andypiper.medium.com), or on [my own website](https://andypiper.co.uk). 
+- I have [a newsletter](https://buttondown.email/andypiper) 📮 which gets sent to subscribers on an occasional basis. I haven't sent one out for ages. I should get on that.
 
 In terms of code beyond GitHub, I have a [RoutineHub profile](https://routinehub.co/user/andypiper) for Apple Shortcuts. I also use [Glitch](https://glitch.com/@andypiper) and [Replit](https://replit.com/@andypiper) as platforms for quick apps and demos.
 
@@ -19,7 +19,7 @@ In terms of code beyond GitHub, I have a [RoutineHub profile](https://routinehub
 
 ### Fun facts 🎱
 
-- 🌱 I’m spending time learning 🐍 [MicroPython](https://micropython.org), and 🌐 Fediverse APIs like [ActivityPub](https://activitypub.rocks)
+- 🌱 I’m spending time learning 🐍 [MicroPython](https://micropython.org), and 🌐 Fediverse (Social Web) APIs like [ActivityPub](https://w3c.github.io/activitypub/)
 - 📝 Most-used editors: VS Code (GUI), vim (CLI)
 - 💻 First computer: [Acorn Electron](https://en.wikipedia.org/wiki/Acorn_Electron) (and, I still have an [Acorn Risc PC](https://en.wikipedia.org/wiki/Risc_PC) that I need to dig out from cobwebs sometime soon)
 
