@@ -1,77 +1,43 @@
 import feedparser
-import re
-import sys
 
+# Fetch the RSS feed
+feed_url = "https://andypiper.co.uk/feed/"
+feed = feedparser.parse(feed_url)
 
-def fetch_blog_posts():
-    print("Fetching blog posts...")
-    feed_url = "https://andypiper.co.uk/feed/"  # Updated to your actual feed URL
-    feed = feedparser.parse(feed_url)
-    posts = feed.entries[:5]  # Get the 5 most recent posts
-    print(f"Fetched {len(posts)} posts")
-    for post in posts:
-        print(f"- {post.title} ({post.get('published', 'No date')})")
-    return posts
+# Extract the latest 5 posts
+max_posts = 5
+latest_posts = []
+for entry in feed.entries[:max_posts]:
+    title = entry.title
+    link = entry.link
+    latest_posts.append(f"- [{title}]({link})")
 
+# Read the existing README.md content
+with open("README.md", "r") as readme_file:
+    readme_content = readme_file.readlines()
 
-def update_readme(posts):
-    print("Updating README.md...")
-    try:
-        with open("README.md", "r") as file:
-            old_content = file.read()
-        print("README.md content loaded")
+# Find the marker where blog posts should be inserted
+start_marker = "<!-- BLOG-POST-LIST:START -->\n"
+end_marker = "<!-- BLOG-POST-LIST:END -->\n"
 
-        # Define the markers for the blog posts section
-        start_marker = "<!-- BLOG-POST-LIST:START -->"
-        end_marker = "<!-- BLOG-POST-LIST:END -->"
+# Ensure the markers are present in the README.md
+if start_marker not in readme_content or end_marker not in readme_content:
+    print("Markers not found in README.md. Please ensure you have the markers.")
+    exit(1)
 
-        # Create the new blog posts list
-        new_posts_content = "\n".join(
-            [
-                f"- [{post.title}]({post.link})"
-                for post in posts
-            ]
-        )
-        print("New posts content created:")
-        print(new_posts_content)
+# Get the content before and after the markers
+start_index = readme_content.index(start_marker) + 1
+end_index = readme_content.index(end_marker)
 
-        # Extract the old posts content
-        old_posts_content = re.search(
-            f"{start_marker}(.*?){end_marker}", old_content, re.DOTALL
-        )
-        if old_posts_content:
-            old_posts_content = old_posts_content.group(1).strip()
-            print("Old posts content:")
-            print(old_posts_content)
+# Create the new content between the markers
+new_readme_content = (
+    readme_content[:start_index]
+    + [f"{post}\n" for post in latest_posts]
+    + readme_content[end_index:]
+)
 
-        # Replace the content between the markers
-        new_content = re.sub(
-            f"{start_marker}.*?{end_marker}",
-            f"{start_marker}\n{new_posts_content}\n{end_marker}",
-            old_content,
-            flags=re.DOTALL,
-        )
+# Write the new content back to README.md
+with open("README.md", "w") as readme_file:
+    readme_file.writelines(new_readme_content)
 
-        if new_content == old_content:
-            print("No changes detected in README content")
-            return False
-
-        print("Content difference detected. Updating file...")
-        with open("README.md", "w") as file:
-            file.write(new_content)
-        print("README.md updated successfully")
-        return True
-    except Exception as e:
-        print(f"An error occurred: {e}")
-        return False
-
-
-if __name__ == "__main__":
-    print("Script started")
-    posts = fetch_blog_posts()
-    if update_readme(posts):
-        print("README updated")
-        sys.exit(0)
-    else:
-        print("No changes made to README")
-        sys.exit(1)
+print("README.md has been updated with the latest blog posts.")
