@@ -1,17 +1,18 @@
-name: Update README with Blog Posts
+name: Update README with recent blog posts
 
 on:
   schedule:
-    - cron: '0 */12 * * *'  # Runs every 12 hours
-  workflow_dispatch:  # Allows manual triggering
+    - cron: '0 */12 * * *'  # Run every 12 hours
+  workflow_dispatch:
+  push:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v4.13
     - name: Set up Python
-      uses: actions/setup-python@v5
+      uses: actions/setup-python@v5.1.0
       with:
         python-version: '3.12'
     - name: Install dependencies
