@@ -10,7 +10,7 @@ I'm a maker at [Forge & Craft](https://forgeandcraft.co.uk), and I attend and he
 💖 [OMG](https://andypiper.omg.lol)
 
 - I'm one of the co-hosts of the weekly technology podcast 🎙️ [Games at Work dot biz](https://gamesatwork.biz) - you can find us on all of the major podcast directories. Let us know what you think!
-- I sometimes write longer things on [DEV](https://dev.to/andypiper), [Medium](https://andypiper.medium.com), or on [my own website](https://andypiper.co.uk). 
+- I sometimes write longer things on [DEV](https://dev.to/andypiper), [Medium](https://andypiper.medium.com), or on [my own website](https://andypiper.co.uk). My most recent blog posts are listed below.
 - I have [a newsletter](https://buttondown.email/andypiper) 📮 which gets sent to subscribers on an occasional basis. I haven't sent one out for ages. I should get on that.
 
 ### Other code (not GitHub)
@@ -18,7 +18,15 @@ I'm a maker at [Forge & Craft](https://forgeandcraft.co.uk), and I attend and he
 - I use [Glitch](https://glitch.com/@andypiper) and [Replit](https://replit.com/@andypiper) as platforms for quick apps and demos.
 - I'm on [Codeberg](https://codeberg.org/andypiper).
 - I'm on [GitLab](https://gitlab.com/andypiper).
-- I have a [RoutineHub profile](https://routinehub.co/user/andypiper) for Apple Shortcuts. 
+- I have a [RoutineHub profile](https://routinehub.co/user/andypiper) for Apple Shortcuts.
+
+---
+
+### Recent Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END-->
 
 ---
 
@@ -27,6 +35,6 @@ I'm a maker at [Forge & Craft](https://forgeandcraft.co.uk), and I attend and he
 - 🌱 I’m spending time learning 🐍 [MicroPython](https://micropython.org), and 🌐 Fediverse (Social Web) APIs like [ActivityPub](https://w3c.github.io/activitypub/)
 - 📝 Most-used editors: VS Code (GUI), vim (CLI)
 - 💻 First computer: [Acorn Electron](https://en.wikipedia.org/wiki/Acorn_Electron) (and, I still have an [Acorn Risc PC](https://en.wikipedia.org/wiki/Risc_PC) that I need to dig out from cobwebs sometime soon)
+- 💻 Current systems: M1 Pro MacBook Pro, MNT Pocket Reform, Framework 13"
 
 [![](https://omg.8bitsqu.id/?user=andypiper)](https://andypiper.omg.lol) [![Fediverse](https://img.shields.io/badge/andypiper%20-%231DA1F2.svg?&style=flat-square&logo=mastodon&logoColor=white&color=6364FF)](https://macaw.social/@andypiper) [![PeerTube](https://img.shields.io/badge/andypiper%20-%231DA1F2.svg?&style=flat-square&logo=peertube&logoColor=white&color=e2712f)](https://makertube.net/a/andypiper) [![YouTube](https://img.shields.io/badge/andypiper%20-%23FF0000.svg?&style=flat-square&logo=YouTube&logoColor=white)](https://youtube.com/@andypiper) <a href="https://xbox.com"><img src="https://img.shields.io/badge/LostRinkitink%20-%23107C10.svg?&style=flat-square&logo=Xbox&logoColor=white"/></a>
-
