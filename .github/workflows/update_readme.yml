@@ -11,6 +11,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4.1.3
+      with:
+        fetch-depth: 0
     - name: Set up Python
       uses: actions/setup-python@v5.1.0
       with:
@@ -21,10 +23,22 @@ jobs:
         pip install feedparser
     - name: Update README
       run: python update_readme.py
+    - name: Check for changes
+      id: git-check
+      run: |
+        git status
+        git diff
+        git diff --quiet || echo "changes=true" >> $GITHUB_OUTPUT
     - name: Commit changes
+      if: steps.git-check.outputs.changes == 'true'
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
         git add README.md
         git commit -m "Updated README with latest blog posts"
         git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: No changes
+      if: steps.git-check.outputs.changes != 'true'
+      run: echo "No changes to commit"

@@ -28,7 +28,7 @@ def update_readme(posts):
     # Create the new blog posts list
     new_content = "\n".join(
         [
-            f"- [{post.title}]({post.link}) - {post.published.split('T')[0]}"
+            f"- [{post.title}]({post.link})"
             for post in posts
         ]
     )
