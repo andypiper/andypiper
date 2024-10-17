@@ -10,8 +10,7 @@ def format_date(published):
     try:
         # Parse the published date from the entry
         parsed_date = datetime(*published[:6])
-        # Format the date as "Month Day, Year"
-        return parsed_date.strftime("%B %d, %Y")
+        return parsed_date.strftime("%Y-%m-%d")
     except Exception as e:
         # Return an empty string if date parsing fails
         return ""
@@ -23,15 +22,13 @@ for entry in feed.entries[:max_posts]:
     title = entry.title
     link = entry.link
     pub_date = format_date(entry.published_parsed)  # Format the publication date
-    summary = entry.summary if hasattr(entry, "summary") else ""  # Extract the summary if available
+    # summary = entry.summary if hasattr(entry, "summary") else ""  # Extract the summary if available
     # Add the post with the title, publication date, and optionally the summary
-    latest_posts.append(f"- ✍🏻 [{title}]({link}) - *{pub_date}*\n")
+    latest_posts.append(f"- :writing_hand: [{title}]({link}) - *{pub_date}*")
 
-# Read the existing README.md content
 with open("README.md", "r") as readme_file:
     readme_content = readme_file.readlines()
 
-# Find the marker where blog posts should be inserted
 start_marker = "<!-- BLOG-POST-LIST:START -->\n"
 end_marker = "<!-- BLOG-POST-LIST:END -->\n"
 
