@@ -12,11 +12,16 @@ I'm a maker at [Forge & Craft](https://forgeandcraft.co.uk), and I attend and he
 ### Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Podcasting updates](https://andypiper.co.uk/2024/10/17/podcasting-updates/)
-- [Fixing my Bambu X1C](https://andypiper.co.uk/2024/10/16/fixing-my-bambu-x1c/)
-- [Get Involved at OggCamp 2024: bring a talk or demo](https://andypiper.co.uk/2024/10/04/get-involved-at-oggcamp-2024/)
-- [Overview of the Fediverse Discovery Providers project](https://andypiper.co.uk/2024/09/13/overview-of-the-fediverse-discovery-providers-project/)
-- [My brief notes on day 1 of Fediforum Sep 2024](https://andypiper.co.uk/2024/09/12/my-brief-notes-on-day-1-of-fediforum-sep-2024/)
+- ✍🏻 [Podcasting updates](https://andypiper.co.uk/2024/10/17/podcasting-updates/) - *October 17, 2024*
+
+- ✍🏻 [Fixing my Bambu X1C](https://andypiper.co.uk/2024/10/16/fixing-my-bambu-x1c/) - *October 16, 2024*
+
+- ✍🏻 [Get Involved at OggCamp 2024: bring a talk or demo](https://andypiper.co.uk/2024/10/04/get-involved-at-oggcamp-2024/) - *October 04, 2024*
+
+- ✍🏻 [Overview of the Fediverse Discovery Providers project](https://andypiper.co.uk/2024/09/13/overview-of-the-fediverse-discovery-providers-project/) - *September 13, 2024*
+
+- ✍🏻 [My brief notes on day 1 of Fediforum Sep 2024](https://andypiper.co.uk/2024/09/12/my-brief-notes-on-day-1-of-fediforum-sep-2024/) - *September 12, 2024*
+
 <!-- BLOG-POST-LIST:END -->
 
 ---
