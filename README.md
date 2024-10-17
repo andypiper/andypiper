@@ -7,10 +7,20 @@ I'm a maker at [Forge & Craft](https://forgeandcraft.co.uk), and I attend and he
 
 📑 [Glitch in Bio](https://andypiper.me) (it's like "Link in Bio" via Linktree etc, but _free_, and [yours to improve](https://dev.to/andypiper/a-quick-glitch-bio-break-1c6a)!)
 
+---
+
+### Recent Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 💖 [OMG](https://andypiper.omg.lol)
 
 - I'm one of the co-hosts of the weekly technology podcast 🎙️ [Games at Work dot biz](https://gamesatwork.biz) - you can find us on all of the major podcast directories. Let us know what you think!
-- I sometimes write longer things on [DEV](https://dev.to/andypiper), [Medium](https://andypiper.medium.com), or on [my own website](https://andypiper.co.uk). My most recent blog posts are listed below.
+- I sometimes write longer things on [DEV](https://dev.to/andypiper), [Medium](https://andypiper.medium.com), or on [my own website](https://andypiper.co.uk). My most recent blog posts are listed above.
 - I have [a newsletter](https://buttondown.email/andypiper) 📮 which gets sent to subscribers on an occasional basis. I haven't sent one out for ages. I should get on that.
 
 ### Other code (not GitHub)
@@ -19,14 +29,6 @@ I'm a maker at [Forge & Craft](https://forgeandcraft.co.uk), and I attend and he
 - I'm on [Codeberg](https://codeberg.org/andypiper).
 - I'm on [GitLab](https://gitlab.com/andypiper).
 - I have a [RoutineHub profile](https://routinehub.co/user/andypiper) for Apple Shortcuts.
-
----
-
-### Recent Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END-->
 
 ---
 
