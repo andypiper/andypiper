@@ -10,7 +10,7 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v4.13
+    - uses: actions/checkout@v4.1.3
     - name: Set up Python
       uses: actions/setup-python@v5.1.0
       with:
