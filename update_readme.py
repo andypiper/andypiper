@@ -1,8 +1,20 @@
 import feedparser
+from datetime import datetime
 
 # Fetch the RSS feed
 feed_url = "https://andypiper.co.uk/feed/"
 feed = feedparser.parse(feed_url)
+
+# Function to format the publication date
+def format_date(published):
+    try:
+        # Parse the published date from the entry
+        parsed_date = datetime(*published[:6])
+        # Format the date as "Month Day, Year"
+        return parsed_date.strftime("%B %d, %Y")
+    except Exception as e:
+        # Return an empty string if date parsing fails
+        return ""
 
 # Extract the latest 5 posts
 max_posts = 5
@@ -10,7 +22,10 @@ latest_posts = []
 for entry in feed.entries[:max_posts]:
     title = entry.title
     link = entry.link
-    latest_posts.append(f"- [{title}]({link})")
+    pub_date = format_date(entry.published_parsed)  # Format the publication date
+    summary = entry.summary if hasattr(entry, "summary") else ""  # Extract the summary if available
+    # Add the post with the title, publication date, and optionally the summary
+    latest_posts.append(f"- ✍🏻 [{title}]({link}) - *{pub_date}*\n")
 
 # Read the existing README.md content
 with open("README.md", "r") as readme_file:

@@ -9,7 +9,7 @@ I'm a maker at [Forge & Craft](https://forgeandcraft.co.uk), and I attend and he
 
 ---
 
-### Recent Blog Posts
+### Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Podcasting updates](https://andypiper.co.uk/2024/10/17/podcasting-updates/)
@@ -21,13 +21,15 @@ I'm a maker at [Forge & Craft](https://forgeandcraft.co.uk), and I attend and he
 
 ---
 
+### More about me
+
 💖 [OMG](https://andypiper.omg.lol)
 
 - I'm one of the co-hosts of the weekly technology podcast 🎙️ [Games at Work dot biz](https://gamesatwork.biz) - you can find us on all of the major podcast directories. Let us know what you think!
 - I sometimes write longer things on [DEV](https://dev.to/andypiper), [Medium](https://andypiper.medium.com), or on [my own website](https://andypiper.co.uk). My most recent blog posts are listed above.
 - I have [a newsletter](https://buttondown.email/andypiper) 📮 which gets sent to subscribers on an occasional basis. I haven't sent one out for ages. I should get on that.
 
-### Other code (not GitHub)
+### Code (beyond GitHub)
 
 - I use [Glitch](https://glitch.com/@andypiper) and [Replit](https://replit.com/@andypiper) as platforms for quick apps and demos.
 - I'm on [Codeberg](https://codeberg.org/andypiper).
