@@ -12,11 +12,11 @@ I'm a maker at [Forge & Craft](https://forgeandcraft.co.uk), and I attend and he
 ### Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- :writing_hand: [Podcasting updates](https://andypiper.co.uk/2024/10/17/podcasting-updates/) - *2024-10-17*
-- :writing_hand: [Fixing my Bambu X1C](https://andypiper.co.uk/2024/10/16/fixing-my-bambu-x1c/) - *2024-10-16*
-- :writing_hand: [Get Involved at OggCamp 2024: bring a talk or demo](https://andypiper.co.uk/2024/10/04/get-involved-at-oggcamp-2024/) - *2024-10-04*
-- :writing_hand: [Overview of the Fediverse Discovery Providers project](https://andypiper.co.uk/2024/09/13/overview-of-the-fediverse-discovery-providers-project/) - *2024-09-13*
-- :writing_hand: [My brief notes on day 1 of Fediforum Sep 2024](https://andypiper.co.uk/2024/09/12/my-brief-notes-on-day-1-of-fediforum-sep-2024/) - *2024-09-12*
+- :fountain_pen: [Meetup.com is so over](https://andypiper.co.uk/2024/10/18/meetup-com-is-so-over/) - *2024-10-18*
+- :fountain_pen: [Podcasting updates](https://andypiper.co.uk/2024/10/17/podcasting-updates/) - *2024-10-17*
+- :fountain_pen: [Fixing my Bambu X1C](https://andypiper.co.uk/2024/10/16/fixing-my-bambu-x1c/) - *2024-10-16*
+- :fountain_pen: [Get Involved at OggCamp 2024: bring a talk or demo](https://andypiper.co.uk/2024/10/04/get-involved-at-oggcamp-2024/) - *2024-10-04*
+- :fountain_pen: [Overview of the Fediverse Discovery Providers project](https://andypiper.co.uk/2024/09/13/overview-of-the-fediverse-discovery-providers-project/) - *2024-09-13*
 <!-- BLOG-POST-LIST:END -->
 
 ---
