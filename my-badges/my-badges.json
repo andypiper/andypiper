@@ -1,0 +1,226 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/mastodon/.github/commit/a90829c821ddd45a4c870662f7b851d2013402ca\"><strong>a</strong>90829c821ddd45a4c870662f7b851d2013402ca</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/andypiper/open-devto-panel-sidebar-mod/commit/abf4957b14f13ee5e905af5cb30cd5ebcc3ebe07\"><strong>ab</strong>f4957b14f13ee5e905af5cb30cd5ebcc3ebe07</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "cafe-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"cafe\" 4 times.",
+    "body": "- <a href=\"https://github.com/andypiper/andypiper/commit/a10f6558ff0a36cafeb8efff7eda88daa3ed9062\">a10f6558ff0a36<strong>cafe</strong>b8efff7eda88daa3ed9062</a>\n- <a href=\"https://github.com/andypiper/blog/commit/bcafe6982dea614f1ff65c46948fcd66e3b5230d\">b<strong>cafe</strong>6982dea614f1ff65c46948fcd66e3b5230d</a>\n- <a href=\"https://github.com/andypiper/stackypi-style/commit/2fd86a9294dd7467ec2780b29713e6cafe916a77\">2fd86a9294dd7467ec2780b29713e6<strong>cafe</strong>916a77</a>\n- <a href=\"https://github.com/andypiper/stackypi-style/commit/ef20b5eaf0c8bec6e477c15a9fcafe8a4d5f1edf\">ef20b5eaf0c8bec6e477c15a9f<strong>cafe</strong>8a4d5f1edf</a>",
+    "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
+  },
+  {
+    "id": "cosmetic-commit",
+    "tier": 0,
+    "desc": "I made cosmetic commit.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andypiper/postmarks/commit/7f10cb1e97ffde82257c9b07c4b182c2e33b8b1a\">7f10cb1</a>\n- <a href=\"https://github.com/andypiper/postmarks/commit/ebad85722312d42848da20b109b514302c37d234\">ebad857</a>\n- <a href=\"https://github.com/ckolderup/postmarks/commit/ebad85722312d42848da20b109b514302c37d234\">ebad857</a>",
+    "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
+  },
+  {
+    "id": "delorean",
+    "tier": 0,
+    "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andypiper/Dotfiles/commit/1e93e0d737709b5e099da8ceca4cac173c9419f5\">1e93e0d</a>",
+    "image": "https://my-badges.github.io/my-badges/delorean.png"
+  },
+  {
+    "id": "emoji-only-commit",
+    "tier": 0,
+    "desc": "I used only emojis in my commit message.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andypiper/fivebyfive/commit/06a44bd36901c701c0595fc0ba023730bf1816d1\">06a44bd</a>: 💗",
+    "image": "https://my-badges.github.io/my-badges/emoji-only-commit.png"
+  },
+  {
+    "id": "epic-commit",
+    "tier": 0,
+    "desc": "I made an epic commit with a message over 500 chars.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andypiper/enviroplus-python/commit/40553f165647d7bd73594ef92544de528e09a5eb\">40553f1</a>",
+    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"signed-off-by:\".",
+    "body": "My favorite commit message words are:\n\n1. signed-off-by: (used 554 times)\n2. andy (used 551 times)\n3. piper (used 550 times)\n4. <andypiper@users.noreply.github.com> (used 550 times)\n5. to (used 402 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andypiper/blog/commit/45101ac90a03a56118cafac6f237168d2467e8bf\">45101ac</a>: Fix URL reference\n- <a href=\"https://github.com/andypiper/blog/commit/34883ead2c8dd473120e66eb9769b1b370b33cde\">34883ea</a>: Fix deprecated Hugo conditional.\n\nSigned-off-by: Andy Piper <andypiper@users.noreply.github.com>",
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
+  },
+  {
+    "id": "github-anniversary-10",
+    "tier": 0,
+    "desc": "I joined GitHub 10 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-10.png"
+  },
+  {
+    "id": "thumbs-up",
+    "tier": 0,
+    "desc": "I have received a lot of thumbs up 👍 reactions!",
+    "body": "- [20 thumbs ups](https://github.com/Twitter4J/Twitter4J/issues/343)\n- [17 thumbs ups](https://github.com/rom1504/img2dataset/issues/293#issuecomment-1519096115)\n- [11 thumbs ups](https://github.com/bigtreetech/PandaTouch/issues/27)\n- [7 thumbs ups](https://github.com/xdevplatform/Twitter-API-v2-sample-code/issues/9)\n- [7 thumbs ups](https://github.com/laurent22/joplin/issues/6052#issuecomment-1253874959)\n- [6 thumbs ups](https://github.com/prusa3d/Buddy-board-MINI-PCB/issues/5)\n- [5 thumbs ups](https://github.com/gicmo/gamemode-extension/issues/62#issuecomment-1488963872)\n- [4 thumbs ups](https://github.com/clockworkpi/DevTerm/issues/44)\n- [4 thumbs ups](https://github.com/bigtreetech/PandaTouch/issues/75)\n- [4 thumbs ups](https://github.com/twitter/twitter-text/issues/196#issuecomment-351721815)",
+    "image": "https://my-badges.github.io/my-badges/thumbs-up.png"
+  },
+  {
+    "id": "thumbs-down",
+    "tier": 0,
+    "desc": "I have received a lot of thumbs down 👎 reactions!",
+    "body": "- [20 thumbs downs](https://github.com/mastodon/mastodon/pull/30091#issuecomment-2231106261)\n- [2 thumbs downs](https://github.com/bigtreetech/PandaTouch/issues/27)\n- [2 thumbs downs](https://github.com/tweepy/tweepy/issues/1461#issuecomment-734368141)\n- [1 thumbs downs](https://github.com/twitter/opensource-website/issues/113#issuecomment-821188433)\n- [1 thumbs downs](https://github.com/xdevplatform/Twitter-API-v2-sample-code/issues/34#issuecomment-856008075)\n- [1 thumbs downs](https://github.com/mastodon/joinmastodon/issues/323#issuecomment-1771733187)\n- [1 thumbs downs](https://github.com/emqx/CocoaMQTT/issues/606#issuecomment-2243666970)",
+    "image": "https://my-badges.github.io/my-badges/thumbs-down.png"
+  },
+  {
+    "id": "old-issue-1",
+    "tier": 1,
+    "desc": "I closed an issue that was open for a year",
+    "body": "Issues:\n\n- <a href=\"https://github.com/g8rswimmer/go-twitter/issues/51\">#51</a>: Drop me a line?\n- <a href=\"https://github.com/twitter/twurl/issues/166\">#166</a>: Support HTTP redirects",
+    "image": "https://my-badges.github.io/my-badges/old-issue-1.png"
+  },
+  {
+    "id": "old-issue-2",
+    "tier": 2,
+    "desc": "I closed an issue that was open for 2 years",
+    "body": "Issues:\n\n- <a href=\"https://github.com/BrightcoveOS/Diamond/issues/686\">#686</a>: Upgrade mqtt.py handler to Paho client\n- <a href=\"https://github.com/Twitter4J/Twitter4J/issues/343\">#343</a>: Plans for the next Twitter API\n- <a href=\"https://github.com/twitter/twurl/issues/155\">#155</a>: CLI usability improvements / modernization\n- <a href=\"https://github.com/mattdonnelly/Swifter/issues/308\">#308</a>: Support for the next Twitter API version\n- <a href=\"https://github.com/CoreTweet/CoreTweet/issues/183\">#183</a>: Thanks for adding v2 support!\n- <a href=\"https://github.com/micropython/micropython/issues/8417\">#8417</a>: `pyb.country` is missing from the documentation",
+    "image": "https://my-badges.github.io/my-badges/old-issue-2.png"
+  },
+  {
+    "id": "old-issue-3",
+    "tier": 3,
+    "desc": "I closed an issue that was open for 3 years",
+    "body": "Issues:\n\n- <a href=\"https://github.com/twitter/twurl/issues/139\">#139</a>: Create zsh completion script\n- <a href=\"https://github.com/twitter/twurl/issues/118\">#118</a>: Enable comments / labels in YAML .twurlrc",
+    "image": "https://my-badges.github.io/my-badges/old-issue-3.png"
+  },
+  {
+    "id": "old-issue-4",
+    "tier": 4,
+    "desc": "I closed an issue that was open for 4 years",
+    "body": "Issues:\n\n- <a href=\"https://github.com/zatosource/zato/issues/41\">#41</a>: OS X install",
+    "image": "https://my-badges.github.io/my-badges/old-issue-4.png"
+  },
+  {
+    "id": "old-issue-8",
+    "tier": 8,
+    "desc": "I closed an issue that was open for 8 years",
+    "body": "Issues:\n\n- <a href=\"https://github.com/twitter/twitter-text/issues/36\">#36</a>: Emojis in URLs",
+    "image": "https://my-badges.github.io/my-badges/old-issue-8.png"
+  },
+  {
+    "id": "polite-coder",
+    "tier": 0,
+    "desc": "I am a polite coder.",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/go-twitter/twitter/issues/1\">#1</a>: Thanks for starting work on this!\n- <a href=\"https://github.com/BnMcG/HomeAssistant-RoboVac/issues/14\">#14</a>: Several errors in the logs for HA 0.113.1\n- <a href=\"https://github.com/w00000dy/WLED-GUI/issues/10\">#10</a>: Consistent WLED Helper crash on reboot / autostart\n- <a href=\"https://github.com/AnaviTechnology/anavi-thermometer-sw/issues/47\">#47</a>: Migrate to LittleFS for ESP8266\n- <a href=\"https://github.com/makeronicc/makeroni/issues/2\">#2</a>: Needs CONTRIBUTORS & CODE-OF-CONDUCT\n\n And many more...",
+    "image": "https://my-badges.github.io/my-badges/polite-coder.png"
+  },
+  {
+    "id": "pr-collaboration-5",
+    "tier": 1,
+    "desc": "I have participated in pull requests with 5 or more people",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/spring-io/initializr/pull/4\">#4</a>: Cleanup for spring.io, update docs",
+    "image": "https://my-badges.github.io/my-badges/pr-collaboration-5.png"
+  },
+  {
+    "id": "pr-collaboration-10",
+    "tier": 2,
+    "desc": "I have participated in pull requests with 10 or more people",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/andypiper/postmarks/pull/1\">#1</a>: Sync updates from upstream",
+    "image": "https://my-badges.github.io/my-badges/pr-collaboration-10.png"
+  },
+  {
+    "id": "public-keys-1",
+    "tier": 1,
+    "desc": "I have one public key",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-1.png"
+  },
+  {
+    "id": "spooky-commit",
+    "tier": 0,
+    "desc": "I committed on the Halloween! Boo!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andypiper/Walldraw/commit/416e3dc1b5fdb2166c6d5ee6fdc726c7089e4c68\">416e3dc</a>\n- <a href=\"https://github.com/andypiper/my-glitch-in-bio/commit/b1482bcfeca3275b831e8f0b3c8c5e4643c69139\">b1482bc</a>\n- <a href=\"https://github.com/andypiper/my-glitch-in-bio/commit/b8d67452480ffb7ec9400d39e48429ed9d42ed70\">b8d6745</a>\n- <a href=\"https://github.com/andypiper/andypiper.github.io/commit/101ce31c362bc9c4f97df4c89b24813364bb54e1\">101ce31</a>",
+    "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
+  },
+  {
+    "id": "star-gazer",
+    "tier": 0,
+    "desc": "I'm a star gazer!",
+    "body": "I've starred over 1000 repositories!",
+    "image": "https://my-badges.github.io/my-badges/star-gazer.png"
+  },
+  {
+    "id": "stars-100",
+    "tier": 1,
+    "desc": "I collected 100 stars.",
+    "body": "Repos:\n\n* <a href=\"https://github.com/andypiper/mpy-rp2040-lcd\">andypiper/mpy-rp2040-lcd: ★6</a>\n* <a href=\"https://github.com/xdevplatform/openapi-generator\">xdevplatform/openapi-generator: ★5</a>\n* <a href=\"https://github.com/andypiper/rmq-mqtt-demo\">andypiper/rmq-mqtt-demo: ★5</a>\n* <a href=\"https://github.com/andypiper/Netatmo-Alexa\">andypiper/Netatmo-Alexa: ★5</a>\n* <a href=\"https://github.com/andypiper/my-glitch-in-bio\">andypiper/my-glitch-in-bio: ★5</a>\n* <a href=\"https://github.com/andypiper/TwitterDotNetCore\">andypiper/TwitterDotNetCore: ★4</a>\n* <a href=\"https://github.com/andypiper/karma\">andypiper/karma: ★4</a>\n* <a href=\"https://github.com/andypiper/twit-webhook-bot\">andypiper/twit-webhook-bot: ★3</a>\n* <a href=\"https://github.com/andypiper/twauth-web\">andypiper/twauth-web: ★3</a>\n* <a href=\"https://github.com/andypiper/pistate\">andypiper/pistate: ★3</a>\n* <a href=\"https://github.com/andypiper/mastodon-fosdem2024\">andypiper/mastodon-fosdem2024: ★3</a>\n* <a href=\"https://github.com/andypiper/ESP32-C3FH4-RGB\">andypiper/ESP32-C3FH4-RGB: ★3</a>\n* <a href=\"https://github.com/andypiper/andypiper\">andypiper/andypiper: ★3</a>\n* <a href=\"https://github.com/xdevplatform/hashtag-graph-viz\">xdevplatform/hashtag-graph-viz: ★2</a>\n* <a href=\"https://github.com/mcollina/mqtt-on-yun\">mcollina/mqtt-on-yun: ★2</a>\n* <a href=\"https://github.com/andypiper/qmk_firmware\">andypiper/qmk_firmware: ★2</a>\n* <a href=\"https://github.com/andypiper/postmarks-ext\">andypiper/postmarks-ext: ★2</a>\n* <a href=\"https://github.com/andypiper/emf-duckfacts\">andypiper/emf-duckfacts: ★2</a>\n* <a href=\"https://github.com/andypiper/CocoaMQTT\">andypiper/CocoaMQTT: ★2</a>\n* <a href=\"https://github.com/xdevplatform/cashtag-counts\">xdevplatform/cashtag-counts: ★1</a>\n* <a href=\"https://github.com/xdevplatform/aws-toolkit-recent-search\">xdevplatform/aws-toolkit-recent-search: ★1</a>\n* <a href=\"https://github.com/andypiper/yrs2012-site\">andypiper/yrs2012-site: ★1</a>\n* <a href=\"https://github.com/andypiper/wipeout-rewrite\">andypiper/wipeout-rewrite: ★1</a>\n* <a href=\"https://github.com/andypiper/webhooks\">andypiper/webhooks: ★1</a>\n* <a href=\"https://github.com/andypiper/UKBinCollectionData\">andypiper/UKBinCollectionData: ★1</a>\n* <a href=\"https://github.com/andypiper/training-kit\">andypiper/training-kit: ★1</a>\n* <a href=\"https://github.com/andypiper/Tildagon_IP_App\">andypiper/Tildagon_IP_App: ★1</a>\n* <a href=\"https://github.com/andypiper/thonny\">andypiper/thonny: ★1</a>\n* <a href=\"https://github.com/andypiper/stackypi-style\">andypiper/stackypi-style: ★1</a>\n* <a href=\"https://github.com/andypiper/sinatra-cf-twitter\">andypiper/sinatra-cf-twitter: ★1</a>\n* <a href=\"https://github.com/andypiper/sign_in_with_twitter_sample\">andypiper/sign_in_with_twitter_sample: ★1</a>\n* <a href=\"https://github.com/andypiper/scaredi-pi\">andypiper/scaredi-pi: ★1</a>\n* <a href=\"https://github.com/andypiper/pipes_ebooks\">andypiper/pipes_ebooks: ★1</a>\n* <a href=\"https://github.com/andypiper/oauth-dropins\">andypiper/oauth-dropins: ★1</a>\n* <a href=\"https://github.com/andypiper/nr-uthings\">andypiper/nr-uthings: ★1</a>\n* <a href=\"https://github.com/andypiper/NetworkMonitor\">andypiper/NetworkMonitor: ★1</a>\n* <a href=\"https://github.com/andypiper/mqtt_message_server\">andypiper/mqtt_message_server: ★1</a>\n* <a href=\"https://github.com/andypiper/mqttorg-dokuwiki\">andypiper/mqttorg-dokuwiki: ★1</a>\n* <a href=\"https://github.com/andypiper/MastoInky\">andypiper/MastoInky: ★1</a>\n* <a href=\"https://github.com/andypiper/marvellous\">andypiper/marvellous: ★1</a>\n* <a href=\"https://github.com/andypiper/Inkscape-Plugin\">andypiper/Inkscape-Plugin: ★1</a>\n* <a href=\"https://github.com/andypiper/hubot-cf\">andypiper/hubot-cf: ★1</a>\n* <a href=\"https://github.com/andypiper/fsc_flogr\">andypiper/fsc_flogr: ★1</a>\n* <a href=\"https://github.com/andypiper/forgeandcraft-site\">andypiper/forgeandcraft-site: ★1</a>\n* <a href=\"https://github.com/andypiper/flickr-export-organizer\">andypiper/flickr-export-organizer: ★1</a>\n* <a href=\"https://github.com/andypiper/fedidevs.org\">andypiper/fedidevs.org: ★1</a>\n* <a href=\"https://github.com/andypiper/emf-duckfacts-tildagon\">andypiper/emf-duckfacts-tildagon: ★1</a>\n* <a href=\"https://github.com/andypiper/Dotfiles\">andypiper/Dotfiles: ★1</a>\n* <a href=\"https://github.com/andypiper/DMArchiver\">andypiper/DMArchiver: ★1</a>\n* <a href=\"https://github.com/andypiper/cards-demos\">andypiper/cards-demos: ★1</a>\n* <a href=\"https://github.com/andypiper/bucket-list\">andypiper/bucket-list: ★1</a>\n* <a href=\"https://github.com/andypiper/brachiograph-converter-gui\">andypiper/brachiograph-converter-gui: ★1</a>\n* <a href=\"https://github.com/andypiper/badge-2024-app-store\">andypiper/badge-2024-app-store: ★1</a>\n* <a href=\"https://github.com/andypiper/awesome-micropython\">andypiper/awesome-micropython: ★1</a>\n* <a href=\"https://github.com/andypiper/awesome-fediverse\">andypiper/awesome-fediverse: ★1</a>\n* <a href=\"https://github.com/andypiper/authinvi\">andypiper/authinvi: ★1</a>\n* <a href=\"https://github.com/andypiper/3d-modelling\">andypiper/3d-modelling: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "image": "https://my-badges.github.io/my-badges/stars-100.png"
+  },
+  {
+    "id": "stars-500",
+    "tier": 2,
+    "desc": "I collected 500 stars.",
+    "body": "Repos:\n\n* <a href=\"https://github.com/xdevplatform/twitter-webhook-boilerplate-node\">xdevplatform/twitter-webhook-boilerplate-node: ★72</a>\n* <a href=\"https://github.com/andypiper/awesome-modern-twitter-api\">andypiper/awesome-modern-twitter-api: ★72</a>\n* <a href=\"https://github.com/andypiper/fivebyfive\">andypiper/fivebyfive: ★38</a>\n* <a href=\"https://github.com/xdevplatform/spotatweet\">xdevplatform/spotatweet: ★32</a>\n* <a href=\"https://github.com/xdevplatform/Gnip-Insights-Interface\">xdevplatform/Gnip-Insights-Interface: ★31</a>\n* <a href=\"https://github.com/andypiper/spring-int-mqtt\">andypiper/spring-int-mqtt: ★30</a>\n* <a href=\"https://github.com/xdevplatform/labs-sample-code\">xdevplatform/labs-sample-code: ★25</a>\n* <a href=\"https://github.com/xdevplatform/extract-usernames-from-tweet-replies\">xdevplatform/extract-usernames-from-tweet-replies: ★25</a>\n* <a href=\"https://github.com/andypiper/mastodon-embeds-examples\">andypiper/mastodon-embeds-examples: ★18</a>\n* <a href=\"https://github.com/xdevplatform/account-activity-dashboard-enterprise\">xdevplatform/account-activity-dashboard-enterprise: ★17</a>\n* <a href=\"https://github.com/joshlong-attic/spring-integration-mqtt\">joshlong-attic/spring-integration-mqtt: ★17</a>\n* <a href=\"https://github.com/xdevplatform/enterprise-scripts-python\">xdevplatform/enterprise-scripts-python: ★16</a>\n* <a href=\"https://github.com/andypiper/mqtt-chat\">andypiper/mqtt-chat: ★14</a>\n* <a href=\"https://github.com/andypiper/DevTerm-KB\">andypiper/DevTerm-KB: ★14</a>\n* <a href=\"https://github.com/ccattuto/wordle-device\">ccattuto/wordle-device: ★9</a>\n* <a href=\"https://github.com/andypiper/ada-macropad\">andypiper/ada-macropad: ★8</a>\n* <a href=\"https://github.com/andypiper/sinatra-static-web\">andypiper/sinatra-static-web: ★7</a>\n* <a href=\"https://github.com/andypiper/rs40rgb-keeb\">andypiper/rs40rgb-keeb: ★7</a>\n* <a href=\"https://github.com/mastodon/.github\">mastodon/.github: ★6</a>\n* <a href=\"https://github.com/andypiper/picow-enviroplus\">andypiper/picow-enviroplus: ★6</a>\n* <a href=\"https://github.com/andypiper/mpy-rp2040-lcd\">andypiper/mpy-rp2040-lcd: ★6</a>\n* <a href=\"https://github.com/xdevplatform/openapi-generator\">xdevplatform/openapi-generator: ★5</a>\n* <a href=\"https://github.com/andypiper/rmq-mqtt-demo\">andypiper/rmq-mqtt-demo: ★5</a>\n* <a href=\"https://github.com/andypiper/Netatmo-Alexa\">andypiper/Netatmo-Alexa: ★5</a>\n* <a href=\"https://github.com/andypiper/my-glitch-in-bio\">andypiper/my-glitch-in-bio: ★5</a>\n* <a href=\"https://github.com/andypiper/TwitterDotNetCore\">andypiper/TwitterDotNetCore: ★4</a>\n* <a href=\"https://github.com/andypiper/karma\">andypiper/karma: ★4</a>\n* <a href=\"https://github.com/andypiper/twit-webhook-bot\">andypiper/twit-webhook-bot: ★3</a>\n* <a href=\"https://github.com/andypiper/twauth-web\">andypiper/twauth-web: ★3</a>\n* <a href=\"https://github.com/andypiper/pistate\">andypiper/pistate: ★3</a>\n* <a href=\"https://github.com/andypiper/mastodon-fosdem2024\">andypiper/mastodon-fosdem2024: ★3</a>\n* <a href=\"https://github.com/andypiper/ESP32-C3FH4-RGB\">andypiper/ESP32-C3FH4-RGB: ★3</a>\n* <a href=\"https://github.com/andypiper/andypiper\">andypiper/andypiper: ★3</a>\n* <a href=\"https://github.com/xdevplatform/hashtag-graph-viz\">xdevplatform/hashtag-graph-viz: ★2</a>\n* <a href=\"https://github.com/mcollina/mqtt-on-yun\">mcollina/mqtt-on-yun: ★2</a>\n* <a href=\"https://github.com/andypiper/qmk_firmware\">andypiper/qmk_firmware: ★2</a>\n* <a href=\"https://github.com/andypiper/postmarks-ext\">andypiper/postmarks-ext: ★2</a>\n* <a href=\"https://github.com/andypiper/emf-duckfacts\">andypiper/emf-duckfacts: ★2</a>\n* <a href=\"https://github.com/andypiper/CocoaMQTT\">andypiper/CocoaMQTT: ★2</a>\n* <a href=\"https://github.com/xdevplatform/cashtag-counts\">xdevplatform/cashtag-counts: ★1</a>\n* <a href=\"https://github.com/xdevplatform/aws-toolkit-recent-search\">xdevplatform/aws-toolkit-recent-search: ★1</a>\n* <a href=\"https://github.com/andypiper/yrs2012-site\">andypiper/yrs2012-site: ★1</a>\n* <a href=\"https://github.com/andypiper/wipeout-rewrite\">andypiper/wipeout-rewrite: ★1</a>\n* <a href=\"https://github.com/andypiper/webhooks\">andypiper/webhooks: ★1</a>\n* <a href=\"https://github.com/andypiper/UKBinCollectionData\">andypiper/UKBinCollectionData: ★1</a>\n* <a href=\"https://github.com/andypiper/training-kit\">andypiper/training-kit: ★1</a>\n* <a href=\"https://github.com/andypiper/Tildagon_IP_App\">andypiper/Tildagon_IP_App: ★1</a>\n* <a href=\"https://github.com/andypiper/thonny\">andypiper/thonny: ★1</a>\n* <a href=\"https://github.com/andypiper/stackypi-style\">andypiper/stackypi-style: ★1</a>\n* <a href=\"https://github.com/andypiper/sinatra-cf-twitter\">andypiper/sinatra-cf-twitter: ★1</a>\n* <a href=\"https://github.com/andypiper/sign_in_with_twitter_sample\">andypiper/sign_in_with_twitter_sample: ★1</a>\n* <a href=\"https://github.com/andypiper/scaredi-pi\">andypiper/scaredi-pi: ★1</a>\n* <a href=\"https://github.com/andypiper/pipes_ebooks\">andypiper/pipes_ebooks: ★1</a>\n* <a href=\"https://github.com/andypiper/oauth-dropins\">andypiper/oauth-dropins: ★1</a>\n* <a href=\"https://github.com/andypiper/nr-uthings\">andypiper/nr-uthings: ★1</a>\n* <a href=\"https://github.com/andypiper/NetworkMonitor\">andypiper/NetworkMonitor: ★1</a>\n* <a href=\"https://github.com/andypiper/mqtt_message_server\">andypiper/mqtt_message_server: ★1</a>\n* <a href=\"https://github.com/andypiper/mqttorg-dokuwiki\">andypiper/mqttorg-dokuwiki: ★1</a>\n* <a href=\"https://github.com/andypiper/MastoInky\">andypiper/MastoInky: ★1</a>\n* <a href=\"https://github.com/andypiper/marvellous\">andypiper/marvellous: ★1</a>\n* <a href=\"https://github.com/andypiper/Inkscape-Plugin\">andypiper/Inkscape-Plugin: ★1</a>\n* <a href=\"https://github.com/andypiper/hubot-cf\">andypiper/hubot-cf: ★1</a>\n* <a href=\"https://github.com/andypiper/fsc_flogr\">andypiper/fsc_flogr: ★1</a>\n* <a href=\"https://github.com/andypiper/forgeandcraft-site\">andypiper/forgeandcraft-site: ★1</a>\n* <a href=\"https://github.com/andypiper/flickr-export-organizer\">andypiper/flickr-export-organizer: ★1</a>\n* <a href=\"https://github.com/andypiper/fedidevs.org\">andypiper/fedidevs.org: ★1</a>\n* <a href=\"https://github.com/andypiper/emf-duckfacts-tildagon\">andypiper/emf-duckfacts-tildagon: ★1</a>\n* <a href=\"https://github.com/andypiper/Dotfiles\">andypiper/Dotfiles: ★1</a>\n* <a href=\"https://github.com/andypiper/DMArchiver\">andypiper/DMArchiver: ★1</a>\n* <a href=\"https://github.com/andypiper/cards-demos\">andypiper/cards-demos: ★1</a>\n* <a href=\"https://github.com/andypiper/bucket-list\">andypiper/bucket-list: ★1</a>\n* <a href=\"https://github.com/andypiper/brachiograph-converter-gui\">andypiper/brachiograph-converter-gui: ★1</a>\n* <a href=\"https://github.com/andypiper/badge-2024-app-store\">andypiper/badge-2024-app-store: ★1</a>\n* <a href=\"https://github.com/andypiper/awesome-micropython\">andypiper/awesome-micropython: ★1</a>\n* <a href=\"https://github.com/andypiper/awesome-fediverse\">andypiper/awesome-fediverse: ★1</a>\n* <a href=\"https://github.com/andypiper/authinvi\">andypiper/authinvi: ★1</a>\n* <a href=\"https://github.com/andypiper/3d-modelling\">andypiper/3d-modelling: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "image": "https://my-badges.github.io/my-badges/stars-500.png"
+  },
+  {
+    "id": "stars-1000",
+    "tier": 3,
+    "desc": "I collected 1000 stars.",
+    "body": "Repos:\n\n* <a href=\"https://github.com/ckolderup/postmarks\">ckolderup/postmarks: ★466</a>\n* <a href=\"https://github.com/xdevplatform/account-activity-dashboard\">xdevplatform/account-activity-dashboard: ★170</a>\n* <a href=\"https://github.com/xdevplatform/autohook\">xdevplatform/autohook: ★152</a>\n* <a href=\"https://github.com/xdevplatform/SnowBotDev\">xdevplatform/SnowBotDev: ★79</a>\n* <a href=\"https://github.com/xdevplatform/twitter-webhook-boilerplate-node\">xdevplatform/twitter-webhook-boilerplate-node: ★72</a>\n* <a href=\"https://github.com/andypiper/awesome-modern-twitter-api\">andypiper/awesome-modern-twitter-api: ★72</a>\n* <a href=\"https://github.com/andypiper/fivebyfive\">andypiper/fivebyfive: ★38</a>\n* <a href=\"https://github.com/xdevplatform/spotatweet\">xdevplatform/spotatweet: ★32</a>\n* <a href=\"https://github.com/xdevplatform/Gnip-Insights-Interface\">xdevplatform/Gnip-Insights-Interface: ★31</a>\n* <a href=\"https://github.com/andypiper/spring-int-mqtt\">andypiper/spring-int-mqtt: ★30</a>\n* <a href=\"https://github.com/xdevplatform/labs-sample-code\">xdevplatform/labs-sample-code: ★25</a>\n* <a href=\"https://github.com/xdevplatform/extract-usernames-from-tweet-replies\">xdevplatform/extract-usernames-from-tweet-replies: ★25</a>\n* <a href=\"https://github.com/andypiper/mastodon-embeds-examples\">andypiper/mastodon-embeds-examples: ★18</a>\n* <a href=\"https://github.com/xdevplatform/account-activity-dashboard-enterprise\">xdevplatform/account-activity-dashboard-enterprise: ★17</a>\n* <a href=\"https://github.com/joshlong-attic/spring-integration-mqtt\">joshlong-attic/spring-integration-mqtt: ★17</a>\n* <a href=\"https://github.com/xdevplatform/enterprise-scripts-python\">xdevplatform/enterprise-scripts-python: ★16</a>\n* <a href=\"https://github.com/andypiper/mqtt-chat\">andypiper/mqtt-chat: ★14</a>\n* <a href=\"https://github.com/andypiper/DevTerm-KB\">andypiper/DevTerm-KB: ★14</a>\n* <a href=\"https://github.com/ccattuto/wordle-device\">ccattuto/wordle-device: ★9</a>\n* <a href=\"https://github.com/andypiper/ada-macropad\">andypiper/ada-macropad: ★8</a>\n* <a href=\"https://github.com/andypiper/sinatra-static-web\">andypiper/sinatra-static-web: ★7</a>\n* <a href=\"https://github.com/andypiper/rs40rgb-keeb\">andypiper/rs40rgb-keeb: ★7</a>\n* <a href=\"https://github.com/mastodon/.github\">mastodon/.github: ★6</a>\n* <a href=\"https://github.com/andypiper/picow-enviroplus\">andypiper/picow-enviroplus: ★6</a>\n* <a href=\"https://github.com/andypiper/mpy-rp2040-lcd\">andypiper/mpy-rp2040-lcd: ★6</a>\n* <a href=\"https://github.com/xdevplatform/openapi-generator\">xdevplatform/openapi-generator: ★5</a>\n* <a href=\"https://github.com/andypiper/rmq-mqtt-demo\">andypiper/rmq-mqtt-demo: ★5</a>\n* <a href=\"https://github.com/andypiper/Netatmo-Alexa\">andypiper/Netatmo-Alexa: ★5</a>\n* <a href=\"https://github.com/andypiper/my-glitch-in-bio\">andypiper/my-glitch-in-bio: ★5</a>\n* <a href=\"https://github.com/andypiper/TwitterDotNetCore\">andypiper/TwitterDotNetCore: ★4</a>\n* <a href=\"https://github.com/andypiper/karma\">andypiper/karma: ★4</a>\n* <a href=\"https://github.com/andypiper/twit-webhook-bot\">andypiper/twit-webhook-bot: ★3</a>\n* <a href=\"https://github.com/andypiper/twauth-web\">andypiper/twauth-web: ★3</a>\n* <a href=\"https://github.com/andypiper/pistate\">andypiper/pistate: ★3</a>\n* <a href=\"https://github.com/andypiper/mastodon-fosdem2024\">andypiper/mastodon-fosdem2024: ★3</a>\n* <a href=\"https://github.com/andypiper/ESP32-C3FH4-RGB\">andypiper/ESP32-C3FH4-RGB: ★3</a>\n* <a href=\"https://github.com/andypiper/andypiper\">andypiper/andypiper: ★3</a>\n* <a href=\"https://github.com/xdevplatform/hashtag-graph-viz\">xdevplatform/hashtag-graph-viz: ★2</a>\n* <a href=\"https://github.com/mcollina/mqtt-on-yun\">mcollina/mqtt-on-yun: ★2</a>\n* <a href=\"https://github.com/andypiper/qmk_firmware\">andypiper/qmk_firmware: ★2</a>\n* <a href=\"https://github.com/andypiper/postmarks-ext\">andypiper/postmarks-ext: ★2</a>\n* <a href=\"https://github.com/andypiper/emf-duckfacts\">andypiper/emf-duckfacts: ★2</a>\n* <a href=\"https://github.com/andypiper/CocoaMQTT\">andypiper/CocoaMQTT: ★2</a>\n* <a href=\"https://github.com/xdevplatform/cashtag-counts\">xdevplatform/cashtag-counts: ★1</a>\n* <a href=\"https://github.com/xdevplatform/aws-toolkit-recent-search\">xdevplatform/aws-toolkit-recent-search: ★1</a>\n* <a href=\"https://github.com/andypiper/yrs2012-site\">andypiper/yrs2012-site: ★1</a>\n* <a href=\"https://github.com/andypiper/wipeout-rewrite\">andypiper/wipeout-rewrite: ★1</a>\n* <a href=\"https://github.com/andypiper/webhooks\">andypiper/webhooks: ★1</a>\n* <a href=\"https://github.com/andypiper/UKBinCollectionData\">andypiper/UKBinCollectionData: ★1</a>\n* <a href=\"https://github.com/andypiper/training-kit\">andypiper/training-kit: ★1</a>\n* <a href=\"https://github.com/andypiper/Tildagon_IP_App\">andypiper/Tildagon_IP_App: ★1</a>\n* <a href=\"https://github.com/andypiper/thonny\">andypiper/thonny: ★1</a>\n* <a href=\"https://github.com/andypiper/stackypi-style\">andypiper/stackypi-style: ★1</a>\n* <a href=\"https://github.com/andypiper/sinatra-cf-twitter\">andypiper/sinatra-cf-twitter: ★1</a>\n* <a href=\"https://github.com/andypiper/sign_in_with_twitter_sample\">andypiper/sign_in_with_twitter_sample: ★1</a>\n* <a href=\"https://github.com/andypiper/scaredi-pi\">andypiper/scaredi-pi: ★1</a>\n* <a href=\"https://github.com/andypiper/pipes_ebooks\">andypiper/pipes_ebooks: ★1</a>\n* <a href=\"https://github.com/andypiper/oauth-dropins\">andypiper/oauth-dropins: ★1</a>\n* <a href=\"https://github.com/andypiper/nr-uthings\">andypiper/nr-uthings: ★1</a>\n* <a href=\"https://github.com/andypiper/NetworkMonitor\">andypiper/NetworkMonitor: ★1</a>\n* <a href=\"https://github.com/andypiper/mqtt_message_server\">andypiper/mqtt_message_server: ★1</a>\n* <a href=\"https://github.com/andypiper/mqttorg-dokuwiki\">andypiper/mqttorg-dokuwiki: ★1</a>\n* <a href=\"https://github.com/andypiper/MastoInky\">andypiper/MastoInky: ★1</a>\n* <a href=\"https://github.com/andypiper/marvellous\">andypiper/marvellous: ★1</a>\n* <a href=\"https://github.com/andypiper/Inkscape-Plugin\">andypiper/Inkscape-Plugin: ★1</a>\n* <a href=\"https://github.com/andypiper/hubot-cf\">andypiper/hubot-cf: ★1</a>\n* <a href=\"https://github.com/andypiper/fsc_flogr\">andypiper/fsc_flogr: ★1</a>\n* <a href=\"https://github.com/andypiper/forgeandcraft-site\">andypiper/forgeandcraft-site: ★1</a>\n* <a href=\"https://github.com/andypiper/flickr-export-organizer\">andypiper/flickr-export-organizer: ★1</a>\n* <a href=\"https://github.com/andypiper/fedidevs.org\">andypiper/fedidevs.org: ★1</a>\n* <a href=\"https://github.com/andypiper/emf-duckfacts-tildagon\">andypiper/emf-duckfacts-tildagon: ★1</a>\n* <a href=\"https://github.com/andypiper/Dotfiles\">andypiper/Dotfiles: ★1</a>\n* <a href=\"https://github.com/andypiper/DMArchiver\">andypiper/DMArchiver: ★1</a>\n* <a href=\"https://github.com/andypiper/cards-demos\">andypiper/cards-demos: ★1</a>\n* <a href=\"https://github.com/andypiper/bucket-list\">andypiper/bucket-list: ★1</a>\n* <a href=\"https://github.com/andypiper/brachiograph-converter-gui\">andypiper/brachiograph-converter-gui: ★1</a>\n* <a href=\"https://github.com/andypiper/badge-2024-app-store\">andypiper/badge-2024-app-store: ★1</a>\n* <a href=\"https://github.com/andypiper/awesome-micropython\">andypiper/awesome-micropython: ★1</a>\n* <a href=\"https://github.com/andypiper/awesome-fediverse\">andypiper/awesome-fediverse: ★1</a>\n* <a href=\"https://github.com/andypiper/authinvi\">andypiper/authinvi: ★1</a>\n* <a href=\"https://github.com/andypiper/3d-modelling\">andypiper/3d-modelling: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "image": "https://my-badges.github.io/my-badges/stars-1000.png"
+  },
+  {
+    "id": "the-ultimate-question",
+    "tier": 0,
+    "desc": "I found the answer to the ultimate question of life, the universe, and everything!",
+    "body": "- <a href=\"https://github.com/DFRobot/uPyCraft/issues/42\">#42</a>\n- <a href=\"https://github.com/clockworkpi/DevTerm/issues/42\">#42</a>\n- <a href=\"https://github.com/BasixKOR/awesome-activitypub/issues/42\">#42</a>",
+    "image": "https://my-badges.github.io/my-badges/the-ultimate-question.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andypiper/awesome-modern-twitter-api/commit/a7fc760f116cf76a4c1f5242a8c2a578453a9138\">a7fc760</a>\n- <a href=\"https://github.com/andypiper/cards-demos/commit/8684863c53df6686ef55443cceaa07c69e7ee2df\">8684863</a>\n- <a href=\"https://github.com/andypiper/sinatra-static-web/commit/8684863c53df6686ef55443cceaa07c69e7ee2df\">8684863</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andypiper/handy-scripts/commit/bd770c18f11d7586710bce1fbf7c79e905e3482a\">bd770c1</a>\n- <a href=\"https://github.com/andypiper/blog/commit/3c67c94f846954e705328b31195ff450d8170946\">3c67c94</a>\n- <a href=\"https://github.com/andypiper/forgeandcraft-site/commit/f3d373757cd8c06e016cea1ace37cebc4a879662\">f3d3737</a>\n- <a href=\"https://github.com/andypiper/forgeandcraft-site/commit/c0886c8bdb37afecc2d7b21e00be4ba7ac34802f\">c0886c8</a>\n- <a href=\"https://github.com/andypiper/forgeandcraft-site/commit/664178eadbd65b19f6b410c55c1f7f2255b473e8\">664178e</a>\n- <a href=\"https://github.com/andypiper/ada-macropad/commit/d5b1c9ee0278da01bc78bf0c66f78c24ff0a7314\">d5b1c9e</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  },
+  {
+    "id": "midnight-commits",
+    "tier": 0,
+    "desc": "I commit at midnight.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andypiper/fivebyfive/commit/2624f481495db10e188d6f7f68420d1a7602a9f8\">2624f48</a>\n- <a href=\"https://github.com/andypiper/fivebyfive/commit/ee1898c7e94e8d631e329d411c78abad93471d06\">ee1898c</a>\n- <a href=\"https://github.com/andypiper/fivebyfive/commit/fcc313a17dd60e4eca2783c00a135f4a6228eb61\">fcc313a</a>\n- <a href=\"https://github.com/andypiper/fivebyfive/commit/a1c1a3206163d4291a906f15b7311a475ce484b3\">a1c1a32</a>\n- <a href=\"https://github.com/andypiper/explore/commit/f63fc452df4648524af157235c7229e710eb8842\">f63fc45</a>\n- <a href=\"https://github.com/andypiper/hubot-cf/commit/5a203085a5b4642f664eb1264236efb955d12d04\">5a20308</a>",
+    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  }
+]
