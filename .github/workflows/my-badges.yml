@@ -1,4 +1,4 @@
-name: my-badges
+name: Update readme with additional badges.
 
 on:
   workflow_dispatch:
