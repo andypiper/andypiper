@@ -222,5 +222,19 @@
     "desc": "I commit at midnight.",
     "body": "Commits:\n\n- <a href=\"https://github.com/andypiper/fivebyfive/commit/2624f481495db10e188d6f7f68420d1a7602a9f8\">2624f48</a>\n- <a href=\"https://github.com/andypiper/fivebyfive/commit/ee1898c7e94e8d631e329d411c78abad93471d06\">ee1898c</a>\n- <a href=\"https://github.com/andypiper/fivebyfive/commit/fcc313a17dd60e4eca2783c00a135f4a6228eb61\">fcc313a</a>\n- <a href=\"https://github.com/andypiper/fivebyfive/commit/a1c1a3206163d4291a906f15b7311a475ce484b3\">a1c1a32</a>\n- <a href=\"https://github.com/andypiper/explore/commit/f63fc452df4648524af157235c7229e710eb8842\">f63fc45</a>\n- <a href=\"https://github.com/andypiper/hubot-cf/commit/5a203085a5b4642f664eb1264236efb955d12d04\">5a20308</a>",
     "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  },
+  {
+    "id": "thumbs-down-10",
+    "tier": 1,
+    "desc": "I got more than 10 thumbs down.",
+    "body": "* <a href=\"https://github.com/mastodon/mastodon/pull/30091#issuecomment-2231106261\">20 👎</a>",
+    "image": "https://my-badges.github.io/my-badges/thumbs-down-10.png"
+  },
+  {
+    "id": "thumbs-up-10",
+    "tier": 1,
+    "desc": "I got more than 10 thumbs up.",
+    "body": "* <a href=\"https://github.com/Twitter4J/Twitter4J/issues/343\">20 👍</a>\n* <a href=\"https://github.com/rom1504/img2dataset/issues/293#issuecomment-1519096115\">17 👍</a>\n* <a href=\"https://github.com/bigtreetech/PandaTouch/issues/27\">11 👍</a>",
+    "image": "https://my-badges.github.io/my-badges/thumbs-up-10.png"
   }
 ]
