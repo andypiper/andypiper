@@ -45,6 +45,7 @@ Repos:
 * <a href="https://github.com/andypiper/CocoaMQTT">andypiper/CocoaMQTT: ★2</a>
 * <a href="https://github.com/andypiper/qmk_firmware">andypiper/qmk_firmware: ★2</a>
 * <a href="https://github.com/xdevplatform/hashtag-graph-viz">xdevplatform/hashtag-graph-viz: ★2</a>
+* <a href="https://github.com/andypiper/awesome-micropython">andypiper/awesome-micropython: ★2</a>
 * <a href="https://github.com/andypiper/emf-duckfacts">andypiper/emf-duckfacts: ★2</a>
 * <a href="https://github.com/andypiper/postmarks-ext">andypiper/postmarks-ext: ★2</a>
 * <a href="https://github.com/andypiper/sinatra-cf-twitter">andypiper/sinatra-cf-twitter: ★1</a>
@@ -68,7 +69,6 @@ Repos:
 * <a href="https://github.com/andypiper/nr-uthings">andypiper/nr-uthings: ★1</a>
 * <a href="https://github.com/andypiper/scaredi-pi">andypiper/scaredi-pi: ★1</a>
 * <a href="https://github.com/andypiper/stackypi-style">andypiper/stackypi-style: ★1</a>
-* <a href="https://github.com/andypiper/awesome-micropython">andypiper/awesome-micropython: ★1</a>
 * <a href="https://github.com/xdevplatform/aws-toolkit-recent-search">xdevplatform/aws-toolkit-recent-search: ★1</a>
 * <a href="https://github.com/andypiper/thonny">andypiper/thonny: ★1</a>
 * <a href="https://github.com/andypiper/3d-modelling">andypiper/3d-modelling: ★1</a>
