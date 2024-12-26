@@ -3,7 +3,7 @@
 <br><br>
 
 * <a href="https://github.com/Twitter4J/Twitter4J/issues/343">20 👍</a>
-* <a href="https://github.com/rom1504/img2dataset/issues/293#issuecomment-1519096115">17 👍</a>
+* <a href="https://github.com/rom1504/img2dataset/issues/293#issuecomment-1519096115">16 👍</a>
 * <a href="https://github.com/bigtreetech/PandaTouch/issues/27">11 👍</a>
 
 
