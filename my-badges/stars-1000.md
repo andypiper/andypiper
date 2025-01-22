@@ -19,7 +19,7 @@ Repos:
 * <a href="https://github.com/xdevplatform/account-activity-dashboard-enterprise">xdevplatform/account-activity-dashboard-enterprise: ★19</a>
 * <a href="https://github.com/andypiper/mastodon-embeds-examples">andypiper/mastodon-embeds-examples: ★19</a>
 * <a href="https://github.com/joshlong-attic/spring-integration-mqtt">joshlong-attic/spring-integration-mqtt: ★17</a>
-* <a href="https://github.com/xdevplatform/enterprise-scripts-python">xdevplatform/enterprise-scripts-python: ★16</a>
+* <a href="https://github.com/xdevplatform/enterprise-scripts-python">xdevplatform/enterprise-scripts-python: ★17</a>
 * <a href="https://github.com/andypiper/mqtt-chat">andypiper/mqtt-chat: ★14</a>
 * <a href="https://github.com/andypiper/DevTerm-KB">andypiper/DevTerm-KB: ★14</a>
 * <a href="https://github.com/ccattuto/wordle-device">ccattuto/wordle-device: ★9</a>
@@ -48,6 +48,7 @@ Repos:
 * <a href="https://github.com/andypiper/awesome-micropython">andypiper/awesome-micropython: ★2</a>
 * <a href="https://github.com/andypiper/emf-duckfacts">andypiper/emf-duckfacts: ★2</a>
 * <a href="https://github.com/andypiper/postmarks-ext">andypiper/postmarks-ext: ★2</a>
+* <a href="https://github.com/andypiper/theindiebeat-gnome-ext">andypiper/theindiebeat-gnome-ext: ★2</a>
 * <a href="https://github.com/andypiper/sinatra-cf-twitter">andypiper/sinatra-cf-twitter: ★1</a>
 * <a href="https://github.com/andypiper/fsc_flogr">andypiper/fsc_flogr: ★1</a>
 * <a href="https://github.com/andypiper/yrs2012-site">andypiper/yrs2012-site: ★1</a>

@@ -79,6 +79,6 @@ I'm a maker at [Forge & Craft](https://forgeandcraft.co.uk), and I attend and he
 <a href="my-badges/midnight-commits.md"><img src="https://my-badges.github.io/my-badges/midnight-commits.png" alt="I commit at midnight." title="I commit at midnight." width="64"></a>
 <a href="my-badges/thumbs-down-10.md"><img src="https://my-badges.github.io/my-badges/thumbs-down-10.png" alt="I got more than 10 thumbs down." title="I got more than 10 thumbs down." width="64"></a>
 <a href="my-badges/thumbs-up-10.md"><img src="https://my-badges.github.io/my-badges/thumbs-up-10.png" alt="I got more than 10 thumbs up." title="I got more than 10 thumbs up." width="64"></a>
-<a href="my-badges/self-star.md"><img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 3 my own repositories." title="I&apos;ve starred 3 my own repositories." width="64"></a>
+<a href="my-badges/self-star.md"><img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 4 my own repositories." title="I&apos;ve starred 4 my own repositories." width="64"></a>
 <!-- my-badges end -->
 
