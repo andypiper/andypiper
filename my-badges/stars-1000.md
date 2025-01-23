@@ -41,6 +41,7 @@ Repos:
 * <a href="https://github.com/andypiper/andypiper">andypiper/andypiper: ★3</a>
 * <a href="https://github.com/andypiper/ESP32-C3FH4-RGB">andypiper/ESP32-C3FH4-RGB: ★3</a>
 * <a href="https://github.com/andypiper/mastodon-fosdem2024">andypiper/mastodon-fosdem2024: ★3</a>
+* <a href="https://github.com/andypiper/theindiebeat-gnome-ext">andypiper/theindiebeat-gnome-ext: ★3</a>
 * <a href="https://github.com/mcollina/mqtt-on-yun">mcollina/mqtt-on-yun: ★2</a>
 * <a href="https://github.com/andypiper/CocoaMQTT">andypiper/CocoaMQTT: ★2</a>
 * <a href="https://github.com/andypiper/qmk_firmware">andypiper/qmk_firmware: ★2</a>
@@ -48,7 +49,6 @@ Repos:
 * <a href="https://github.com/andypiper/awesome-micropython">andypiper/awesome-micropython: ★2</a>
 * <a href="https://github.com/andypiper/emf-duckfacts">andypiper/emf-duckfacts: ★2</a>
 * <a href="https://github.com/andypiper/postmarks-ext">andypiper/postmarks-ext: ★2</a>
-* <a href="https://github.com/andypiper/theindiebeat-gnome-ext">andypiper/theindiebeat-gnome-ext: ★2</a>
 * <a href="https://github.com/andypiper/sinatra-cf-twitter">andypiper/sinatra-cf-twitter: ★1</a>
 * <a href="https://github.com/andypiper/fsc_flogr">andypiper/fsc_flogr: ★1</a>
 * <a href="https://github.com/andypiper/yrs2012-site">andypiper/yrs2012-site: ★1</a>
