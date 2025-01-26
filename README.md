@@ -12,11 +12,11 @@ I'm a maker at [Forge & Craft](https://forgeandcraft.co.uk), and I attend and he
 ### Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- :fountain_pen: [The Indie Beat on your (Linux) desktop](https://andypiper.co.uk/2025/01/25/the-indie-beat-on-your-linux-desktop/) - *2025-01-25*
 - :fountain_pen: [Re-evaluating where I am online](https://andypiper.co.uk/2025/01/24/re-evaluating-where-i-am-online/) - *2025-01-24*
 - :fountain_pen: [Finding affordable Air Quality sensors for FOSDEM](https://andypiper.co.uk/2024/12/30/finding-affordable-air-quality-sensors-for-fosdem/) - *2024-12-30*
 - :fountain_pen: [Building a Better Social Web](https://andypiper.co.uk/2024/12/24/building-a-better-social-web/) - *2024-12-24*
 - :fountain_pen: [Where is the Art?](https://andypiper.co.uk/2024/12/15/where-is-the-art/) - *2024-12-15*
-- :fountain_pen: [MQTT turns 25 – here’s how it has endured](https://andypiper.co.uk/2024/10/22/mqtt-turns-25-heres-how-it-has-endured/) - *2024-10-22*
 <!-- BLOG-POST-LIST:END -->
 
 ---
