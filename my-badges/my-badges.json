@@ -52,7 +52,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"signed-off-by:\".",
-    "body": "My favorite commit message words are:\n\n1. signed-off-by: (used 634 times)\n2. andy (used 631 times)\n3. piper (used 630 times)\n4. <andypiper@users.noreply.github.com> (used 630 times)\n5. update (used 303 times)",
+    "body": "My favorite commit message words are:\n\n1. signed-off-by: (used 636 times)\n2. andy (used 633 times)\n3. piper (used 632 times)\n4. <andypiper@users.noreply.github.com> (used 632 times)\n5. update (used 304 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -129,7 +129,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andypiper/theindiebeat-gnome-ext/commit/8b223c58cfa4115a8a7ba4a1ba672595e3cdcb39\">8b223c5</a>\n- <a href=\"https://github.com/andypiper/theindiebeat-gnome-ext/commit/b848f157078cd202e576ccfe4a1e51bf9001d598\">b848f15</a>\n- <a href=\"https://github.com/andypiper/theindiebeat-gnome-ext/commit/57692433e728ef50b79ff5aeaad745cd13cee927\">5769243</a>\n- <a href=\"https://github.com/andypiper/theindiebeat-gnome-ext/commit/dfe4bab09e299194b4c3c0cb2ec4cf0733b422a7\">dfe4bab</a>\n- <a href=\"https://github.com/andypiper/theindiebeat-gnome-ext/commit/81001a60b73fd4790a928983cbbfee25f939fbb6\">81001a6</a>\n- <a href=\"https://github.com/andypiper/theindiebeat-gnome-ext/commit/ef2408699c81b95ef871221311b5d9891e3273d3\">ef24086</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andypiper/theindiebeat-gnome-ext/commit/134d0169e76e28809843ae25151b5475a56979e6\">134d016</a>\n- <a href=\"https://github.com/andypiper/theindiebeat-gnome-ext/commit/8b223c58cfa4115a8a7ba4a1ba672595e3cdcb39\">8b223c5</a>\n- <a href=\"https://github.com/andypiper/theindiebeat-gnome-ext/commit/b848f157078cd202e576ccfe4a1e51bf9001d598\">b848f15</a>\n- <a href=\"https://github.com/andypiper/theindiebeat-gnome-ext/commit/57692433e728ef50b79ff5aeaad745cd13cee927\">5769243</a>\n- <a href=\"https://github.com/andypiper/theindiebeat-gnome-ext/commit/dfe4bab09e299194b4c3c0cb2ec4cf0733b422a7\">dfe4bab</a>\n- <a href=\"https://github.com/andypiper/theindiebeat-gnome-ext/commit/81001a60b73fd4790a928983cbbfee25f939fbb6\">81001a6</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
