@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/ckolderup/postmarks">ckolderup/postmarks: ★478</a>
+* <a href="https://github.com/ckolderup/postmarks">ckolderup/postmarks: ★479</a>
 * <a href="https://github.com/xdevplatform/account-activity-dashboard">xdevplatform/account-activity-dashboard: ★171</a>
 * <a href="https://github.com/xdevplatform/autohook">xdevplatform/autohook: ★153</a>
 * <a href="https://github.com/xdevplatform/SnowBotDev">xdevplatform/SnowBotDev: ★79</a>
@@ -18,8 +18,8 @@ Repos:
 * <a href="https://github.com/xdevplatform/extract-usernames-from-tweet-replies">xdevplatform/extract-usernames-from-tweet-replies: ★25</a>
 * <a href="https://github.com/andypiper/mastodon-embeds-examples">andypiper/mastodon-embeds-examples: ★21</a>
 * <a href="https://github.com/xdevplatform/account-activity-dashboard-enterprise">xdevplatform/account-activity-dashboard-enterprise: ★19</a>
+* <a href="https://github.com/xdevplatform/enterprise-scripts-python">xdevplatform/enterprise-scripts-python: ★18</a>
 * <a href="https://github.com/joshlong-attic/spring-integration-mqtt">joshlong-attic/spring-integration-mqtt: ★17</a>
-* <a href="https://github.com/xdevplatform/enterprise-scripts-python">xdevplatform/enterprise-scripts-python: ★17</a>
 * <a href="https://github.com/andypiper/mqtt-chat">andypiper/mqtt-chat: ★14</a>
 * <a href="https://github.com/andypiper/DevTerm-KB">andypiper/DevTerm-KB: ★14</a>
 * <a href="https://github.com/ccattuto/wordle-device">ccattuto/wordle-device: ★9</a>
@@ -44,6 +44,7 @@ Repos:
 * <a href="https://github.com/andypiper/mastodon-fosdem2024">andypiper/mastodon-fosdem2024: ★3</a>
 * <a href="https://github.com/mcollina/mqtt-on-yun">mcollina/mqtt-on-yun: ★2</a>
 * <a href="https://github.com/andypiper/CocoaMQTT">andypiper/CocoaMQTT: ★2</a>
+* <a href="https://github.com/xdevplatform/cashtag-counts">xdevplatform/cashtag-counts: ★2</a>
 * <a href="https://github.com/andypiper/qmk_firmware">andypiper/qmk_firmware: ★2</a>
 * <a href="https://github.com/xdevplatform/hashtag-graph-viz">xdevplatform/hashtag-graph-viz: ★2</a>
 * <a href="https://github.com/andypiper/awesome-micropython">andypiper/awesome-micropython: ★2</a>
@@ -66,7 +67,6 @@ Repos:
 * <a href="https://github.com/andypiper/training-kit">andypiper/training-kit: ★1</a>
 * <a href="https://github.com/andypiper/flickr-export-organizer">andypiper/flickr-export-organizer: ★1</a>
 * <a href="https://github.com/andypiper/authinvi">andypiper/authinvi: ★1</a>
-* <a href="https://github.com/xdevplatform/cashtag-counts">xdevplatform/cashtag-counts: ★1</a>
 * <a href="https://github.com/andypiper/nr-uthings">andypiper/nr-uthings: ★1</a>
 * <a href="https://github.com/andypiper/scaredi-pi">andypiper/scaredi-pi: ★1</a>
 * <a href="https://github.com/andypiper/stackypi-style">andypiper/stackypi-style: ★1</a>
