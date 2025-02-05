@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/ckolderup/postmarks">ckolderup/postmarks: ★482</a>
+* <a href="https://github.com/ckolderup/postmarks">ckolderup/postmarks: ★483</a>
 * <a href="https://github.com/xdevplatform/account-activity-dashboard">xdevplatform/account-activity-dashboard: ★171</a>
 * <a href="https://github.com/xdevplatform/autohook">xdevplatform/autohook: ★153</a>
 * <a href="https://github.com/xdevplatform/SnowBotDev">xdevplatform/SnowBotDev: ★79</a>
