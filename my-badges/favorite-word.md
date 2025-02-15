@@ -8,7 +8,7 @@ My favorite commit message words are:
 2. andy (used 645 times)
 3. piper (used 644 times)
 4. <andypiper@users.noreply.github.com> (used 644 times)
-5. update (used 319 times)
+5. update (used 320 times)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
