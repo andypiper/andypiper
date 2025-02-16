@@ -36,6 +36,7 @@ Repos:
 * <a href="https://github.com/andypiper/karma">andypiper/karma: ★4</a>
 * <a href="https://github.com/andypiper/TwitterDotNetCore">andypiper/TwitterDotNetCore: ★4</a>
 * <a href="https://github.com/andypiper/theindiebeat-gnome-ext">andypiper/theindiebeat-gnome-ext: ★4</a>
+* <a href="https://github.com/mastodon/specs-background">mastodon/specs-background: ★4</a>
 * <a href="https://github.com/andypiper/pistate">andypiper/pistate: ★3</a>
 * <a href="https://github.com/andypiper/twauth-web">andypiper/twauth-web: ★3</a>
 * <a href="https://github.com/andypiper/twit-webhook-bot">andypiper/twit-webhook-bot: ★3</a>
@@ -86,7 +87,6 @@ Repos:
 * <a href="https://github.com/andypiper/Tildagon_IP_App">andypiper/Tildagon_IP_App: ★1</a>
 * <a href="https://github.com/andypiper/emf-duckfacts-tildagon">andypiper/emf-duckfacts-tildagon: ★1</a>
 * <a href="https://github.com/andypiper/oauth-dropins">andypiper/oauth-dropins: ★1</a>
-* <a href="https://github.com/mastodon/specs-background">mastodon/specs-background: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
