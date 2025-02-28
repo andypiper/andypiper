@@ -10,7 +10,7 @@ Repos:
 * <a href="https://github.com/andypiper/awesome-modern-twitter-api">andypiper/awesome-modern-twitter-api: ★74</a>
 * <a href="https://github.com/xdevplatform/twitter-webhook-boilerplate-node">xdevplatform/twitter-webhook-boilerplate-node: ★72</a>
 * <a href="https://github.com/andypiper/fivebyfive">andypiper/fivebyfive: ★39</a>
-* <a href="https://github.com/xdevplatform/spotatweet">xdevplatform/spotatweet: ★32</a>
+* <a href="https://github.com/xdevplatform/spotatweet">xdevplatform/spotatweet: ★33</a>
 * <a href="https://github.com/xdevplatform/Gnip-Insights-Interface">xdevplatform/Gnip-Insights-Interface: ★31</a>
 * <a href="https://github.com/andypiper/spring-int-mqtt">andypiper/spring-int-mqtt: ★30</a>
 * <a href="https://github.com/xdevplatform/labs-sample-code">xdevplatform/labs-sample-code: ★25</a>
