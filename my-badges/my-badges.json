@@ -52,7 +52,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"signed-off-by:\".",
-    "body": "My favorite commit message words are:\n\n1. signed-off-by: (used 650 times)\n2. andy (used 647 times)\n3. piper (used 646 times)\n4. <andypiper@users.noreply.github.com> (used 646 times)\n5. update (used 320 times)",
+    "body": "My favorite commit message words are:\n\n1. signed-off-by: (used 650 times)\n2. andy (used 647 times)\n3. piper (used 646 times)\n4. <andypiper@users.noreply.github.com> (used 646 times)\n5. update (used 321 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -166,5 +166,12 @@
     "desc": "I committed on Friday the 13th, One… By One…",
     "body": "Commits:\n\n- <a href=\"https://github.com/andypiper/iterm-twitter-info/commit/ff52b5d8962699f53757f53eadefd46f417ed6ba\">ff52b5d</a>\n- <a href=\"https://github.com/andypiper/iterm-twitter-info/commit/94aed0af2904a5d1d53e8001d7f4187f81cbe2be\">94aed0a</a>\n- <a href=\"https://github.com/andypiper/Dotfiles/commit/acfcc14ecee35ab9beea26ce58389b085860292e\">acfcc14</a>",
     "image": "https://my-badges.github.io/my-badges/friday-13.png"
+  },
+  {
+    "id": "dead-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"dead\" once.",
+    "body": "- <a href=\"https://github.com/andypiper/andypiper/commit/dead4a2a7cf9873f952b75a906b636d10c7704a9\"><strong>dead</strong>4a2a7cf9873f952b75a906b636d10c7704a9</a>",
+    "image": "https://my-badges.github.io/my-badges/dead-commit.png"
   }
 ]
