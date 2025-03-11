@@ -4,19 +4,19 @@
 
 Repos:
 
-* <a href="https://github.com/xdevplatform/account-activity-dashboard">xdevplatform/account-activity-dashboard: ★172</a>
-* <a href="https://github.com/xdevplatform/autohook">xdevplatform/autohook: ★153</a>
-* <a href="https://github.com/xdevplatform/SnowBotDev">xdevplatform/SnowBotDev: ★79</a>
+* <a href="https://github.com/xdevplatform/account-activity-dashboard">xdevplatform/account-activity-dashboard: ★173</a>
+* <a href="https://github.com/xdevplatform/autohook">xdevplatform/autohook: ★154</a>
+* <a href="https://github.com/xdevplatform/SnowBotDev">xdevplatform/SnowBotDev: ★80</a>
 * <a href="https://github.com/andypiper/awesome-modern-twitter-api">andypiper/awesome-modern-twitter-api: ★74</a>
-* <a href="https://github.com/xdevplatform/twitter-webhook-boilerplate-node">xdevplatform/twitter-webhook-boilerplate-node: ★72</a>
+* <a href="https://github.com/xdevplatform/twitter-webhook-boilerplate-node">xdevplatform/twitter-webhook-boilerplate-node: ★73</a>
 * <a href="https://github.com/andypiper/fivebyfive">andypiper/fivebyfive: ★39</a>
-* <a href="https://github.com/xdevplatform/spotatweet">xdevplatform/spotatweet: ★33</a>
-* <a href="https://github.com/xdevplatform/Gnip-Insights-Interface">xdevplatform/Gnip-Insights-Interface: ★31</a>
+* <a href="https://github.com/xdevplatform/spotatweet">xdevplatform/spotatweet: ★34</a>
+* <a href="https://github.com/xdevplatform/Gnip-Insights-Interface">xdevplatform/Gnip-Insights-Interface: ★32</a>
 * <a href="https://github.com/andypiper/spring-int-mqtt">andypiper/spring-int-mqtt: ★30</a>
+* <a href="https://github.com/xdevplatform/extract-usernames-from-tweet-replies">xdevplatform/extract-usernames-from-tweet-replies: ★26</a>
 * <a href="https://github.com/xdevplatform/labs-sample-code">xdevplatform/labs-sample-code: ★25</a>
-* <a href="https://github.com/xdevplatform/extract-usernames-from-tweet-replies">xdevplatform/extract-usernames-from-tweet-replies: ★25</a>
 * <a href="https://github.com/andypiper/mastodon-embeds-examples">andypiper/mastodon-embeds-examples: ★21</a>
-* <a href="https://github.com/xdevplatform/account-activity-dashboard-enterprise">xdevplatform/account-activity-dashboard-enterprise: ★18</a>
+* <a href="https://github.com/xdevplatform/account-activity-dashboard-enterprise">xdevplatform/account-activity-dashboard-enterprise: ★19</a>
 * <a href="https://github.com/xdevplatform/enterprise-scripts-python">xdevplatform/enterprise-scripts-python: ★18</a>
 * <a href="https://github.com/joshlong-attic/spring-integration-mqtt">joshlong-attic/spring-integration-mqtt: ★17</a>
 * <a href="https://github.com/andypiper/mqtt-chat">andypiper/mqtt-chat: ★14</a>
@@ -25,13 +25,13 @@ Repos:
 * <a href="https://github.com/ccattuto/wordle-device">ccattuto/wordle-device: ★9</a>
 * <a href="https://github.com/andypiper/sinatra-static-web">andypiper/sinatra-static-web: ★7</a>
 * <a href="https://github.com/andypiper/rs40rgb-keeb">andypiper/rs40rgb-keeb: ★7</a>
+* <a href="https://github.com/xdevplatform/openapi-generator">xdevplatform/openapi-generator: ★6</a>
 * <a href="https://github.com/andypiper/my-glitch-in-bio">andypiper/my-glitch-in-bio: ★6</a>
 * <a href="https://github.com/andypiper/mpy-rp2040-lcd">andypiper/mpy-rp2040-lcd: ★6</a>
 * <a href="https://github.com/andypiper/picow-enviroplus">andypiper/picow-enviroplus: ★6</a>
 * <a href="https://github.com/mastodon/.github">mastodon/.github: ★6</a>
 * <a href="https://github.com/andypiper/rmq-mqtt-demo">andypiper/rmq-mqtt-demo: ★5</a>
 * <a href="https://github.com/andypiper/Netatmo-Alexa">andypiper/Netatmo-Alexa: ★5</a>
-* <a href="https://github.com/xdevplatform/openapi-generator">xdevplatform/openapi-generator: ★5</a>
 * <a href="https://github.com/mastodon/specs-background">mastodon/specs-background: ★5</a>
 * <a href="https://github.com/andypiper/karma">andypiper/karma: ★4</a>
 * <a href="https://github.com/andypiper/TwitterDotNetCore">andypiper/TwitterDotNetCore: ★4</a>
@@ -40,12 +40,12 @@ Repos:
 * <a href="https://github.com/andypiper/pistate">andypiper/pistate: ★3</a>
 * <a href="https://github.com/andypiper/twauth-web">andypiper/twauth-web: ★3</a>
 * <a href="https://github.com/andypiper/twit-webhook-bot">andypiper/twit-webhook-bot: ★3</a>
+* <a href="https://github.com/xdevplatform/hashtag-graph-viz">xdevplatform/hashtag-graph-viz: ★3</a>
 * <a href="https://github.com/andypiper/ESP32-C3FH4-RGB">andypiper/ESP32-C3FH4-RGB: ★3</a>
 * <a href="https://github.com/andypiper/mastodon-fosdem2024">andypiper/mastodon-fosdem2024: ★3</a>
 * <a href="https://github.com/mcollina/mqtt-on-yun">mcollina/mqtt-on-yun: ★2</a>
 * <a href="https://github.com/andypiper/CocoaMQTT">andypiper/CocoaMQTT: ★2</a>
 * <a href="https://github.com/andypiper/qmk_firmware">andypiper/qmk_firmware: ★2</a>
-* <a href="https://github.com/xdevplatform/hashtag-graph-viz">xdevplatform/hashtag-graph-viz: ★2</a>
 * <a href="https://github.com/andypiper/awesome-micropython">andypiper/awesome-micropython: ★2</a>
 * <a href="https://github.com/andypiper/emf-duckfacts">andypiper/emf-duckfacts: ★2</a>
 * <a href="https://github.com/andypiper/3d-modelling">andypiper/3d-modelling: ★2</a>
