@@ -52,7 +52,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"signed-off-by:\".",
-    "body": "My favorite commit message words are:\n\n1. signed-off-by: (used 666 times)\n2. andy (used 663 times)\n3. piper (used 662 times)\n4. <andypiper@users.noreply.github.com> (used 662 times)\n5. update (used 322 times)",
+    "body": "My favorite commit message words are:\n\n1. signed-off-by: (used 672 times)\n2. andy (used 669 times)\n3. piper (used 668 times)\n4. <andypiper@users.noreply.github.com> (used 668 times)\n5. update (used 322 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -129,7 +129,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andypiper/blog/commit/b74faf13ed53cf08b5cccdfb55c8e26b77f48992\">b74faf1</a>\n- <a href=\"https://github.com/andypiper/blog/commit/8f2132c134807cc5b7ccd8aa889871197aeaf7e4\">8f2132c</a>\n- <a href=\"https://github.com/andypiper/andypiper.github.io/commit/92812628c91c0158d4f86d42eb93b625b8d951d7\">9281262</a>\n- <a href=\"https://github.com/andypiper/andypiper.github.io/commit/8242e5961b776eaff1024362d6b16075082fb4ba\">8242e59</a>\n- <a href=\"https://github.com/mastodon/specs-background/commit/ea7832e10065d442f46bdc66ab03475cbcea72aa\">ea7832e</a>\n- <a href=\"https://github.com/mastodon/specs-background/commit/b43a45c059595c1f35bf8e641397924742ac54d2\">b43a45c</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andypiper/theindiebeat-gnome-ext/commit/7a5538cb9331d216f6bf73000974eafdb25e005d\">7a5538c</a>\n- <a href=\"https://github.com/andypiper/theindiebeat-gnome-ext/commit/a850a9c81ea3f238b48206c46937541565a6a14e\">a850a9c</a>\n- <a href=\"https://github.com/andypiper/blog/commit/b74faf13ed53cf08b5cccdfb55c8e26b77f48992\">b74faf1</a>\n- <a href=\"https://github.com/andypiper/blog/commit/8f2132c134807cc5b7ccd8aa889871197aeaf7e4\">8f2132c</a>\n- <a href=\"https://github.com/andypiper/andypiper.github.io/commit/92812628c91c0158d4f86d42eb93b625b8d951d7\">9281262</a>\n- <a href=\"https://github.com/andypiper/andypiper.github.io/commit/8242e5961b776eaff1024362d6b16075082fb4ba\">8242e59</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
