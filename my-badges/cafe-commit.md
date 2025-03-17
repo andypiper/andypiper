@@ -1,7 +1,8 @@
-<img src="https://my-badges.github.io/my-badges/cafe-commit.png" alt="I pushed a commit with &quot;cafe&quot; 5 times." title="I pushed a commit with &quot;cafe&quot; 5 times." width="128">
-<strong>I pushed a commit with &quot;cafe&quot; 5 times.</strong>
+<img src="https://my-badges.github.io/my-badges/cafe-commit.png" alt="I pushed a commit with &quot;cafe&quot; 6 times." title="I pushed a commit with &quot;cafe&quot; 6 times." width="128">
+<strong>I pushed a commit with &quot;cafe&quot; 6 times.</strong>
 <br><br>
 
+- <a href="https://github.com/andypiper/mastofs/commit/98b968069d5703ae4b40dbcafe760b3cb6d47b8a">98b968069d5703ae4b40db<strong>cafe</strong>760b3cb6d47b8a</a>
 - <a href="https://github.com/andypiper/blog/commit/9fc4e0fa2c81baf46547e86a24d02fadcafe1c3d">9fc4e0fa2c81baf46547e86a24d02fad<strong>cafe</strong>1c3d</a>
 - <a href="https://github.com/andypiper/blog/commit/bcafe6982dea614f1ff65c46948fcd66e3b5230d">b<strong>cafe</strong>6982dea614f1ff65c46948fcd66e3b5230d</a>
 - <a href="https://github.com/andypiper/stackypi-style/commit/2fd86a9294dd7467ec2780b29713e6cafe916a77">2fd86a9294dd7467ec2780b29713e6<strong>cafe</strong>916a77</a>
