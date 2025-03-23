@@ -5,7 +5,7 @@
 Repos:
 
 * <a href="https://github.com/xdevplatform/account-activity-dashboard">xdevplatform/account-activity-dashboard: ★173</a>
-* <a href="https://github.com/xdevplatform/autohook">xdevplatform/autohook: ★154</a>
+* <a href="https://github.com/xdevplatform/autohook">xdevplatform/autohook: ★155</a>
 * <a href="https://github.com/xdevplatform/SnowBotDev">xdevplatform/SnowBotDev: ★80</a>
 * <a href="https://github.com/andypiper/awesome-modern-twitter-api">andypiper/awesome-modern-twitter-api: ★74</a>
 * <a href="https://github.com/xdevplatform/twitter-webhook-boilerplate-node">xdevplatform/twitter-webhook-boilerplate-node: ★73</a>
@@ -15,16 +15,16 @@ Repos:
 * <a href="https://github.com/andypiper/spring-int-mqtt">andypiper/spring-int-mqtt: ★30</a>
 * <a href="https://github.com/xdevplatform/extract-usernames-from-tweet-replies">xdevplatform/extract-usernames-from-tweet-replies: ★27</a>
 * <a href="https://github.com/xdevplatform/labs-sample-code">xdevplatform/labs-sample-code: ★26</a>
+* <a href="https://github.com/xdevplatform/account-activity-dashboard-enterprise">xdevplatform/account-activity-dashboard-enterprise: ★21</a>
 * <a href="https://github.com/andypiper/mastodon-embeds-examples">andypiper/mastodon-embeds-examples: ★21</a>
-* <a href="https://github.com/xdevplatform/account-activity-dashboard-enterprise">xdevplatform/account-activity-dashboard-enterprise: ★20</a>
 * <a href="https://github.com/xdevplatform/enterprise-scripts-python">xdevplatform/enterprise-scripts-python: ★18</a>
 * <a href="https://github.com/joshlong-attic/spring-integration-mqtt">joshlong-attic/spring-integration-mqtt: ★17</a>
 * <a href="https://github.com/andypiper/mqtt-chat">andypiper/mqtt-chat: ★14</a>
 * <a href="https://github.com/andypiper/DevTerm-KB">andypiper/DevTerm-KB: ★14</a>
 * <a href="https://github.com/andypiper/ada-macropad">andypiper/ada-macropad: ★10</a>
 * <a href="https://github.com/ccattuto/wordle-device">ccattuto/wordle-device: ★9</a>
+* <a href="https://github.com/andypiper/rs40rgb-keeb">andypiper/rs40rgb-keeb: ★8</a>
 * <a href="https://github.com/andypiper/sinatra-static-web">andypiper/sinatra-static-web: ★7</a>
-* <a href="https://github.com/andypiper/rs40rgb-keeb">andypiper/rs40rgb-keeb: ★7</a>
 * <a href="https://github.com/xdevplatform/openapi-generator">xdevplatform/openapi-generator: ★6</a>
 * <a href="https://github.com/andypiper/my-glitch-in-bio">andypiper/my-glitch-in-bio: ★6</a>
 * <a href="https://github.com/andypiper/mpy-rp2040-lcd">andypiper/mpy-rp2040-lcd: ★6</a>
