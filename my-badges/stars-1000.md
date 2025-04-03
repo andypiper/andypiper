@@ -4,9 +4,9 @@
 
 Repos:
 
-* <a href="https://github.com/xdevplatform/account-activity-dashboard">xdevplatform/account-activity-dashboard: ★173</a>
-* <a href="https://github.com/xdevplatform/autohook">xdevplatform/autohook: ★155</a>
-* <a href="https://github.com/xdevplatform/SnowBotDev">xdevplatform/SnowBotDev: ★80</a>
+* <a href="https://github.com/xdevplatform/account-activity-dashboard">xdevplatform/account-activity-dashboard: ★174</a>
+* <a href="https://github.com/xdevplatform/autohook">xdevplatform/autohook: ★156</a>
+* <a href="https://github.com/xdevplatform/SnowBotDev">xdevplatform/SnowBotDev: ★81</a>
 * <a href="https://github.com/andypiper/awesome-modern-twitter-api">andypiper/awesome-modern-twitter-api: ★74</a>
 * <a href="https://github.com/xdevplatform/twitter-webhook-boilerplate-node">xdevplatform/twitter-webhook-boilerplate-node: ★73</a>
 * <a href="https://github.com/andypiper/fivebyfive">andypiper/fivebyfive: ★39</a>
