@@ -6,7 +6,7 @@ Repos:
 
 * <a href="https://github.com/xdevplatform/account-activity-dashboard">xdevplatform/account-activity-dashboard: ★174</a>
 * <a href="https://github.com/xdevplatform/autohook">xdevplatform/autohook: ★156</a>
-* <a href="https://github.com/xdevplatform/SnowBotDev">xdevplatform/SnowBotDev: ★81</a>
+* <a href="https://github.com/xdevplatform/SnowBotDev">xdevplatform/SnowBotDev: ★80</a>
 * <a href="https://github.com/andypiper/awesome-modern-twitter-api">andypiper/awesome-modern-twitter-api: ★74</a>
 * <a href="https://github.com/xdevplatform/twitter-webhook-boilerplate-node">xdevplatform/twitter-webhook-boilerplate-node: ★73</a>
 * <a href="https://github.com/andypiper/fivebyfive">andypiper/fivebyfive: ★39</a>
@@ -16,7 +16,7 @@ Repos:
 * <a href="https://github.com/xdevplatform/extract-usernames-from-tweet-replies">xdevplatform/extract-usernames-from-tweet-replies: ★27</a>
 * <a href="https://github.com/xdevplatform/labs-sample-code">xdevplatform/labs-sample-code: ★26</a>
 * <a href="https://github.com/xdevplatform/account-activity-dashboard-enterprise">xdevplatform/account-activity-dashboard-enterprise: ★21</a>
-* <a href="https://github.com/andypiper/mastodon-embeds-examples">andypiper/mastodon-embeds-examples: ★20</a>
+* <a href="https://github.com/andypiper/mastodon-embeds-examples">andypiper/mastodon-embeds-examples: ★19</a>
 * <a href="https://github.com/xdevplatform/enterprise-scripts-python">xdevplatform/enterprise-scripts-python: ★18</a>
 * <a href="https://github.com/joshlong-attic/spring-integration-mqtt">joshlong-attic/spring-integration-mqtt: ★17</a>
 * <a href="https://github.com/andypiper/mqtt-chat">andypiper/mqtt-chat: ★14</a>
