@@ -94,6 +94,7 @@ Repos:
 * <a href="https://github.com/andypiper/emf-duckfacts-tildagon">andypiper/emf-duckfacts-tildagon: ★1</a>
 * <a href="https://github.com/andypiper/oauth-dropins">andypiper/oauth-dropins: ★1</a>
 * <a href="https://github.com/andypiper/MastoShell">andypiper/MastoShell: ★1</a>
+* <a href="https://github.com/andypiper/mastofs">andypiper/mastofs: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
