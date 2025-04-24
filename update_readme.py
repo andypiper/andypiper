@@ -24,7 +24,7 @@ for entry in feed.entries[:max_posts]:
     pub_date = format_date(entry.published_parsed)  # Format the publication date
     # summary = entry.summary if hasattr(entry, "summary") else ""  # Extract the summary if available
     # Add the post with the title, publication date, and optionally the summary
-    latest_posts.append(f"- :fountain_pen: [{title}]({link}) - *{pub_date}*")
+    latest_posts.append(f"- 🖋 [{title}]({link}) - *{pub_date}*")
 
 with open("README.md", "r") as readme_file:
     readme_content = readme_file.readlines()
