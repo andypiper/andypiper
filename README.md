@@ -12,11 +12,11 @@ I'm a maker at [Forge & Craft](https://forgeandcraft.co.uk), and I attend and he
 ### Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- 🖋 [Heliocode](https://andypiper.co.uk/2025/04/28/heliocode/) - *2025-04-28*
+- 🖋 [NordVPN, Fedora 42, and iptables compatibility](https://andypiper.co.uk/2025/04/28/nordvpn-fedora-42-and-iptables-compatibility/) - *2025-04-28*
 - 🖋 [The Bootloader](https://andypiper.co.uk/2025/04/24/the-bootloader/) - *2025-04-24*
 - 🖋 [Pen plotters and the history of computer art](https://andypiper.co.uk/2025/04/17/pen-plotters-and-the-history-of-computer-art/) - *2025-04-17*
 - 🖋 [By the fireside](https://andypiper.co.uk/2025/04/16/by-the-fireside/) - *2025-04-16*
-- 🖋 [Communicating changes](https://andypiper.co.uk/2025/04/15/communicating-changes/) - *2025-04-15*
-- 🖋 [Framework of Theseus](https://andypiper.co.uk/2025/04/02/framework-of-theseus/) - *2025-04-02*
 <!-- BLOG-POST-LIST:END -->
 
 ---
