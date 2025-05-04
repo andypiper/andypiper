@@ -12,7 +12,7 @@ I'm a maker at [Forge & Craft](https://forgeandcraft.co.uk), and I attend and he
 ### Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- 🖋 [Fediverse House at SXSW 2025](https://andypiper.co.uk/2025/05/01/fediverse-house-at-sxsw-2025/) - *2025-05-01*
+- 🖋 [Talks and travels: Fediverse House at SXSW 2025](https://andypiper.co.uk/2025/05/01/fediverse-house-at-sxsw-2025/) - *2025-05-01*
 - 🖋 [Heliocode](https://andypiper.co.uk/2025/04/28/heliocode/) - *2025-04-28*
 - 🖋 [NordVPN, Fedora 42, and iptables compatibility](https://andypiper.co.uk/2025/04/28/nordvpn-fedora-42-and-iptables-compatibility/) - *2025-04-28*
 - 🖋 [The Bootloader](https://andypiper.co.uk/2025/04/24/the-bootloader/) - *2025-04-24*
