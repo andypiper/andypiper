@@ -95,6 +95,7 @@ Repos:
 * <a href="https://github.com/andypiper/MastoShell">andypiper/MastoShell: ★1</a>
 * <a href="https://github.com/andypiper/mastofs">andypiper/mastofs: ★1</a>
 * <a href="https://github.com/andypiper/fw-lid-fprint-daemon">andypiper/fw-lid-fprint-daemon: ★1</a>
+* <a href="https://github.com/andypiper/presto-lastfm">andypiper/presto-lastfm: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
