@@ -4,9 +4,9 @@
 
 Repos:
 
-* <a href="https://github.com/xdevplatform/account-activity-dashboard">xdevplatform/account-activity-dashboard: ★175</a>
+* <a href="https://github.com/xdevplatform/account-activity-dashboard">xdevplatform/account-activity-dashboard: ★174</a>
 * <a href="https://github.com/xdevplatform/autohook">xdevplatform/autohook: ★156</a>
-* <a href="https://github.com/xdevplatform/SnowBotDev">xdevplatform/SnowBotDev: ★81</a>
+* <a href="https://github.com/xdevplatform/SnowBotDev">xdevplatform/SnowBotDev: ★80</a>
 * <a href="https://github.com/andypiper/awesome-modern-twitter-api">andypiper/awesome-modern-twitter-api: ★75</a>
 * <a href="https://github.com/xdevplatform/twitter-webhook-boilerplate-node">xdevplatform/twitter-webhook-boilerplate-node: ★73</a>
 * <a href="https://github.com/andypiper/fivebyfive">andypiper/fivebyfive: ★39</a>
@@ -49,6 +49,7 @@ Repos:
 * <a href="https://github.com/andypiper/emf-duckfacts">andypiper/emf-duckfacts: ★2</a>
 * <a href="https://github.com/andypiper/3d-modelling">andypiper/3d-modelling: ★2</a>
 * <a href="https://github.com/andypiper/postmarks-ext">andypiper/postmarks-ext: ★2</a>
+* <a href="https://github.com/andypiper/fw-lid-fprint-daemon">andypiper/fw-lid-fprint-daemon: ★2</a>
 * <a href="https://github.com/andypiper/sinatra-cf-twitter">andypiper/sinatra-cf-twitter: ★1</a>
 * <a href="https://github.com/andypiper/fsc_flogr">andypiper/fsc_flogr: ★1</a>
 * <a href="https://github.com/andypiper/yrs2012-site">andypiper/yrs2012-site: ★1</a>
@@ -94,7 +95,6 @@ Repos:
 * <a href="https://github.com/andypiper/oauth-dropins">andypiper/oauth-dropins: ★1</a>
 * <a href="https://github.com/andypiper/MastoShell">andypiper/MastoShell: ★1</a>
 * <a href="https://github.com/andypiper/mastofs">andypiper/mastofs: ★1</a>
-* <a href="https://github.com/andypiper/fw-lid-fprint-daemon">andypiper/fw-lid-fprint-daemon: ★1</a>
 * <a href="https://github.com/andypiper/presto-lastfm">andypiper/presto-lastfm: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
