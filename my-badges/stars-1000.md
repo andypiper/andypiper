@@ -93,6 +93,7 @@ Repos:
 * <a href="https://github.com/andypiper/Tildagon_IP_App">andypiper/Tildagon_IP_App: ★1</a>
 * <a href="https://github.com/andypiper/emf-duckfacts-tildagon">andypiper/emf-duckfacts-tildagon: ★1</a>
 * <a href="https://github.com/andypiper/oauth-dropins">andypiper/oauth-dropins: ★1</a>
+* <a href="https://github.com/andypiper/theindiebeat-simple-player">andypiper/theindiebeat-simple-player: ★1</a>
 * <a href="https://github.com/andypiper/MastoShell">andypiper/MastoShell: ★1</a>
 * <a href="https://github.com/andypiper/mastofs">andypiper/mastofs: ★1</a>
 * <a href="https://github.com/andypiper/presto-lastfm">andypiper/presto-lastfm: ★1</a>
