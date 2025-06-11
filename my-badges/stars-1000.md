@@ -23,9 +23,9 @@ Repos:
 * <a href="https://github.com/andypiper/ada-macropad">andypiper/ada-macropad: ★10</a>
 * <a href="https://github.com/andypiper/rs40rgb-keeb">andypiper/rs40rgb-keeb: ★10</a>
 * <a href="https://github.com/ccattuto/wordle-device">ccattuto/wordle-device: ★9</a>
-* <a href="https://github.com/mastodon/.github">mastodon/.github: ★8</a>
+* <a href="https://github.com/mastodon/.github">mastodon/.github: ★9</a>
+* <a href="https://github.com/mastodon/specs-background">mastodon/specs-background: ★8</a>
 * <a href="https://github.com/andypiper/sinatra-static-web">andypiper/sinatra-static-web: ★7</a>
-* <a href="https://github.com/mastodon/specs-background">mastodon/specs-background: ★7</a>
 * <a href="https://github.com/xdevplatform/openapi-generator">xdevplatform/openapi-generator: ★6</a>
 * <a href="https://github.com/andypiper/my-glitch-in-bio">andypiper/my-glitch-in-bio: ★6</a>
 * <a href="https://github.com/andypiper/mpy-rp2040-lcd">andypiper/mpy-rp2040-lcd: ★6</a>
