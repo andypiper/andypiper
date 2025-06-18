@@ -4,6 +4,7 @@
 
 - <a href="https://github.com/DFRobot/uPyCraft/issues/42">#42</a>
 - <a href="https://github.com/clockworkpi/DevTerm/issues/42">#42</a>
+- <a href="https://github.com/mastodon/blog/issues/42">#42</a>
 - <a href="https://github.com/BasixKOR/awesome-activitypub/issues/42">#42</a>
 
 
