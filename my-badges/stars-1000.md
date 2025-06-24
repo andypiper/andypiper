@@ -50,6 +50,7 @@ Repos:
 * <a href="https://github.com/andypiper/emf-duckfacts">andypiper/emf-duckfacts: ★2</a>
 * <a href="https://github.com/andypiper/3d-modelling">andypiper/3d-modelling: ★2</a>
 * <a href="https://github.com/andypiper/postmarks-ext">andypiper/postmarks-ext: ★2</a>
+* <a href="https://github.com/andypiper/MastoShell">andypiper/MastoShell: ★2</a>
 * <a href="https://github.com/andypiper/sinatra-cf-twitter">andypiper/sinatra-cf-twitter: ★1</a>
 * <a href="https://github.com/andypiper/fsc_flogr">andypiper/fsc_flogr: ★1</a>
 * <a href="https://github.com/andypiper/yrs2012-site">andypiper/yrs2012-site: ★1</a>
@@ -94,7 +95,6 @@ Repos:
 * <a href="https://github.com/andypiper/emf-duckfacts-tildagon">andypiper/emf-duckfacts-tildagon: ★1</a>
 * <a href="https://github.com/andypiper/oauth-dropins">andypiper/oauth-dropins: ★1</a>
 * <a href="https://github.com/andypiper/theindiebeat-simple-player">andypiper/theindiebeat-simple-player: ★1</a>
-* <a href="https://github.com/andypiper/MastoShell">andypiper/MastoShell: ★1</a>
 * <a href="https://github.com/andypiper/mastofs">andypiper/mastofs: ★1</a>
 * <a href="https://github.com/andypiper/presto-lastfm">andypiper/presto-lastfm: ★1</a>
 
