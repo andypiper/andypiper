@@ -71,10 +71,6 @@
       "@type": "Place",
       "name": "Remote"
     },
-    "hasOccupation": {
-      "@type": "Occupation",
-      "name": "Head of Communications"
-    },
     "knowsAbout": [
       "Decentralized Web",
       "ActivityPub",
