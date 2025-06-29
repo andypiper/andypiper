@@ -1,11 +1,9 @@
 
 ### Hey there, friend! 👋🏻
 
-I'm Andy. You can find me primarily on <a rel="me" href="https://macaw.social/@andypiper">Mastodon</a> (but I am also in other places in the #Fediverse). I am Head of Communications at [Mastodon](https://github.com/mastodon).
+I'm Andy. You can find me primarily on <a rel="me" href="https://macaw.social/@andypiper">Mastodon</a> (but I am also in other places in the [#Fediverse](https://fediverseforfreedom.org/?ref=gh-profile)). I am Head of Communications at [Mastodon](https://joinmastodon.org/about#team).
 
 I'm a maker at [Forge & Craft](https://forgeandcraft.co.uk), and I attend and help out with the [HackWimbledon](https://hackwimbledon.org) pop-up hackspace meetup.
-
-📑 [Glitch in Bio](https://andypiper.me) (it's like "Link in Bio" via Linktree etc, but _free_, and [yours to improve](https://dev.to/andypiper/a-quick-glitch-bio-break-1c6a)!)
 
 ---
 
@@ -25,13 +23,12 @@ I'm a maker at [Forge & Craft](https://forgeandcraft.co.uk), and I attend and he
 
 💖 [OMG](https://andypiper.omg.lol)
 
-- I'm one of the co-hosts of the weekly technology podcast 🎙️ [Games at Work dot biz](https://gamesatwork.biz) - you can find us on all of the major podcast directories. Let us know what you think!
-- I sometimes write longer things on [DEV](https://dev.to/andypiper), [Medium](https://andypiper.medium.com), or on [my own website](https://andypiper.co.uk). My most recent blog posts are listed above.
+- I'm one of the co-hosts of the weekly technology podcast 🎙️ [Games at Work dot biz](https://gamesatwork.biz) - you can find us on all the major podcast directories. Let us know what you think!
+- I sometimes write longer things on [DEV](https://dev.to/andypiper) or [Medium](https://andypiper.medium.com), but most frequently on [my own website](https://andypiper.co.uk). My most recent blog posts are listed above.
 - I have [a newsletter](https://buttondown.email/andypiper) 📮 which gets sent to subscribers on an occasional basis. I haven't sent one out for ages. I should get on that.
 
 ### Code (beyond GitHub)
 
-- I use [Glitch](https://glitch.com/@andypiper) and [Replit](https://replit.com/@andypiper) as platforms for quick apps and demos.
 - I'm on [Codeberg](https://codeberg.org/andypiper).
 - I'm on [GitLab](https://gitlab.com/andypiper).
 - I have a [RoutineHub profile](https://routinehub.co/user/andypiper) for Apple Shortcuts.
