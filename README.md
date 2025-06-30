@@ -10,11 +10,11 @@ I'm a maker at [Forge & Craft](https://forgeandcraft.co.uk), and I attend and he
 ### Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- 🖋 [Mid-migration](https://andypiper.co.uk/2025/06/29/mid-migration/) - *2025-06-29*
 - 🖋 [That purple feeling](https://andypiper.co.uk/2025/06/23/that-purple-feeling/) - *2025-06-23*
 - 🖋 [Part of the Rebel Alliance](https://andypiper.co.uk/2025/06/14/part-of-the-rebel-alliance/) - *2025-06-14*
 - 🖋 [Some lessons from building communities](https://andypiper.co.uk/2025/05/16/some-lessons-from-building-communities/) - *2025-05-16*
 - 🖋 [Revisiting the clouds](https://andypiper.co.uk/2025/05/15/revisiting-the-clouds/) - *2025-05-15*
-- 🖋 [FediForum Advisory Board](https://andypiper.co.uk/2025/05/07/fediforum-advisory-board/) - *2025-05-07*
 <!-- BLOG-POST-LIST:END -->
 
 ---
