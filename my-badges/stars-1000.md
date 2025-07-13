@@ -97,6 +97,7 @@ Repos:
 * <a href="https://github.com/andypiper/theindiebeat-simple-player">andypiper/theindiebeat-simple-player: ★1</a>
 * <a href="https://github.com/andypiper/mastofs">andypiper/mastofs: ★1</a>
 * <a href="https://github.com/andypiper/presto-lastfm">andypiper/presto-lastfm: ★1</a>
+* <a href="https://github.com/andypiper/StreamDeckMastodon">andypiper/StreamDeckMastodon: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
