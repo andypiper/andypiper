@@ -13,8 +13,8 @@ Repos:
 * <a href="https://github.com/xdevplatform/spotatweet">xdevplatform/spotatweet: ★34</a>
 * <a href="https://github.com/xdevplatform/Gnip-Insights-Interface">xdevplatform/Gnip-Insights-Interface: ★32</a>
 * <a href="https://github.com/andypiper/spring-int-mqtt">andypiper/spring-int-mqtt: ★30</a>
+* <a href="https://github.com/xdevplatform/extract-usernames-from-tweet-replies">xdevplatform/extract-usernames-from-tweet-replies: ★28</a>
 * <a href="https://github.com/xdevplatform/labs-sample-code">xdevplatform/labs-sample-code: ★27</a>
-* <a href="https://github.com/xdevplatform/extract-usernames-from-tweet-replies">xdevplatform/extract-usernames-from-tweet-replies: ★27</a>
 * <a href="https://github.com/xdevplatform/enterprise-scripts-python">xdevplatform/enterprise-scripts-python: ★20</a>
 * <a href="https://github.com/andypiper/mastodon-embeds-examples">andypiper/mastodon-embeds-examples: ★19</a>
 * <a href="https://github.com/joshlong-attic/spring-integration-mqtt">joshlong-attic/spring-integration-mqtt: ★17</a>
@@ -98,6 +98,7 @@ Repos:
 * <a href="https://github.com/andypiper/mastofs">andypiper/mastofs: ★1</a>
 * <a href="https://github.com/andypiper/presto-lastfm">andypiper/presto-lastfm: ★1</a>
 * <a href="https://github.com/andypiper/StreamDeckMastodon">andypiper/StreamDeckMastodon: ★1</a>
+* <a href="https://github.com/andypiper/ulauncher-mastodon">andypiper/ulauncher-mastodon: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
