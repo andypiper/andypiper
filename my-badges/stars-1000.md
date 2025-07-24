@@ -9,7 +9,7 @@ Repos:
 * <a href="https://github.com/xdevplatform/SnowBotDev">xdevplatform/SnowBotDev: ★80</a>
 * <a href="https://github.com/andypiper/awesome-modern-twitter-api">andypiper/awesome-modern-twitter-api: ★75</a>
 * <a href="https://github.com/xdevplatform/twitter-webhook-boilerplate-node">xdevplatform/twitter-webhook-boilerplate-node: ★73</a>
-* <a href="https://github.com/atomic14/esp32-zxspectrum">atomic14/esp32-zxspectrum: ★51</a>
+* <a href="https://github.com/atomic14/esp32-zxspectrum">atomic14/esp32-zxspectrum: ★52</a>
 * <a href="https://github.com/andypiper/fivebyfive">andypiper/fivebyfive: ★39</a>
 * <a href="https://github.com/xdevplatform/spotatweet">xdevplatform/spotatweet: ★34</a>
 * <a href="https://github.com/xdevplatform/Gnip-Insights-Interface">xdevplatform/Gnip-Insights-Interface: ★32</a>
