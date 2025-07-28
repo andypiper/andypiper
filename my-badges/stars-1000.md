@@ -9,7 +9,7 @@ Repos:
 * <a href="https://github.com/xdevplatform/SnowBotDev">xdevplatform/SnowBotDev: ★80</a>
 * <a href="https://github.com/andypiper/awesome-modern-twitter-api">andypiper/awesome-modern-twitter-api: ★75</a>
 * <a href="https://github.com/xdevplatform/twitter-webhook-boilerplate-node">xdevplatform/twitter-webhook-boilerplate-node: ★73</a>
-* <a href="https://github.com/atomic14/esp32-zxspectrum">atomic14/esp32-zxspectrum: ★52</a>
+* <a href="https://github.com/atomic14/esp32-zxspectrum">atomic14/esp32-zxspectrum: ★53</a>
 * <a href="https://github.com/andypiper/fivebyfive">andypiper/fivebyfive: ★39</a>
 * <a href="https://github.com/xdevplatform/spotatweet">xdevplatform/spotatweet: ★34</a>
 * <a href="https://github.com/xdevplatform/Gnip-Insights-Interface">xdevplatform/Gnip-Insights-Interface: ★32</a>
@@ -33,10 +33,10 @@ Repos:
 * <a href="https://github.com/andypiper/picow-enviroplus">andypiper/picow-enviroplus: ★6</a>
 * <a href="https://github.com/andypiper/rmq-mqtt-demo">andypiper/rmq-mqtt-demo: ★5</a>
 * <a href="https://github.com/andypiper/Netatmo-Alexa">andypiper/Netatmo-Alexa: ★5</a>
+* <a href="https://github.com/andypiper/andypiper">andypiper/andypiper: ★5</a>
 * <a href="https://github.com/andypiper/theindiebeat-gnome-ext">andypiper/theindiebeat-gnome-ext: ★5</a>
 * <a href="https://github.com/andypiper/karma">andypiper/karma: ★4</a>
 * <a href="https://github.com/andypiper/TwitterDotNetCore">andypiper/TwitterDotNetCore: ★4</a>
-* <a href="https://github.com/andypiper/andypiper">andypiper/andypiper: ★4</a>
 * <a href="https://github.com/andypiper/pistate">andypiper/pistate: ★3</a>
 * <a href="https://github.com/andypiper/twauth-web">andypiper/twauth-web: ★3</a>
 * <a href="https://github.com/andypiper/twit-webhook-bot">andypiper/twit-webhook-bot: ★3</a>
@@ -90,6 +90,7 @@ Repos:
 * <a href="https://github.com/andypiper/UKBinCollectionData">andypiper/UKBinCollectionData: ★1</a>
 * <a href="https://github.com/andypiper/MastoInky">andypiper/MastoInky: ★1</a>
 * <a href="https://github.com/andypiper/Adafruit_Arcada">andypiper/Adafruit_Arcada: ★1</a>
+* <a href="https://github.com/andypiper/mastodon_digest">andypiper/mastodon_digest: ★1</a>
 * <a href="https://github.com/andypiper/brachiograph-converter-gui">andypiper/brachiograph-converter-gui: ★1</a>
 * <a href="https://github.com/andypiper/Adafruit_CircuitPython_Bitmap_Font">andypiper/Adafruit_CircuitPython_Bitmap_Font: ★1</a>
 * <a href="https://github.com/andypiper/badge-2024-app-store">andypiper/badge-2024-app-store: ★1</a>
@@ -101,6 +102,7 @@ Repos:
 * <a href="https://github.com/andypiper/presto-lastfm">andypiper/presto-lastfm: ★1</a>
 * <a href="https://github.com/andypiper/StreamDeckMastodon">andypiper/StreamDeckMastodon: ★1</a>
 * <a href="https://github.com/andypiper/ulauncher-mastodon">andypiper/ulauncher-mastodon: ★1</a>
+* <a href="https://github.com/andypiper/makers_calendar_uk">andypiper/makers_calendar_uk: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
