@@ -64,7 +64,6 @@ I'm a maker at [Forge & Craft](https://forgeandcraft.co.uk), and I attend and he
 <a href="my-badges/public-keys-1.md"><img src="https://my-badges.github.io/my-badges/public-keys-1.png" alt="I have one public key" title="I have one public key" width="64"></a>
 <a href="my-badges/spooky-commit.md"><img src="https://my-badges.github.io/my-badges/spooky-commit.png" alt="I committed on the Halloween! Boo!" title="I committed on the Halloween! Boo!" width="64"></a>
 <a href="my-badges/star-gazer.md"><img src="https://my-badges.github.io/my-badges/star-gazer.png" alt="I&apos;m a star gazer!" title="I&apos;m a star gazer!" width="64"></a>
-<a href="my-badges/stars-1000.md"><img src="https://my-badges.github.io/my-badges/stars-1000.png" alt="I collected 1000 stars." title="I collected 1000 stars." width="64"></a>
 <a href="my-badges/the-ultimate-question.md"><img src="https://my-badges.github.io/my-badges/the-ultimate-question.png" alt="I found the answer to the ultimate question of life, the universe, and everything!" title="I found the answer to the ultimate question of life, the universe, and everything!" width="64"></a>
 <a href="my-badges/morning-commits.md"><img src="https://my-badges.github.io/my-badges/morning-commits.png" alt="I commit in the morning." title="I commit in the morning." width="64"></a>
 <a href="my-badges/evening-commits.md"><img src="https://my-badges.github.io/my-badges/evening-commits.png" alt="I commit in the evening." title="I commit in the evening." width="64"></a>
