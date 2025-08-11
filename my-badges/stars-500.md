@@ -91,6 +91,7 @@ Repos:
 * <a href="https://github.com/andypiper/StreamDeckMastodon">andypiper/StreamDeckMastodon: ★1</a>
 * <a href="https://github.com/andypiper/ulauncher-mastodon">andypiper/ulauncher-mastodon: ★1</a>
 * <a href="https://github.com/andypiper/makers_calendar_uk">andypiper/makers_calendar_uk: ★1</a>
+* <a href="https://github.com/flathub/org.andypiper.Fedinspect">flathub/org.andypiper.Fedinspect: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
