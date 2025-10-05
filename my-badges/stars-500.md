@@ -44,7 +44,6 @@ Repos:
 * <a href="https://github.com/andypiper/forgeandcraft-site">andypiper/forgeandcraft-site: ★2</a>
 * <a href="https://github.com/andypiper/postmarks-ext">andypiper/postmarks-ext: ★2</a>
 * <a href="https://github.com/atomic14/esp32-rainbow-website">atomic14/esp32-rainbow-website: ★2</a>
-* <a href="https://github.com/andypiper/presto-lastfm">andypiper/presto-lastfm: ★2</a>
 * <a href="https://github.com/andypiper/sinatra-cf-twitter">andypiper/sinatra-cf-twitter: ★1</a>
 * <a href="https://github.com/andypiper/fsc_flogr">andypiper/fsc_flogr: ★1</a>
 * <a href="https://github.com/andypiper/andypiper.github.io">andypiper/andypiper.github.io: ★1</a>
@@ -90,6 +89,7 @@ Repos:
 * <a href="https://github.com/andypiper/gpl2clr">andypiper/gpl2clr: ★1</a>
 * <a href="https://github.com/andypiper/theindiebeat-simple-player">andypiper/theindiebeat-simple-player: ★1</a>
 * <a href="https://github.com/andypiper/mastofs">andypiper/mastofs: ★1</a>
+* <a href="https://github.com/andypiper/presto-lastfm">andypiper/presto-lastfm: ★1</a>
 * <a href="https://github.com/andypiper/dotme">andypiper/dotme: ★1</a>
 * <a href="https://github.com/andypiper/StreamDeckMastodon">andypiper/StreamDeckMastodon: ★1</a>
 * <a href="https://github.com/andypiper/ulauncher-mastodon">andypiper/ulauncher-mastodon: ★1</a>
