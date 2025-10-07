@@ -6,7 +6,7 @@ Repos:
 
 * <a href="https://github.com/ckolderup/postmarks">ckolderup/postmarks: ★516</a>
 * <a href="https://github.com/andypiper/awesome-modern-twitter-api">andypiper/awesome-modern-twitter-api: ★76</a>
-* <a href="https://github.com/atomic14/esp32-zxspectrum">atomic14/esp32-zxspectrum: ★55</a>
+* <a href="https://github.com/atomic14/esp32-zxspectrum">atomic14/esp32-zxspectrum: ★56</a>
 * <a href="https://github.com/andypiper/fivebyfive">andypiper/fivebyfive: ★39</a>
 * <a href="https://github.com/andypiper/spring-int-mqtt">andypiper/spring-int-mqtt: ★30</a>
 * <a href="https://github.com/andypiper/mastodon-embeds-examples">andypiper/mastodon-embeds-examples: ★20</a>
@@ -20,12 +20,12 @@ Repos:
 * <a href="https://github.com/mastodon/specs-background">mastodon/specs-background: ★8</a>
 * <a href="https://github.com/andypiper/sinatra-static-web">andypiper/sinatra-static-web: ★7</a>
 * <a href="https://github.com/andypiper/my-glitch-in-bio">andypiper/my-glitch-in-bio: ★7</a>
-* <a href="https://github.com/andypiper/andypiper">andypiper/andypiper: ★6</a>
 * <a href="https://github.com/andypiper/mpy-rp2040-lcd">andypiper/mpy-rp2040-lcd: ★6</a>
 * <a href="https://github.com/andypiper/picow-enviroplus">andypiper/picow-enviroplus: ★6</a>
 * <a href="https://github.com/andypiper/theindiebeat-gnome-ext">andypiper/theindiebeat-gnome-ext: ★6</a>
 * <a href="https://github.com/andypiper/rmq-mqtt-demo">andypiper/rmq-mqtt-demo: ★5</a>
 * <a href="https://github.com/andypiper/Netatmo-Alexa">andypiper/Netatmo-Alexa: ★5</a>
+* <a href="https://github.com/andypiper/andypiper">andypiper/andypiper: ★5</a>
 * <a href="https://github.com/andypiper/karma">andypiper/karma: ★4</a>
 * <a href="https://github.com/andypiper/TwitterDotNetCore">andypiper/TwitterDotNetCore: ★4</a>
 * <a href="https://github.com/andypiper/fw-lid-fprint-daemon">andypiper/fw-lid-fprint-daemon: ★4</a>
@@ -41,12 +41,10 @@ Repos:
 * <a href="https://github.com/andypiper/awesome-micropython">andypiper/awesome-micropython: ★2</a>
 * <a href="https://github.com/andypiper/emf-duckfacts">andypiper/emf-duckfacts: ★2</a>
 * <a href="https://github.com/andypiper/3d-modelling">andypiper/3d-modelling: ★2</a>
-* <a href="https://github.com/andypiper/forgeandcraft-site">andypiper/forgeandcraft-site: ★2</a>
 * <a href="https://github.com/andypiper/postmarks-ext">andypiper/postmarks-ext: ★2</a>
 * <a href="https://github.com/atomic14/esp32-rainbow-website">atomic14/esp32-rainbow-website: ★2</a>
 * <a href="https://github.com/andypiper/sinatra-cf-twitter">andypiper/sinatra-cf-twitter: ★1</a>
 * <a href="https://github.com/andypiper/fsc_flogr">andypiper/fsc_flogr: ★1</a>
-* <a href="https://github.com/andypiper/andypiper.github.io">andypiper/andypiper.github.io: ★1</a>
 * <a href="https://github.com/andypiper/yrs2012-site">andypiper/yrs2012-site: ★1</a>
 * <a href="https://github.com/andypiper/hubot-cf">andypiper/hubot-cf: ★1</a>
 * <a href="https://github.com/andypiper/mqttorg-dokuwiki">andypiper/mqttorg-dokuwiki: ★1</a>
@@ -70,6 +68,7 @@ Repos:
 * <a href="https://github.com/andypiper/5x5_Clock">andypiper/5x5_Clock: ★1</a>
 * <a href="https://github.com/andypiper/stackypi-style">andypiper/stackypi-style: ★1</a>
 * <a href="https://github.com/andypiper/thonny">andypiper/thonny: ★1</a>
+* <a href="https://github.com/andypiper/forgeandcraft-site">andypiper/forgeandcraft-site: ★1</a>
 * <a href="https://github.com/andypiper/wipeout-rewrite">andypiper/wipeout-rewrite: ★1</a>
 * <a href="https://github.com/andypiper/NetworkMonitor">andypiper/NetworkMonitor: ★1</a>
 * <a href="https://github.com/andypiper/Inkscape-Plugin">andypiper/Inkscape-Plugin: ★1</a>
@@ -90,7 +89,6 @@ Repos:
 * <a href="https://github.com/andypiper/theindiebeat-simple-player">andypiper/theindiebeat-simple-player: ★1</a>
 * <a href="https://github.com/andypiper/mastofs">andypiper/mastofs: ★1</a>
 * <a href="https://github.com/andypiper/presto-lastfm">andypiper/presto-lastfm: ★1</a>
-* <a href="https://github.com/andypiper/dotme">andypiper/dotme: ★1</a>
 * <a href="https://github.com/andypiper/StreamDeckMastodon">andypiper/StreamDeckMastodon: ★1</a>
 * <a href="https://github.com/andypiper/ulauncher-mastodon">andypiper/ulauncher-mastodon: ★1</a>
 * <a href="https://github.com/andypiper/makers_calendar_uk">andypiper/makers_calendar_uk: ★1</a>
