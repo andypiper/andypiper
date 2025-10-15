@@ -20,9 +20,9 @@ Repos:
 * <a href="https://github.com/mastodon/specs-background">mastodon/specs-background: ★8</a>
 * <a href="https://github.com/andypiper/sinatra-static-web">andypiper/sinatra-static-web: ★7</a>
 * <a href="https://github.com/andypiper/my-glitch-in-bio">andypiper/my-glitch-in-bio: ★7</a>
+* <a href="https://github.com/andypiper/theindiebeat-gnome-ext">andypiper/theindiebeat-gnome-ext: ★7</a>
 * <a href="https://github.com/andypiper/mpy-rp2040-lcd">andypiper/mpy-rp2040-lcd: ★6</a>
 * <a href="https://github.com/andypiper/picow-enviroplus">andypiper/picow-enviroplus: ★6</a>
-* <a href="https://github.com/andypiper/theindiebeat-gnome-ext">andypiper/theindiebeat-gnome-ext: ★6</a>
 * <a href="https://github.com/andypiper/rmq-mqtt-demo">andypiper/rmq-mqtt-demo: ★5</a>
 * <a href="https://github.com/andypiper/Netatmo-Alexa">andypiper/Netatmo-Alexa: ★5</a>
 * <a href="https://github.com/andypiper/andypiper">andypiper/andypiper: ★5</a>
