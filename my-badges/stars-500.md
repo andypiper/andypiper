@@ -35,6 +35,7 @@ Repos:
 * <a href="https://github.com/andypiper/ESP32-C3FH4-RGB">andypiper/ESP32-C3FH4-RGB: ★3</a>
 * <a href="https://github.com/andypiper/mastodon-fosdem2024">andypiper/mastodon-fosdem2024: ★3</a>
 * <a href="https://github.com/andypiper/MastoShell">andypiper/MastoShell: ★3</a>
+* <a href="https://github.com/andypiper/presto-lastfm">andypiper/presto-lastfm: ★3</a>
 * <a href="https://github.com/mcollina/mqtt-on-yun">mcollina/mqtt-on-yun: ★2</a>
 * <a href="https://github.com/andypiper/CocoaMQTT">andypiper/CocoaMQTT: ★2</a>
 * <a href="https://github.com/andypiper/qmk_firmware">andypiper/qmk_firmware: ★2</a>
@@ -43,7 +44,6 @@ Repos:
 * <a href="https://github.com/andypiper/3d-modelling">andypiper/3d-modelling: ★2</a>
 * <a href="https://github.com/andypiper/postmarks-ext">andypiper/postmarks-ext: ★2</a>
 * <a href="https://github.com/atomic14/esp32-rainbow-website">atomic14/esp32-rainbow-website: ★2</a>
-* <a href="https://github.com/andypiper/presto-lastfm">andypiper/presto-lastfm: ★2</a>
 * <a href="https://github.com/andypiper/sinatra-cf-twitter">andypiper/sinatra-cf-twitter: ★1</a>
 * <a href="https://github.com/andypiper/fsc_flogr">andypiper/fsc_flogr: ★1</a>
 * <a href="https://github.com/andypiper/yrs2012-site">andypiper/yrs2012-site: ★1</a>
