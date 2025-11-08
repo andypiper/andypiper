@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/ckolderup/postmarks">ckolderup/postmarks: ★527</a>
+* <a href="https://github.com/ckolderup/postmarks">ckolderup/postmarks: ★528</a>
 * <a href="https://github.com/andypiper/awesome-modern-twitter-api">andypiper/awesome-modern-twitter-api: ★76</a>
 * <a href="https://github.com/atomic14/esp32-zxspectrum">atomic14/esp32-zxspectrum: ★57</a>
 * <a href="https://github.com/andypiper/fivebyfive">andypiper/fivebyfive: ★39</a>
@@ -13,8 +13,8 @@ Repos:
 * <a href="https://github.com/joshlong-attic/spring-integration-mqtt">joshlong-attic/spring-integration-mqtt: ★17</a>
 * <a href="https://github.com/andypiper/mqtt-chat">andypiper/mqtt-chat: ★14</a>
 * <a href="https://github.com/andypiper/DevTerm-KB">andypiper/DevTerm-KB: ★14</a>
+* <a href="https://github.com/andypiper/rs40rgb-keeb">andypiper/rs40rgb-keeb: ★11</a>
 * <a href="https://github.com/andypiper/ada-macropad">andypiper/ada-macropad: ★10</a>
-* <a href="https://github.com/andypiper/rs40rgb-keeb">andypiper/rs40rgb-keeb: ★10</a>
 * <a href="https://github.com/mastodon/.github">mastodon/.github: ★9</a>
 * <a href="https://github.com/andypiper/my-glitch-in-bio">andypiper/my-glitch-in-bio: ★8</a>
 * <a href="https://github.com/ccattuto/wordle-device">ccattuto/wordle-device: ★8</a>
