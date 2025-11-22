@@ -4,6 +4,7 @@
 
 Commits:
 
+- <a href="https://github.com/andypiper/ynab-pp-sync/commit/cd1b0bf78a323777256e5592a67806108d3bceef">cd1b0bf</a>
 - <a href="https://github.com/andypiper/enviroplus-python/commit/40553f165647d7bd73594ef92544de528e09a5eb">40553f1</a>
 
 
