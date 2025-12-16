@@ -40,7 +40,7 @@ I'm a maker at [Forge & Craft](https://forgeandcraft.co.uk), and I attend and he
 - 🌱 I’m spending time learning 🐍 [MicroPython](https://micropython.org), and 🌐 Fediverse (Social Web) APIs like [ActivityPub](https://w3c.github.io/activitypub/)
 - 📝 Most-used editors: VS Code (GUI), neovim (CLI)
 - 💻 First computer: [Acorn Electron](https://en.wikipedia.org/wiki/Acorn_Electron) (and, I still have an [Acorn Risc PC](https://en.wikipedia.org/wiki/Risc_PC) that I need to dig out from cobwebs sometime soon)
-- 💻 Current systems: M1 Pro MacBook Pro, MNT Pocket Reform, Framework 13"
+- 💻 Current systems: [Framework](https://frame.work/gb/en) 13" (Fedora), [StarLabs Starlite Mk V](https://starlabs.systems/pages/starlite) (Fedora), [MNT Pocket Reform](https://shop.mntre.com/products/mnt-pocket-reform) (Debian), M1 Pro MacBook Pro (macOS Tahoe)
 
 ---
 
