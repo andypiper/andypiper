@@ -44,6 +44,7 @@ Repos:
 * <a href="https://github.com/andypiper/3d-modelling">andypiper/3d-modelling: ★2</a>
 * <a href="https://github.com/andypiper/postmarks-ext">andypiper/postmarks-ext: ★2</a>
 * <a href="https://github.com/atomic14/esp32-rainbow-website">atomic14/esp32-rainbow-website: ★2</a>
+* <a href="https://github.com/andypiper/ulauncher-mastodon">andypiper/ulauncher-mastodon: ★2</a>
 * <a href="https://github.com/andypiper/sinatra-cf-twitter">andypiper/sinatra-cf-twitter: ★1</a>
 * <a href="https://github.com/andypiper/fsc_flogr">andypiper/fsc_flogr: ★1</a>
 * <a href="https://github.com/andypiper/yrs2012-site">andypiper/yrs2012-site: ★1</a>
@@ -91,7 +92,6 @@ Repos:
 * <a href="https://github.com/andypiper/theindiebeat-simple-player">andypiper/theindiebeat-simple-player: ★1</a>
 * <a href="https://github.com/andypiper/mastofs">andypiper/mastofs: ★1</a>
 * <a href="https://github.com/andypiper/StreamDeckMastodon">andypiper/StreamDeckMastodon: ★1</a>
-* <a href="https://github.com/andypiper/ulauncher-mastodon">andypiper/ulauncher-mastodon: ★1</a>
 * <a href="https://github.com/andypiper/makers_calendar_uk">andypiper/makers_calendar_uk: ★1</a>
 * <a href="https://github.com/flathub/org.andypiper.Fedinspect">flathub/org.andypiper.Fedinspect: ★1</a>
 * <a href="https://github.com/andypiper/uapub">andypiper/uapub: ★1</a>
