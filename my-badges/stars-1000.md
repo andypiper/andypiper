@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/ckolderup/postmarks">ckolderup/postmarks: ★531</a>
+* <a href="https://github.com/ckolderup/postmarks">ckolderup/postmarks: ★532</a>
 * <a href="https://github.com/andypiper/awesome-modern-twitter-api">andypiper/awesome-modern-twitter-api: ★77</a>
 * <a href="https://github.com/atomic14/esp32-zxspectrum">atomic14/esp32-zxspectrum: ★61</a>
 * <a href="https://github.com/andypiper/fivebyfive">andypiper/fivebyfive: ★39</a>
@@ -42,6 +42,7 @@ Repos:
 * <a href="https://github.com/andypiper/awesome-micropython">andypiper/awesome-micropython: ★2</a>
 * <a href="https://github.com/andypiper/emf-duckfacts">andypiper/emf-duckfacts: ★2</a>
 * <a href="https://github.com/andypiper/3d-modelling">andypiper/3d-modelling: ★2</a>
+* <a href="https://github.com/andypiper/Inkscape-Plugin">andypiper/Inkscape-Plugin: ★2</a>
 * <a href="https://github.com/andypiper/postmarks-ext">andypiper/postmarks-ext: ★2</a>
 * <a href="https://github.com/atomic14/esp32-rainbow-website">atomic14/esp32-rainbow-website: ★2</a>
 * <a href="https://github.com/andypiper/ulauncher-mastodon">andypiper/ulauncher-mastodon: ★2</a>
@@ -74,7 +75,6 @@ Repos:
 * <a href="https://github.com/andypiper/forgeandcraft-site">andypiper/forgeandcraft-site: ★1</a>
 * <a href="https://github.com/andypiper/wipeout-rewrite">andypiper/wipeout-rewrite: ★1</a>
 * <a href="https://github.com/andypiper/NetworkMonitor">andypiper/NetworkMonitor: ★1</a>
-* <a href="https://github.com/andypiper/Inkscape-Plugin">andypiper/Inkscape-Plugin: ★1</a>
 * <a href="https://github.com/andypiper/24pullrequests">andypiper/24pullrequests: ★1</a>
 * <a href="https://github.com/andypiper/awesome-fediverse">andypiper/awesome-fediverse: ★1</a>
 * <a href="https://github.com/andypiper/fedidevs.org">andypiper/fedidevs.org: ★1</a>
