@@ -187,5 +187,19 @@
     "desc": "I closed an issue that was open for 8 years",
     "body": "Issues:\n\n- <a href=\"https://github.com/twitter/twitter-text/issues/36\">#36</a>: Emojis in URLs",
     "image": "https://my-badges.github.io/my-badges/old-issue-8.png"
+  },
+  {
+    "id": "may-the-4th",
+    "tier": 0,
+    "desc": "May the 4th be with you! Commits of force:",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andypiper/Cat-Printer/commit/3afe5b58964c06f07ad35a226e8f789536f39fde\">3afe5b5</a>\n- <a href=\"https://github.com/andypiper/pythonista-scripts/commit/58d51574849e5e8b1d62dbec18f6b5d3a92df657\">58d5157</a>",
+    "image": "https://my-badges.github.io/my-badges/may-the-4th.png"
+  },
+  {
+    "id": "pi-day",
+    "tier": 0,
+    "desc": "Happy March 14th! I committed on a Pi Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andypiper/mastodon-embeds-examples/commit/43944f3fd891dc6aecc4e969d2e6672cf9b8619e\">43944f3</a>\n- <a href=\"https://github.com/andypiper/cbc-examples/commit/eb5a725dbce52b1a9fe99b940125b0791a2eab4d\">eb5a725</a>",
+    "image": "https://my-badges.github.io/my-badges/pi-day.png"
   }
 ]
