@@ -10,7 +10,7 @@ Repos:
 * <a href="https://github.com/andypiper/fivebyfive">andypiper/fivebyfive: ★39</a>
 * <a href="https://github.com/andypiper/spring-int-mqtt">andypiper/spring-int-mqtt: ★30</a>
 * <a href="https://github.com/andypiper/mastodon-embeds-examples">andypiper/mastodon-embeds-examples: ★22</a>
-* <a href="https://github.com/joshlong-attic/spring-integration-mqtt">joshlong-attic/spring-integration-mqtt: ★17</a>
+* <a href="https://github.com/joshlong-attic/spring-integration-mqtt">joshlong-attic/spring-integration-mqtt: ★18</a>
 * <a href="https://github.com/andypiper/mqtt-chat">andypiper/mqtt-chat: ★14</a>
 * <a href="https://github.com/andypiper/DevTerm-KB">andypiper/DevTerm-KB: ★13</a>
 * <a href="https://github.com/andypiper/rs40rgb-keeb">andypiper/rs40rgb-keeb: ★11</a>
