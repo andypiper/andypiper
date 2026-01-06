@@ -1,5 +1,5 @@
 {
-  "@context": "http://schema.org",
+  "@context": "https://schema.org",
   "@type": "Person",
   "name": "Andy Piper",
   "description": "Technologist, speaker, and pen-plotter artist",
@@ -12,6 +12,7 @@
   },
   "sameAs": [
     "https://andypiper.me",
+    "https://andypiper.org",
     "https://macaw.social/@andypiper",
     "https://github.com/andypiper",
     "https://www.linkedin.com/in/andypiperuk/",
@@ -44,13 +45,14 @@
     "@type": "PostalAddress",
     "addressLocality": "Kingston upon Thames",
     "addressRegion": "England",
-    "addressCountry": "UK"
+    "addressCountry": "GB"
   },
   "worksFor": [
     {
       "@type": "Organization",
       "name": "Mastodon gGmbH",
-      "url": "https://joinmastodon.org"
+      "url": "https://joinmastodon.org",
+      "description": "Head of Communications"
     },
     {
       "@type": "Organization",
@@ -98,14 +100,28 @@
   },
   "memberOf": [
     {
-      "@type": "Organization",
-      "name": "bcs – The Chartered Institute for IT",
-      "url": "https://bcs.org/"
+      "@type": "ProgramMembership",
+      "programName": "Member (MBCS)",
+      "description": "Professional Member of bcs, The Chartered Institute for IT",
+      "hostingOrganization": {
+        "@type": "Organization",
+        "name": "bcs, The Chartered Institute for IT",
+        "url": "https://www.bcs.org/"
+      }
     },
     {
       "@type": "Organization",
       "name": "Open Source Hardware Association",
       "url": "https://oshwa.org/"
+    },
+    {
+      "@type": "ProgramMembership",
+      "programName": "General Member",
+      "hostingOrganization": {
+        "@type": "Organization",
+        "name": "Open Rights Group",
+        "url": "https://www.openrightsgroup.org/"
+      }
     },
     {
       "@type": "ProgramMembership",
@@ -126,36 +142,38 @@
       }
     }
   ],
-  "award": [
-    "2023 OpenUK Generation Next (New Years Honours)"
-  ],
-  "hasCredential": {
-    "@type": "EducationalOccupationalCredential",
-    "credentialCategory": "Certification",
-    "name": "bcs Certified IT Professional (CITP)"
-  },
   "affiliation": [
     {
       "@type": "Organization",
       "name": "Games at Work dot Biz",
+      "url": "https://gamesatwork.biz",
       "sameAs": [
-        "https://mastodon.social/@gamesatwork_biz",
-        "https://gamesatwork.biz"
-      ]
+        "https://mastodon.social/@gamesatwork_biz"
+      ],
+      "description": "Weekly technology podcast; co-host"
     },
     {
       "@type": "Organization",
-      "name": "Mastodon gGmbH",
-      "url": "https://joinmastodon.org",
-      "member": {
-        "@type": "OrganizationRole",
-        "roleName": "Head of Communications",
-        "member": {
-          "@type": "Person",
-          "name": "Andy Piper"
-        }
-      }
+      "name": "HackWimbledon",
+      "url": "https://hackwimbledon.org",
+      "sameAs": [
+        "https://mastodon.org.uk/@HackWimbledon"
+      ],
+      "description": "Community technology event; organiser"
     }
-  ]
+  ],
+  "award": [
+    "OpenUK Generation Next (New Year Honours, 2023)",
+    "OpenUK Awards 2025 – Runner-up (Shortlisted finalist)"
+  ],
+  "hasCredential": {
+    "@type": "EducationalOccupationalCredential",
+    "credentialCategory": "Professional Registration",
+    "name": "Chartered IT Professional (CITP)",
+    "recognizedBy": {
+      "@type": "Organization",
+      "name": "bcs, The Chartered Institute for IT",
+      "url": "https://www.bcs.org/"
+    }
+  }
 }
-
