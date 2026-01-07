@@ -52,7 +52,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"signed-off-by:\".",
-    "body": "My favorite commit message words are:\n\n1. signed-off-by: (used 878 times)\n2. andy (used 875 times)\n3. piper (used 874 times)\n4. <andypiper@users.noreply.github.com> (used 874 times)\n5. update (used 386 times)",
+    "body": "My favorite commit message words are:\n\n1. signed-off-by: (used 880 times)\n2. andy (used 877 times)\n3. piper (used 876 times)\n4. <andypiper@users.noreply.github.com> (used 876 times)\n5. update (used 389 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -122,7 +122,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andypiper/use-postmarks/commit/9b88c94420d21a99ae852c2e72aa9a64dce10f8c\">9b88c94</a>\n- <a href=\"https://github.com/andypiper/ynab-pp-sync/commit/cd90a4a012b6a499633feebb8389f00edca3e71e\">cd90a4a</a>\n- <a href=\"https://github.com/flathub/org.andypiper.Fedinspect/commit/dcc9c3fd4550b06ecf895a324ff80fa932467fce\">dcc9c3f</a>\n- <a href=\"https://github.com/flathub/org.andypiper.Fedinspect/commit/f9006361dfff48374830b88d8046922ac432c136\">f900636</a>\n- <a href=\"https://github.com/flathub/org.andypiper.Fedinspect/commit/f2c6ef137d73344c1913a54d90a25cb6a1a5d98a\">f2c6ef1</a>\n- <a href=\"https://github.com/andypiper/dotme/commit/772d7dfc36aabadb16778b19f6b3f4bc03d11b29\">772d7df</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andypiper/dotme/commit/42210798324acc2a1131bfc4acbd44cb561b5daa\">4221079</a>\n- <a href=\"https://github.com/andypiper/andypiper/commit/8ed8b5198530e046d979586ad6301fb79449d907\">8ed8b51</a>\n- <a href=\"https://github.com/andypiper/use-postmarks/commit/9b88c94420d21a99ae852c2e72aa9a64dce10f8c\">9b88c94</a>\n- <a href=\"https://github.com/andypiper/ynab-pp-sync/commit/cd90a4a012b6a499633feebb8389f00edca3e71e\">cd90a4a</a>\n- <a href=\"https://github.com/flathub/org.andypiper.Fedinspect/commit/dcc9c3fd4550b06ecf895a324ff80fa932467fce\">dcc9c3f</a>\n- <a href=\"https://github.com/flathub/org.andypiper.Fedinspect/commit/f9006361dfff48374830b88d8046922ac432c136\">f900636</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -201,5 +201,12 @@
     "desc": "Happy March 14th! I committed on a Pi Day!",
     "body": "Commits:\n\n- <a href=\"https://github.com/andypiper/mastodon-embeds-examples/commit/43944f3fd891dc6aecc4e969d2e6672cf9b8619e\">43944f3</a>\n- <a href=\"https://github.com/andypiper/cbc-examples/commit/eb5a725dbce52b1a9fe99b940125b0791a2eab4d\">eb5a725</a>",
     "image": "https://my-badges.github.io/my-badges/pi-day.png"
+  },
+  {
+    "id": "st-patricks-day",
+    "tier": 0,
+    "desc": "I committed on St. Patrick's Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andypiper/andypiper/commit/b90f3d9f6f0002032076cd82873ce70e9a378310\">b90f3d9</a>\n- <a href=\"https://github.com/andypiper/fivebyfive/commit/dc35bcf4a3b0ffa494381d0530a2165c0a1e4c39\">dc35bcf</a>\n- <a href=\"https://github.com/andypiper/fivebyfive/commit/4d5b94b6aacc2054cd446253caa8fe5cd8027f22\">4d5b94b</a>\n- <a href=\"https://github.com/andypiper/iterm-twitter-info/commit/e46a4245ab2cb30eac9e6abb50ffa821d6c42104\">e46a424</a>",
+    "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
   }
 ]
