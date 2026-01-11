@@ -52,7 +52,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"signed-off-by:\".",
-    "body": "My favorite commit message words are:\n\n1. signed-off-by: (used 900 times)\n2. andy (used 897 times)\n3. piper (used 896 times)\n4. <andypiper@users.noreply.github.com> (used 896 times)\n5. update (used 392 times)",
+    "body": "My favorite commit message words are:\n\n1. signed-off-by: (used 908 times)\n2. andy (used 905 times)\n3. piper (used 904 times)\n4. <andypiper@users.noreply.github.com> (used 904 times)\n5. update (used 394 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -122,14 +122,14 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/makeronicc/hackwimbledon/commit/edf84cfab339319c99fb4b4bbc28fc3c311ac555\">edf84cf</a>\n- <a href=\"https://github.com/makeronicc/hackwimbledon/commit/ee65663274ec86dc021a1865875c4b265feef09c\">ee65663</a>\n- <a href=\"https://github.com/makeronicc/hackwimbledon/commit/71b39b1c099250370dafc7d31a009e43b8cc6f2c\">71b39b1</a>\n- <a href=\"https://github.com/makeronicc/hackwimbledon/commit/691c747f1e706b0ce0f164dac694ca8fdaea576c\">691c747</a>\n- <a href=\"https://github.com/makeronicc/hackwimbledon/commit/61af5457fe15841691f8c8300ebcd5eb51b6c4d2\">61af545</a>\n- <a href=\"https://github.com/makeronicc/hackwimbledon/commit/d70c5f6aaae32915310eb78f524757703c889261\">d70c5f6</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/makeronicc/hackwimbledon/commit/2dbe1049db408cfe7b72b1217f5f5730f119abb4\">2dbe104</a>\n- <a href=\"https://github.com/makeronicc/hackwimbledon/commit/edf84cfab339319c99fb4b4bbc28fc3c311ac555\">edf84cf</a>\n- <a href=\"https://github.com/makeronicc/hackwimbledon/commit/ee65663274ec86dc021a1865875c4b265feef09c\">ee65663</a>\n- <a href=\"https://github.com/makeronicc/hackwimbledon/commit/71b39b1c099250370dafc7d31a009e43b8cc6f2c\">71b39b1</a>\n- <a href=\"https://github.com/makeronicc/hackwimbledon/commit/691c747f1e706b0ce0f164dac694ca8fdaea576c\">691c747</a>\n- <a href=\"https://github.com/makeronicc/hackwimbledon/commit/61af5457fe15841691f8c8300ebcd5eb51b6c4d2\">61af545</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
     "id": "midnight-commits",
     "tier": 0,
     "desc": "I commit at midnight.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/makeronicc/hackwimbledon/commit/be101f0fa073c617a8b6ddc908671746d8661477\">be101f0</a>\n- <a href=\"https://github.com/andypiper/fivebyfive/commit/2624f481495db10e188d6f7f68420d1a7602a9f8\">2624f48</a>\n- <a href=\"https://github.com/andypiper/fivebyfive/commit/ee1898c7e94e8d631e329d411c78abad93471d06\">ee1898c</a>\n- <a href=\"https://github.com/andypiper/fivebyfive/commit/fcc313a17dd60e4eca2783c00a135f4a6228eb61\">fcc313a</a>\n- <a href=\"https://github.com/andypiper/fivebyfive/commit/a1c1a3206163d4291a906f15b7311a475ce484b3\">a1c1a32</a>\n- <a href=\"https://github.com/andypiper/explore/commit/f63fc452df4648524af157235c7229e710eb8842\">f63fc45</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/makeronicc/hackwimbledon/commit/b9ee18e369a4727a3a0cd7a4fd1f8854670f79cc\">b9ee18e</a>\n- <a href=\"https://github.com/makeronicc/hackwimbledon/commit/be101f0fa073c617a8b6ddc908671746d8661477\">be101f0</a>\n- <a href=\"https://github.com/andypiper/fivebyfive/commit/2624f481495db10e188d6f7f68420d1a7602a9f8\">2624f48</a>\n- <a href=\"https://github.com/andypiper/fivebyfive/commit/ee1898c7e94e8d631e329d411c78abad93471d06\">ee1898c</a>\n- <a href=\"https://github.com/andypiper/fivebyfive/commit/fcc313a17dd60e4eca2783c00a135f4a6228eb61\">fcc313a</a>\n- <a href=\"https://github.com/andypiper/fivebyfive/commit/a1c1a3206163d4291a906f15b7311a475ce484b3\">a1c1a32</a>",
     "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
   },
   {
