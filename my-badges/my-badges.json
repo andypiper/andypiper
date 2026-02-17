@@ -52,7 +52,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"signed-off-by:\".",
-    "body": "My favorite commit message words are:\n\n1. signed-off-by: (used 970 times)\n2. andy (used 967 times)\n3. piper (used 966 times)\n4. <andypiper@users.noreply.github.com> (used 966 times)\n5. update (used 406 times)",
+    "body": "My favorite commit message words are:\n\n1. signed-off-by: (used 1044 times)\n2. andy (used 1041 times)\n3. piper (used 1040 times)\n4. <andypiper@users.noreply.github.com> (used 1040 times)\n5. update (used 431 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -115,7 +115,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andypiper/makers_calendar_uk/commit/2eea0ef7f30c1f07af8a6f4b0793f43366d7c03b\">2eea0ef</a>\n- <a href=\"https://github.com/andypiper/repo-landscape/commit/8b7c44f3686f532cb1f924f949c2150d0400d2fc\">8b7c44f</a>\n- <a href=\"https://github.com/andypiper/nodeinfo/commit/f4173a7051b5238cd15b085942aa726a1161973b\">f4173a7</a>\n- <a href=\"https://github.com/andypiper/use-postmarks/commit/6839ad443c7632a5de582ccaba14b3b4a93e0db1\">6839ad4</a>\n- <a href=\"https://github.com/andypiper/awesome-modern-twitter-api/commit/a7fc760f116cf76a4c1f5242a8c2a578453a9138\">a7fc760</a>\n- <a href=\"https://github.com/andypiper/cards-demos/commit/8684863c53df6686ef55443cceaa07c69e7ee2df\">8684863</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andypiper/joinmastodon/commit/2b4d852c863171c99a7a848eda7e2e0f8fbb1596\">2b4d852</a>\n- <a href=\"https://github.com/andypiper/joinmastodon/commit/aa7b6c41421c0682f8502538dce0e0406709b81a\">aa7b6c4</a>\n- <a href=\"https://github.com/andypiper/makers_calendar_uk/commit/2eea0ef7f30c1f07af8a6f4b0793f43366d7c03b\">2eea0ef</a>\n- <a href=\"https://github.com/andypiper/repo-landscape/commit/8b7c44f3686f532cb1f924f949c2150d0400d2fc\">8b7c44f</a>\n- <a href=\"https://github.com/andypiper/nodeinfo/commit/f4173a7051b5238cd15b085942aa726a1161973b\">f4173a7</a>\n- <a href=\"https://github.com/andypiper/use-postmarks/commit/6839ad443c7632a5de582ccaba14b3b4a93e0db1\">6839ad4</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
@@ -157,7 +157,7 @@
     "id": "friday-13",
     "tier": 0,
     "desc": "I committed on Friday the 13th, One… By One…",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andypiper/use-postmarks/commit/4ded96827f3aad5667568875a9f62aadd44884ff\">4ded968</a>\n- <a href=\"https://github.com/andypiper/iterm-twitter-info/commit/ff52b5d8962699f53757f53eadefd46f417ed6ba\">ff52b5d</a>\n- <a href=\"https://github.com/andypiper/iterm-twitter-info/commit/94aed0af2904a5d1d53e8001d7f4187f81cbe2be\">94aed0a</a>\n- <a href=\"https://github.com/andypiper/Dotfiles/commit/acfcc14ecee35ab9beea26ce58389b085860292e\">acfcc14</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andypiper/joinmastodon/commit/db96f19726e8970a58b61fb38a8e1e93aaa90b65\">db96f19</a>\n- <a href=\"https://github.com/andypiper/use-postmarks/commit/4ded96827f3aad5667568875a9f62aadd44884ff\">4ded968</a>\n- <a href=\"https://github.com/andypiper/iterm-twitter-info/commit/ff52b5d8962699f53757f53eadefd46f417ed6ba\">ff52b5d</a>\n- <a href=\"https://github.com/andypiper/iterm-twitter-info/commit/94aed0af2904a5d1d53e8001d7f4187f81cbe2be\">94aed0a</a>\n- <a href=\"https://github.com/andypiper/Dotfiles/commit/acfcc14ecee35ab9beea26ce58389b085860292e\">acfcc14</a>",
     "image": "https://my-badges.github.io/my-badges/friday-13.png"
   },
   {
