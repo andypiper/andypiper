@@ -84,13 +84,6 @@
     "image": "https://my-badges.github.io/my-badges/pr-collaboration-10.png"
   },
   {
-    "id": "public-keys-1",
-    "tier": 1,
-    "desc": "I have one public key",
-    "body": "",
-    "image": "https://my-badges.github.io/my-badges/public-keys-1.png"
-  },
-  {
     "id": "spooky-commit",
     "tier": 0,
     "desc": "I committed on the Halloween! Boo!",
