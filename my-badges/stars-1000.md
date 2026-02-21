@@ -96,6 +96,7 @@ Repos:
 * <a href="https://github.com/flathub/org.andypiper.Fedinspect">flathub/org.andypiper.Fedinspect: ★1</a>
 * <a href="https://github.com/andypiper/uapub">andypiper/uapub: ★1</a>
 * <a href="https://github.com/andypiper/ynab-pp-sync">andypiper/ynab-pp-sync: ★1</a>
+* <a href="https://github.com/andypiper/open-source-ai-contribution-policies">andypiper/open-source-ai-contribution-policies: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
