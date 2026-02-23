@@ -3,7 +3,7 @@
 
 I'm Andy. You can find me primarily on <a rel="me" href="https://macaw.social/@andypiper">Mastodon</a> (but I am also in other places in the [#Fediverse](https://fediverseforfreedom.org/?ref=gh-profile)). I am Head of Communications at [Mastodon](https://joinmastodon.org/about#team).
 
-I'm a maker at [Forge & Craft](https://forgeandcraft.co.uk), and I attend and help out with the [HackWimbledon](https://hackwimbledon.org) pop-up hackspace meetup.
+I'm a maker at [Forge & Craft](https://forgeandcraft.co.uk), and I co-run the [HackWimbledon](https://hackwimbledon.org) "pop-up hackspace" meetup.
 
 ---
 
@@ -27,7 +27,7 @@ I'm a maker at [Forge & Craft](https://forgeandcraft.co.uk), and I attend and he
 - I sometimes write longer things on [DEV](https://dev.to/andypiper) or [Medium](https://andypiper.medium.com), but most frequently on [my own website](https://andypiper.co.uk). My most recent blog posts are listed above.
 - I have [a newsletter](https://buttondown.email/andypiper) 📮 which gets sent to subscribers on an occasional basis. I haven't sent one out for ages. I should get on that.
 
-### Code (beyond GitHub)
+### Code (outside GitHub)
 
 - I'm on [Codeberg](https://codeberg.org/andypiper).
 - I'm on [GitLab](https://gitlab.com/andypiper).
