@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/ckolderup/postmarks">ckolderup/postmarks: ★535</a>
+* <a href="https://github.com/ckolderup/postmarks">ckolderup/postmarks: ★536</a>
 * <a href="https://github.com/andypiper/awesome-modern-twitter-api">andypiper/awesome-modern-twitter-api: ★76</a>
 * <a href="https://github.com/atomic14/esp32-zxspectrum">atomic14/esp32-zxspectrum: ★64</a>
 * <a href="https://github.com/andypiper/fivebyfive">andypiper/fivebyfive: ★39</a>
