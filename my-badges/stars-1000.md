@@ -70,6 +70,7 @@ Repos:
 * <a href="https://github.com/andypiper/scaredi-pi">andypiper/scaredi-pi: ★1</a>
 * <a href="https://github.com/andypiper/5x5_Clock">andypiper/5x5_Clock: ★1</a>
 * <a href="https://github.com/andypiper/stackypi-style">andypiper/stackypi-style: ★1</a>
+* <a href="https://github.com/andypiper/ezykeys-mac-setup">andypiper/ezykeys-mac-setup: ★1</a>
 * <a href="https://github.com/andypiper/thonny">andypiper/thonny: ★1</a>
 * <a href="https://github.com/andypiper/omg.lol">andypiper/omg.lol: ★1</a>
 * <a href="https://github.com/andypiper/forgeandcraft-site">andypiper/forgeandcraft-site: ★1</a>
