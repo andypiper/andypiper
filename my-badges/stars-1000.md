@@ -26,9 +26,9 @@ Repos:
 * <a href="https://github.com/andypiper/rmq-mqtt-demo">andypiper/rmq-mqtt-demo: ★5</a>
 * <a href="https://github.com/andypiper/Netatmo-Alexa">andypiper/Netatmo-Alexa: ★5</a>
 * <a href="https://github.com/andypiper/andypiper">andypiper/andypiper: ★5</a>
+* <a href="https://github.com/andypiper/fw-lid-fprint-daemon">andypiper/fw-lid-fprint-daemon: ★5</a>
 * <a href="https://github.com/andypiper/karma">andypiper/karma: ★4</a>
 * <a href="https://github.com/andypiper/TwitterDotNetCore">andypiper/TwitterDotNetCore: ★4</a>
-* <a href="https://github.com/andypiper/fw-lid-fprint-daemon">andypiper/fw-lid-fprint-daemon: ★4</a>
 * <a href="https://github.com/andypiper/pistate">andypiper/pistate: ★3</a>
 * <a href="https://github.com/andypiper/twauth-web">andypiper/twauth-web: ★3</a>
 * <a href="https://github.com/andypiper/twit-webhook-bot">andypiper/twit-webhook-bot: ★3</a>
