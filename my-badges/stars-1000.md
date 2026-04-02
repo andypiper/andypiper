@@ -16,10 +16,10 @@ Repos:
 * <a href="https://github.com/andypiper/rs40rgb-keeb">andypiper/rs40rgb-keeb: ★11</a>
 * <a href="https://github.com/mastodon/.github">mastodon/.github: ★11</a>
 * <a href="https://github.com/andypiper/ada-macropad">andypiper/ada-macropad: ★10</a>
+* <a href="https://github.com/andypiper/my-glitch-in-bio">andypiper/my-glitch-in-bio: ★8</a>
 * <a href="https://github.com/ccattuto/wordle-device">ccattuto/wordle-device: ★8</a>
 * <a href="https://github.com/mastodon/specs-background">mastodon/specs-background: ★8</a>
 * <a href="https://github.com/andypiper/sinatra-static-web">andypiper/sinatra-static-web: ★7</a>
-* <a href="https://github.com/andypiper/my-glitch-in-bio">andypiper/my-glitch-in-bio: ★7</a>
 * <a href="https://github.com/andypiper/picow-enviroplus">andypiper/picow-enviroplus: ★7</a>
 * <a href="https://github.com/andypiper/mpy-rp2040-lcd">andypiper/mpy-rp2040-lcd: ★6</a>
 * <a href="https://github.com/andypiper/theindiebeat-gnome-ext">andypiper/theindiebeat-gnome-ext: ★6</a>
@@ -55,6 +55,7 @@ Repos:
 * <a href="https://github.com/andypiper/Dotfiles">andypiper/Dotfiles: ★1</a>
 * <a href="https://github.com/andypiper/mqtt_message_server">andypiper/mqtt_message_server: ★1</a>
 * <a href="https://github.com/andypiper/marvellous">andypiper/marvellous: ★1</a>
+* <a href="https://github.com/andypiper/sign_in_with_twitter_sample">andypiper/sign_in_with_twitter_sample: ★1</a>
 * <a href="https://github.com/andypiper/cards-demos">andypiper/cards-demos: ★1</a>
 * <a href="https://github.com/andypiper/AirPi">andypiper/AirPi: ★1</a>
 * <a href="https://github.com/andypiper/pipes_ebooks">andypiper/pipes_ebooks: ★1</a>
@@ -74,6 +75,7 @@ Repos:
 * <a href="https://github.com/andypiper/omg.lol">andypiper/omg.lol: ★1</a>
 * <a href="https://github.com/andypiper/forgeandcraft-site">andypiper/forgeandcraft-site: ★1</a>
 * <a href="https://github.com/andypiper/wipeout-rewrite">andypiper/wipeout-rewrite: ★1</a>
+* <a href="https://github.com/andypiper/NetworkMonitor">andypiper/NetworkMonitor: ★1</a>
 * <a href="https://github.com/andypiper/24pullrequests">andypiper/24pullrequests: ★1</a>
 * <a href="https://github.com/andypiper/awesome-fediverse">andypiper/awesome-fediverse: ★1</a>
 * <a href="https://github.com/andypiper/fedidevs.org">andypiper/fedidevs.org: ★1</a>
