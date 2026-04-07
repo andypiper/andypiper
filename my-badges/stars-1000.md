@@ -29,12 +29,12 @@ Repos:
 * <a href="https://github.com/andypiper/fw-lid-fprint-daemon">andypiper/fw-lid-fprint-daemon: ★5</a>
 * <a href="https://github.com/andypiper/karma">andypiper/karma: ★4</a>
 * <a href="https://github.com/andypiper/TwitterDotNetCore">andypiper/TwitterDotNetCore: ★4</a>
+* <a href="https://github.com/atomic14/esp32-rainbow-website">atomic14/esp32-rainbow-website: ★4</a>
 * <a href="https://github.com/andypiper/pistate">andypiper/pistate: ★3</a>
 * <a href="https://github.com/andypiper/twauth-web">andypiper/twauth-web: ★3</a>
 * <a href="https://github.com/andypiper/twit-webhook-bot">andypiper/twit-webhook-bot: ★3</a>
 * <a href="https://github.com/andypiper/ESP32-C3FH4-RGB">andypiper/ESP32-C3FH4-RGB: ★3</a>
 * <a href="https://github.com/andypiper/mastodon-fosdem2024">andypiper/mastodon-fosdem2024: ★3</a>
-* <a href="https://github.com/atomic14/esp32-rainbow-website">atomic14/esp32-rainbow-website: ★3</a>
 * <a href="https://github.com/andypiper/MastoShell">andypiper/MastoShell: ★3</a>
 * <a href="https://github.com/andypiper/presto-lastfm">andypiper/presto-lastfm: ★3</a>
 * <a href="https://github.com/mcollina/mqtt-on-yun">mcollina/mqtt-on-yun: ★2</a>
