@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/ckolderup/postmarks">ckolderup/postmarks: ★542</a>
+* <a href="https://github.com/ckolderup/postmarks">ckolderup/postmarks: ★541</a>
 * <a href="https://github.com/andypiper/awesome-modern-twitter-api">andypiper/awesome-modern-twitter-api: ★76</a>
 * <a href="https://github.com/atomic14/esp32-zxspectrum">atomic14/esp32-zxspectrum: ★68</a>
 * <a href="https://github.com/andypiper/fivebyfive">andypiper/fivebyfive: ★39</a>
@@ -92,6 +92,7 @@ Repos:
 * <a href="https://github.com/andypiper/gpl2clr">andypiper/gpl2clr: ★1</a>
 * <a href="https://github.com/andypiper/theindiebeat-simple-player">andypiper/theindiebeat-simple-player: ★1</a>
 * <a href="https://github.com/andypiper/mastofs">andypiper/mastofs: ★1</a>
+* <a href="https://github.com/andypiper/dotme">andypiper/dotme: ★1</a>
 * <a href="https://github.com/andypiper/StreamDeckMastodon">andypiper/StreamDeckMastodon: ★1</a>
 * <a href="https://github.com/andypiper/makers_calendar_uk">andypiper/makers_calendar_uk: ★1</a>
 * <a href="https://github.com/flathub/org.andypiper.Fedinspect">flathub/org.andypiper.Fedinspect: ★1</a>
