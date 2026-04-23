@@ -1,7 +1,7 @@
 
 ### Hey there, friend! 👋🏻
 
-I'm Andy. You can find me primarily on <a rel="me" href="https://macaw.social/@andypiper">Mastodon</a> (but I am also in other places in the [#Fediverse](https://fediverseforfreedom.org/?ref=gh-profile)). I am Head of Communications at [Mastodon](https://joinmastodon.org/about#team).
+I'm Andy. You can find me primarily on <a rel="me" href="https://macaw.social/@andypiper">Mastodon</a> (but I am also in other places in the [#Fediverse](https://fediverseforfreedom.org/?ref=gh-profile)).
 
 I'm a maker at [Forge & Craft](https://forgeandcraft.co.uk), and I co-run the [HackWimbledon](https://hackwimbledon.org) "pop-up hackspace" meetup.
 
@@ -24,7 +24,7 @@ I'm a maker at [Forge & Craft](https://forgeandcraft.co.uk), and I co-run the [H
 💖 [OMG](https://andypiper.omg.lol)
 
 - I'm one of the co-hosts of the weekly technology podcast 🎙️ [Games at Work dot biz](https://gamesatwork.biz) - you can find us on all the major podcast directories. Let us know what you think!
-- I sometimes write longer things on [DEV](https://dev.to/andypiper) or [Medium](https://andypiper.medium.com), but most frequently on [my own website](https://andypiper.co.uk). My most recent blog posts are listed above.
+- My [website](https://andypiper.co.uk) is where I post blog updates, and the most recent posts are listed above.
 - I have [a newsletter](https://buttondown.email/andypiper) 📮 which gets sent to subscribers on an occasional basis. I haven't sent one out for ages. I should get on that.
 
 ### Code (outside GitHub)
