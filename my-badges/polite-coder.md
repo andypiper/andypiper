@@ -4,11 +4,11 @@
 
 I use words like "thanks" and "please" in my issues:
 
-- <a href="https://github.com/go-twitter/twitter/issues/1">#1</a>: Thanks for starting work on this!
 - <a href="https://github.com/BnMcG/HomeAssistant-RoboVac/issues/14">#14</a>: Several errors in the logs for HA 0.113.1
 - <a href="https://github.com/w00000dy/WLED-GUI/issues/10">#10</a>: Consistent WLED Helper crash on reboot / autostart
 - <a href="https://github.com/AnaviTechnology/anavi-thermometer-sw/issues/47">#47</a>: Migrate to LittleFS for ESP8266
 - <a href="https://github.com/codebugtools/CodeBugConnect/issues/4">#4</a>: REPL info links are inaccurate
+- <a href="https://github.com/jnmau/homebridge-keylights/issues/296">#296</a>: Add Key Light Mini
 
  And many more...
 
