@@ -14,11 +14,9 @@ Repos:
 * <a href="https://github.com/andypiper/mqtt-chat">andypiper/mqtt-chat: ★14</a>
 * <a href="https://github.com/andypiper/DevTerm-KB">andypiper/DevTerm-KB: ★14</a>
 * <a href="https://github.com/andypiper/rs40rgb-keeb">andypiper/rs40rgb-keeb: ★11</a>
-* <a href="https://github.com/mastodon/.github">mastodon/.github: ★11</a>
 * <a href="https://github.com/andypiper/ada-macropad">andypiper/ada-macropad: ★10</a>
 * <a href="https://github.com/andypiper/my-glitch-in-bio">andypiper/my-glitch-in-bio: ★8</a>
 * <a href="https://github.com/ccattuto/wordle-device">ccattuto/wordle-device: ★8</a>
-* <a href="https://github.com/mastodon/specs-background">mastodon/specs-background: ★8</a>
 * <a href="https://github.com/andypiper/sinatra-static-web">andypiper/sinatra-static-web: ★7</a>
 * <a href="https://github.com/andypiper/picow-enviroplus">andypiper/picow-enviroplus: ★7</a>
 * <a href="https://github.com/andypiper/mpy-rp2040-lcd">andypiper/mpy-rp2040-lcd: ★6</a>
@@ -34,7 +32,6 @@ Repos:
 * <a href="https://github.com/andypiper/twauth-web">andypiper/twauth-web: ★3</a>
 * <a href="https://github.com/andypiper/twit-webhook-bot">andypiper/twit-webhook-bot: ★3</a>
 * <a href="https://github.com/andypiper/ESP32-C3FH4-RGB">andypiper/ESP32-C3FH4-RGB: ★3</a>
-* <a href="https://github.com/mastodon/mastodon-fosdem2024">mastodon/mastodon-fosdem2024: ★3</a>
 * <a href="https://github.com/andypiper/MastoShell">andypiper/MastoShell: ★3</a>
 * <a href="https://github.com/andypiper/presto-lastfm">andypiper/presto-lastfm: ★3</a>
 * <a href="https://github.com/mcollina/mqtt-on-yun">mcollina/mqtt-on-yun: ★2</a>
