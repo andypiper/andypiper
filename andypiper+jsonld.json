@@ -2,8 +2,8 @@
   "@context": "https://schema.org",
   "@type": "Person",
   "name": "Andy Piper",
-  "description": "Technologist, speaker, and pen-plotter artist",
-  "jobTitle": "Head of Communications at Mastodon",
+  "description": "Technologist, speaker, and pen plotter artist",
+  "jobTitle": "freelance technologist",
   "image": "https://gravatar.com/avatar/d33e6fe38426aba6431cd4e9c3609a0c6ba480813a7e2d5987170bf015d5b8c7?size=512",
   "url": "https://andypiper.co.uk",
   "mainEntityOfPage": {
@@ -16,6 +16,7 @@
     "https://macaw.social/@andypiper",
     "https://github.com/andypiper",
     "https://www.linkedin.com/in/andypiperuk/",
+    "https://sifa.id/p/andypiper.me",
     "https://andypiper.omg.lol/",
     "https://instagram.com/andypiper",
     "https://replit.com/@andypiper",
@@ -48,12 +49,6 @@
     "addressCountry": "GB"
   },
   "worksFor": [
-    {
-      "@type": "Organization",
-      "name": "Mastodon gGmbH",
-      "url": "https://joinmastodon.org",
-      "description": "Head of Communications"
-    },
     {
       "@type": "Organization",
       "name": "The Lost Outpost",
