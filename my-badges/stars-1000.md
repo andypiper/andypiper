@@ -88,6 +88,7 @@ Repos:
 * <a href="https://github.com/andypiper/oauth-dropins">andypiper/oauth-dropins: ★1</a>
 * <a href="https://github.com/andypiper/gpl2clr">andypiper/gpl2clr: ★1</a>
 * <a href="https://github.com/andypiper/theindiebeat-simple-player">andypiper/theindiebeat-simple-player: ★1</a>
+* <a href="https://github.com/andypiper/ics-event-cli">andypiper/ics-event-cli: ★1</a>
 * <a href="https://github.com/andypiper/mastofs">andypiper/mastofs: ★1</a>
 * <a href="https://github.com/andypiper/dotme">andypiper/dotme: ★1</a>
 * <a href="https://github.com/andypiper/StreamDeckMastodon">andypiper/StreamDeckMastodon: ★1</a>
