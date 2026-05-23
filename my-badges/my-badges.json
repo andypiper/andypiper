@@ -115,7 +115,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/andypiper/mastodon_digest/commit/55ed5aae77b4c973854decfaff283ddc62c2c0e3\">55ed5aa</a>\n- <a href=\"https://github.com/andypiper/mastodon_digest/commit/42b96eff0883e427fd731be56e7d56ed96cd57de\">42b96ef</a>\n- <a href=\"https://github.com/andypiper/mastodon_digest/commit/b82608dafdd273c8f605c41e03dc32e799828375\">b82608d</a>\n- <a href=\"https://github.com/makeronicc/hackwimbledon/commit/8c5fcaa8d11d26bf9f2d446d7a26a89471f49b85\">8c5fcaa</a>\n- <a href=\"https://github.com/andypiper/use-postmarks/commit/917ce16db12556690ae344bd544f6e4ef41babb1\">917ce16</a>\n- <a href=\"https://github.com/makeronicc/hackwimbledon/commit/55d2077a4e7c5605d6a13194bf12cf147193fccd\">55d2077</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/andypiper/mastodon_digest/commit/3c34b2b40d4c5a1b3a2c1c7d70ac3c54bd88922f\">3c34b2b</a>\n- <a href=\"https://github.com/andypiper/mastodon_digest/commit/ffe1a284f2c23dd1cfef1812fdb1dc8dad6057c0\">ffe1a28</a>\n- <a href=\"https://github.com/andypiper/mastodon_digest/commit/2cc1c0d34052bea8fca8d4e9971644161405309e\">2cc1c0d</a>\n- <a href=\"https://github.com/andypiper/mastodon_digest/commit/55ed5aae77b4c973854decfaff283ddc62c2c0e3\">55ed5aa</a>\n- <a href=\"https://github.com/andypiper/mastodon_digest/commit/42b96eff0883e427fd731be56e7d56ed96cd57de\">42b96ef</a>\n- <a href=\"https://github.com/andypiper/mastodon_digest/commit/b82608dafdd273c8f605c41e03dc32e799828375\">b82608d</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -164,7 +164,7 @@
     "id": "this-is-fine",
     "tier": 0,
     "desc": "I merged a PR with failing checks",
-    "body": "Pull requests:\n\n- <a href=\"https://github.com/andypiper/mastodon_digest/pull/2\">#2</a>: correctly handle indexing signals, add user-agent\n- <a href=\"https://github.com/makeronicc/hackwimbledon/pull/2\">#2</a>: Adding in some more info\n- <a href=\"https://github.com/makeronicc/hackwimbledon/pull/3\">#3</a>: Brand updates\n- <a href=\"https://github.com/atomic14/esp32-zxspectrum/pull/23\">#23</a>: Wrap conditional  correctly to avoid emscripten error on Linux build.",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/andypiper/mastodon_digest/pull/2\">#2</a>: correctly handle indexing signals, add user-agent\n- <a href=\"https://github.com/makeronicc/hackwimbledon/pull/2\">#2</a>: Adding in some more info\n- <a href=\"https://github.com/makeronicc/hackwimbledon/pull/3\">#3</a>: Brand updates\n- <a href=\"https://github.com/andypiper/mastodon_digest/pull/5\">#5</a>: Copilot/fix mastodon timeout handling\n- <a href=\"https://github.com/atomic14/esp32-zxspectrum/pull/23\">#23</a>: Wrap conditional  correctly to avoid emscripten error on Linux build.",
     "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
   },
   {
