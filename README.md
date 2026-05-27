@@ -10,11 +10,11 @@ I'm a maker at [Forge & Craft](https://forgeandcraft.co.uk), and I co-run the [H
 ### Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- 🖋 [Tech is failing older people](https://andypiper.co.uk/2026/05/26/tech-is-failing-older-people/) - *2026-05-26*
 - 🖋 [Choose the Fediverse](https://andypiper.co.uk/2026/01/09/choose-the-fediverse/) - *2026-01-09*
 - 🖋 [Highs and lows in 2025](https://andypiper.co.uk/2026/01/02/highs-and-lows-in-2025/) - *2026-01-02*
 - 🖋 [Retro-tastic!](https://andypiper.co.uk/2025/08/25/retro-tastic/) - *2025-08-25*
 - 🖋 [Talks and travels: FrOSCon, Germany](https://andypiper.co.uk/2025/08/22/talks-and-travels-froscon-germany/) - *2025-08-22*
-- 🖋 [Trying (and failing) to offload](https://andypiper.co.uk/2025/07/16/trying-and-failing-to-offload/) - *2025-07-16*
 <!-- BLOG-POST-LIST:END -->
 
 ---
