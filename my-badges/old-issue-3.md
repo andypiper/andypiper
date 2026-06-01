@@ -5,6 +5,7 @@
 Issues:
 
 - <a href="https://github.com/twitter/twurl/issues/139">#139</a>: Create zsh completion script
+- <a href="https://github.com/xdevplatform/twitter-alexa-skill-apl/issues/2">#2</a>: Move config to environment variables
 - <a href="https://github.com/twitter/twurl/issues/118">#118</a>: Enable comments / labels in YAML .twurlrc
 
 

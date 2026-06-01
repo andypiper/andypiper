@@ -82,6 +82,7 @@ Repos:
 * <a href="https://github.com/andypiper/mastodon_digest">andypiper/mastodon_digest: ★1</a>
 * <a href="https://github.com/andypiper/brachiograph-converter-gui">andypiper/brachiograph-converter-gui: ★1</a>
 * <a href="https://github.com/andypiper/Adafruit_CircuitPython_Bitmap_Font">andypiper/Adafruit_CircuitPython_Bitmap_Font: ★1</a>
+* <a href="https://github.com/andypiper/EMF-Camp-Schedule-Viewer">andypiper/EMF-Camp-Schedule-Viewer: ★1</a>
 * <a href="https://github.com/andypiper/badge-2024-app-store">andypiper/badge-2024-app-store: ★1</a>
 * <a href="https://github.com/andypiper/Tildagon_IP_App">andypiper/Tildagon_IP_App: ★1</a>
 * <a href="https://github.com/andypiper/emf-duckfacts-tildagon">andypiper/emf-duckfacts-tildagon: ★1</a>
