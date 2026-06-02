@@ -9,6 +9,7 @@ Pull requests:
 - <a href="https://github.com/makeronicc/hackwimbledon/pull/3">#3</a>: Brand updates
 - <a href="https://github.com/andypiper/mastodon_digest/pull/5">#5</a>: Copilot/fix mastodon timeout handling
 - <a href="https://github.com/makeronicc/hackwimbledon/pull/4">#4</a>: add places and styling
+- <a href="https://github.com/makeronicc/hackwimbledon/pull/5">#5</a>: migration
 - <a href="https://github.com/atomic14/esp32-zxspectrum/pull/23">#23</a>: Wrap conditional  correctly to avoid emscripten error on Linux build.
 
 
