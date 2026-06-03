@@ -19,9 +19,9 @@ Repos:
 * <a href="https://github.com/ccattuto/wordle-device">ccattuto/wordle-device: ★8</a>
 * <a href="https://github.com/andypiper/sinatra-static-web">andypiper/sinatra-static-web: ★7</a>
 * <a href="https://github.com/andypiper/picow-enviroplus">andypiper/picow-enviroplus: ★7</a>
+* <a href="https://github.com/andypiper/fw-lid-fprint-daemon">andypiper/fw-lid-fprint-daemon: ★7</a>
 * <a href="https://github.com/andypiper/mpy-rp2040-lcd">andypiper/mpy-rp2040-lcd: ★6</a>
 * <a href="https://github.com/andypiper/theindiebeat-gnome-ext">andypiper/theindiebeat-gnome-ext: ★6</a>
-* <a href="https://github.com/andypiper/fw-lid-fprint-daemon">andypiper/fw-lid-fprint-daemon: ★6</a>
 * <a href="https://github.com/andypiper/rmq-mqtt-demo">andypiper/rmq-mqtt-demo: ★5</a>
 * <a href="https://github.com/andypiper/Netatmo-Alexa">andypiper/Netatmo-Alexa: ★5</a>
 * <a href="https://github.com/andypiper/andypiper">andypiper/andypiper: ★5</a>
