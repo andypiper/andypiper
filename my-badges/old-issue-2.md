@@ -17,7 +17,6 @@ Issues:
 - <a href="https://github.com/bluemon0919/Twitter-API-v2-sample-code/issues/1">#1</a>: Add support for additional endpoints?
 - <a href="https://github.com/naderQudieh/TwitterApi2/issues/1">#1</a>: Remove your tokens
 - <a href="https://github.com/draftbit/twitter-lite/issues/69">#69</a>: Support for Twitter Developer Labs / next version endpoints
-- <a href="https://github.com/xdevplatform/labs-sample-code/issues/7">#7</a>: JS request library is frozen
 - <a href="https://github.com/micropython/micropython/issues/8417">#8417</a>: `pyb.country` is missing from the documentation
 - <a href="https://github.com/mastodon/documentation/issues/1222">#1222</a>: Clarify scope of search API
 - <a href="https://github.com/mastodon/documentation/issues/1233">#1233</a>: Add information on OAuth token expiry
