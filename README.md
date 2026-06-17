@@ -25,7 +25,7 @@ I'm a maker at [Forge & Craft](https://forgeandcraft.co.uk), and I co-run the [H
 
 - I'm one of the co-hosts of the weekly technology podcast 🎙️ [Games at Work dot biz](https://gamesatwork.biz) - you can find us on all the major podcast directories. Let us know what you think!
 - My [website](https://andypiper.co.uk) is where I post blog updates, and the most recent posts are listed above.
-- I have [a newsletter](https://buttondown.email/andypiper) 📮 which gets sent to subscribers on an occasional basis. I haven't sent one out for ages. I should get on that.
+- I have [a newsletter](https://buttondown.email/andypiper) 📮 which gets sent to subscribers on an occasional basis. 
 
 ### Code (outside GitHub)
 
@@ -40,7 +40,7 @@ I'm a maker at [Forge & Craft](https://forgeandcraft.co.uk), and I co-run the [H
 - 🌱 I’m spending time learning 🐍 [MicroPython](https://micropython.org), and 🌐 Fediverse (Social Web) APIs like [ActivityPub](https://w3c.github.io/activitypub/)
 - 📝 Most-used editors: VS Code (GUI), neovim (CLI)
 - 💻 First computer: [Acorn Electron](https://en.wikipedia.org/wiki/Acorn_Electron) (and, I still have an [Acorn Risc PC](https://en.wikipedia.org/wiki/Risc_PC) that I need to dig out from cobwebs sometime soon)
-- 💻 Current systems: [Framework 13](https://frame.work/laptop13) (Fedora), [StarLabs Starlite Mk V](https://starlabs.systems/pages/starlite) (Fedora), [MNT Pocket Reform](https://shop.mntre.com/products/mnt-pocket-reform) (Debian), MacBook Pro M1 Pro (macOS Tahoe)
+- 💻 Current systems: [Framework 13](https://frame.work/laptop13) (Fedora), Chuwi Minibook X (Fedora), [StarLabs Starlite Mk V](https://starlabs.systems/pages/starlite) (Fedora), [MNT Pocket Reform](https://shop.mntre.com/products/mnt-pocket-reform) (Debian), MacBook Pro M1 Pro (macOS Tahoe), Homelab (Proxmox w/ Debian LXC, VM etc)
 
 ---
 
