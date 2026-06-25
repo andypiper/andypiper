@@ -1,7 +1,7 @@
 
 ### Hey there, friend! 👋🏻
 
-I'm Andy. I'm the Senior Developer Relations Engineer at [the Matrix Foundation](https://matrix.org/).
+I'm Andy. I'm the Senior Developer Relations Engineer at [the Matrix.org Foundation](https://matrix.org/).
 
 You can find me primarily on <a rel="me" href="https://macaw.social/@andypiper">Mastodon</a> (but I am also in other places in the [#Fediverse](https://fediverseforfreedom.org/?ref=gh-profile)).
 
