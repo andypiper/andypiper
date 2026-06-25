@@ -1,7 +1,9 @@
 
 ### Hey there, friend! 👋🏻
 
-I'm Andy. You can find me primarily on <a rel="me" href="https://macaw.social/@andypiper">Mastodon</a> (but I am also in other places in the [#Fediverse](https://fediverseforfreedom.org/?ref=gh-profile)).
+I'm Andy. I'm the Senior Developer Relations Engineer at [the Matrix Foundation](https://matrix.org/).
+
+You can find me primarily on <a rel="me" href="https://macaw.social/@andypiper">Mastodon</a> (but I am also in other places in the [#Fediverse](https://fediverseforfreedom.org/?ref=gh-profile)).
 
 I'm a maker at [Forge & Craft](https://forgeandcraft.co.uk), and I co-run the [HackWimbledon](https://hackwimbledon.org) "pop-up hackspace" meetup.
 
