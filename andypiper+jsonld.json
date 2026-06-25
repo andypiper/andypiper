@@ -51,7 +51,7 @@
   "worksFor": [
     {
       "@type": "Organization",
-      "name": "Matrix Foundation",
+      "name": "The Matrix.org Foundation",
       "url": "https://matrix.org",
       "sameAs": [
         "https://mastodon.matrix.org/@matrix"
