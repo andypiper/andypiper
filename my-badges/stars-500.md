@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/ckolderup/postmarks">ckolderup/postmarks: ★548</a>
+* <a href="https://github.com/ckolderup/postmarks">ckolderup/postmarks: ★547</a>
 * <a href="https://github.com/andypiper/awesome-modern-twitter-api">andypiper/awesome-modern-twitter-api: ★76</a>
 * <a href="https://github.com/atomic14/esp32-zxspectrum">atomic14/esp32-zxspectrum: ★69</a>
 * <a href="https://github.com/andypiper/fivebyfive">andypiper/fivebyfive: ★39</a>
@@ -100,6 +100,7 @@ Repos:
 * <a href="https://github.com/andypiper/open-source-ai-contribution-policies">andypiper/open-source-ai-contribution-policies: ★1</a>
 * <a href="https://github.com/andypiper/frankos">andypiper/frankos: ★1</a>
 * <a href="https://github.com/andypiper/my-badges">andypiper/my-badges: ★1</a>
+* <a href="https://github.com/andypiper/tildagon-speedtest">andypiper/tildagon-speedtest: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
