@@ -51,6 +51,14 @@
   "worksFor": [
     {
       "@type": "Organization",
+      "name": "Matrix Foundation",
+      "url": "https://matrix.org",
+      "sameAs": [
+        "https://mastodon.matrix.org/@matrix"
+      ]
+    },
+    {
+      "@type": "Organization",
       "name": "The Lost Outpost",
       "url": "https://andypiper.co.uk"
     },
