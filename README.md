@@ -7,6 +7,8 @@ You can find me primarily on <a rel="me" href="https://macaw.social/@andypiper">
 
 I'm a maker at [Forge & Craft](https://forgeandcraft.co.uk), and I co-run the [HackWimbledon](https://hackwimbledon.org) "pop-up hackspace" meetup.
 
+[![Fediverse](https://img.shields.io/badge/andypiper%20-%231DA1F2.svg?&style=flat-square&logo=mastodon&logoColor=white&color=6364FF)](https://macaw.social/@andypiper) [![Matrix](https://img.shields.io/badge/andypiper%20-%23000000.svg?&style=flat-square&logo=matrix&logoColor=white&color=000000)](https://matrix.to/#/@andypiper:matrix.org) [![Bluesky](https://img.shields.io/badge/andypiper.me%20-%230285FF.svg?&style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/andypiper.me) [![](https://omg.8bitsqu.id/?user=andypiper)](https://andypiper.omg.lol) [![PeerTube](https://img.shields.io/badge/andypiper%20-%231DA1F2.svg?&style=flat-square&logo=peertube&logoColor=white&color=e2712f)](https://makertube.net/a/andypiper) [![YouTube](https://img.shields.io/badge/andypiper%20-%23FF0000.svg?&style=flat-square&logo=YouTube&logoColor=white)](https://youtube.com/@andypiper)
+
 ---
 
 ### Recent blog posts
@@ -27,7 +29,7 @@ I'm a maker at [Forge & Craft](https://forgeandcraft.co.uk), and I co-run the [H
 
 - I'm one of the co-hosts of the weekly technology podcast 🎙️ [Games at Work dot biz](https://gamesatwork.biz) - you can find us on all the major podcast directories. Let us know what you think!
 - My [website](https://andypiper.co.uk) is where I post blog updates, and the most recent posts are listed above.
-- I have [a newsletter](https://buttondown.email/andypiper) 📮 which gets sent to subscribers on an occasional basis. 
+- I have [a newsletter](https://buttondown.email/andypiper) 📮 which gets sent to subscribers on an occasional basis.
 
 ### Code (outside GitHub)
 
@@ -45,8 +47,6 @@ I'm a maker at [Forge & Craft](https://forgeandcraft.co.uk), and I co-run the [H
 - 💻 Current systems: [Framework 13](https://frame.work/laptop13) (Fedora), Chuwi Minibook X (Fedora), [StarLabs Starlite Mk V](https://starlabs.systems/pages/starlite) (Fedora), [MNT Pocket Reform](https://shop.mntre.com/products/mnt-pocket-reform) (Debian), MacBook Pro M1 Pro (macOS Tahoe), Homelab (Proxmox w/ Debian LXC, VM etc)
 
 ---
-
-[![](https://omg.8bitsqu.id/?user=andypiper)](https://andypiper.omg.lol) [![Fediverse](https://img.shields.io/badge/andypiper%20-%231DA1F2.svg?&style=flat-square&logo=mastodon&logoColor=white&color=6364FF)](https://macaw.social/@andypiper) [![PeerTube](https://img.shields.io/badge/andypiper%20-%231DA1F2.svg?&style=flat-square&logo=peertube&logoColor=white&color=e2712f)](https://makertube.net/a/andypiper) [![YouTube](https://img.shields.io/badge/andypiper%20-%23FF0000.svg?&style=flat-square&logo=YouTube&logoColor=white)](https://youtube.com/@andypiper) <a href="https://xbox.com"><img src="https://img.shields.io/badge/LostRinkitink%20-%23107C10.svg?&style=flat-square&logo=Xbox&logoColor=white"/></a>
 
 ### Bonus badges 🎖️
 
