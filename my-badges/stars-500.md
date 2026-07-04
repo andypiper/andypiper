@@ -7,7 +7,7 @@ Repos:
 * <a href="https://github.com/andypiper/awesome-modern-twitter-api">andypiper/awesome-modern-twitter-api: ★76</a>
 * <a href="https://github.com/atomic14/esp32-zxspectrum">atomic14/esp32-zxspectrum: ★69</a>
 * <a href="https://github.com/FreeUKGen/MyopicVicar">FreeUKGen/MyopicVicar: ★48</a>
-* <a href="https://github.com/andypiper/fivebyfive">andypiper/fivebyfive: ★39</a>
+* <a href="https://github.com/andypiper/fivebyfive">andypiper/fivebyfive: ★38</a>
 * <a href="https://github.com/andypiper/spring-int-mqtt">andypiper/spring-int-mqtt: ★30</a>
 * <a href="https://github.com/andypiper/mastodon-embeds-examples">andypiper/mastodon-embeds-examples: ★23</a>
 * <a href="https://github.com/joshlong-attic/spring-integration-mqtt">joshlong-attic/spring-integration-mqtt: ★18</a>
