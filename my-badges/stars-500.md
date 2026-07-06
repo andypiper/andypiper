@@ -5,7 +5,7 @@
 Repos:
 
 * <a href="https://github.com/andypiper/awesome-modern-twitter-api">andypiper/awesome-modern-twitter-api: ★76</a>
-* <a href="https://github.com/atomic14/esp32-zxspectrum">atomic14/esp32-zxspectrum: ★69</a>
+* <a href="https://github.com/atomic14/esp32-zxspectrum">atomic14/esp32-zxspectrum: ★70</a>
 * <a href="https://github.com/FreeUKGen/MyopicVicar">FreeUKGen/MyopicVicar: ★48</a>
 * <a href="https://github.com/andypiper/fivebyfive">andypiper/fivebyfive: ★38</a>
 * <a href="https://github.com/andypiper/spring-int-mqtt">andypiper/spring-int-mqtt: ★30</a>
@@ -104,6 +104,7 @@ Repos:
 * <a href="https://github.com/andypiper/frankos">andypiper/frankos: ★1</a>
 * <a href="https://github.com/andypiper/my-badges">andypiper/my-badges: ★1</a>
 * <a href="https://github.com/andypiper/tildagon-speedtest">andypiper/tildagon-speedtest: ★1</a>
+* <a href="https://github.com/andypiper/wifi-switcher">andypiper/wifi-switcher: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 

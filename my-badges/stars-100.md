@@ -80,6 +80,7 @@ Repos:
 * <a href="https://github.com/andypiper/frankos">andypiper/frankos: ★1</a>
 * <a href="https://github.com/andypiper/my-badges">andypiper/my-badges: ★1</a>
 * <a href="https://github.com/andypiper/tildagon-speedtest">andypiper/tildagon-speedtest: ★1</a>
+* <a href="https://github.com/andypiper/wifi-switcher">andypiper/wifi-switcher: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
