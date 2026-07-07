@@ -96,6 +96,7 @@ Repos:
 * <a href="https://github.com/andypiper/mastofs">andypiper/mastofs: ★1</a>
 * <a href="https://github.com/andypiper/dotme">andypiper/dotme: ★1</a>
 * <a href="https://github.com/andypiper/StreamDeckMastodon">andypiper/StreamDeckMastodon: ★1</a>
+* <a href="https://github.com/andypiper/StreamControllerMastodon">andypiper/StreamControllerMastodon: ★1</a>
 * <a href="https://github.com/andypiper/makers_calendar_uk">andypiper/makers_calendar_uk: ★1</a>
 * <a href="https://github.com/flathub/org.andypiper.Fedinspect">flathub/org.andypiper.Fedinspect: ★1</a>
 * <a href="https://github.com/FreeUKGen/comett-reg">FreeUKGen/comett-reg: ★1</a>
