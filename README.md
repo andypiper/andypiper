@@ -5,7 +5,7 @@ I'm Andy. I'm the Senior Developer Relations Engineer at [the Matrix.org Foundat
 
 You can find me primarily on <a rel="me" href="https://macaw.social/@andypiper">Mastodon</a> (but I am also in other places in the [#Fediverse](https://fediverseforfreedom.org/?ref=gh-profile)).
 
-I'm a maker at [Forge & Craft](https://forgeandcraft.co.uk), and I co-run the [HackWimbledon](https://hackwimbledon.org) "pop-up hackspace" meetup.
+I'm a maker at [Forge & Craft](https://forgeandcraft.co.uk), and I co-run the [HackWimbledon](https://hackwimbledon.org) "pop-up hackspace" meetup. I'm a [Hopeful Technologist](https://societyforhopefultechnologists.org/).
 
 [![Fediverse](https://img.shields.io/badge/andypiper%20-%231DA1F2.svg?&style=flat-square&logo=mastodon&logoColor=white&color=6364FF)](https://macaw.social/@andypiper) [![Matrix](https://img.shields.io/badge/andypiper%20-%23000000.svg?&style=flat-square&logo=matrix&logoColor=white&color=000000)](https://matrix.to/#/@andypiper:matrix.org) [![Bluesky](https://img.shields.io/badge/andypiper.me%20-%230285FF.svg?&style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/andypiper.me) [![](https://omg.8bitsqu.id/?user=andypiper)](https://andypiper.omg.lol) [![PeerTube](https://img.shields.io/badge/andypiper%20-%231DA1F2.svg?&style=flat-square&logo=peertube&logoColor=white&color=e2712f)](https://makertube.net/a/andypiper) [![YouTube](https://img.shields.io/badge/andypiper%20-%23FF0000.svg?&style=flat-square&logo=YouTube&logoColor=white)](https://youtube.com/@andypiper)
 
