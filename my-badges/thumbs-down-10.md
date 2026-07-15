@@ -3,8 +3,8 @@
 <br><br>
 
 * <a href="https://github.com/mastodon/mastodon/pull/30091#issuecomment-2231106261">20 👎</a>
-* <a href="https://github.com/mastodon/mastodon/issues/38072#issuecomment-4032993368">16 👎</a>
-* <a href="https://github.com/mastodon/mastodon/issues/38072#issuecomment-4030893100">12 👎</a>
+* <a href="https://github.com/mastodon/mastodon/issues/38072#issuecomment-4032993368">19 👎</a>
+* <a href="https://github.com/mastodon/mastodon/issues/38072#issuecomment-4030893100">14 👎</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
