@@ -4,7 +4,6 @@
 
 Repos:
 
-* <a href="https://github.com/atomic14/esp32-rainbow-website">atomic14/esp32-rainbow-website: ★4</a>
 * <a href="https://github.com/andypiper/pistate">andypiper/pistate: ★3</a>
 * <a href="https://github.com/andypiper/twauth-web">andypiper/twauth-web: ★3</a>
 * <a href="https://github.com/andypiper/twit-webhook-bot">andypiper/twit-webhook-bot: ★3</a>
@@ -82,6 +81,7 @@ Repos:
 * <a href="https://github.com/andypiper/my-badges">andypiper/my-badges: ★1</a>
 * <a href="https://github.com/andypiper/tildagon-speedtest">andypiper/tildagon-speedtest: ★1</a>
 * <a href="https://github.com/andypiper/wifi-switcher">andypiper/wifi-switcher: ★1</a>
+* <a href="https://github.com/andypiper/geiger-counter">andypiper/geiger-counter: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
