@@ -34,7 +34,6 @@ Repos:
 * <a href="https://github.com/andypiper/twauth-web">andypiper/twauth-web: ★3</a>
 * <a href="https://github.com/andypiper/twit-webhook-bot">andypiper/twit-webhook-bot: ★3</a>
 * <a href="https://github.com/andypiper/ESP32-C3FH4-RGB">andypiper/ESP32-C3FH4-RGB: ★3</a>
-* <a href="https://github.com/andypiper/MastoShell">andypiper/MastoShell: ★3</a>
 * <a href="https://github.com/andypiper/presto-lastfm">andypiper/presto-lastfm: ★3</a>
 * <a href="https://github.com/mcollina/mqtt-on-yun">mcollina/mqtt-on-yun: ★2</a>
 * <a href="https://github.com/FreeUKGen/FreeBMD2">FreeUKGen/FreeBMD2: ★2</a>
@@ -45,6 +44,7 @@ Repos:
 * <a href="https://github.com/andypiper/3d-modelling">andypiper/3d-modelling: ★2</a>
 * <a href="https://github.com/andypiper/Inkscape-Plugin">andypiper/Inkscape-Plugin: ★2</a>
 * <a href="https://github.com/andypiper/postmarks-ext">andypiper/postmarks-ext: ★2</a>
+* <a href="https://github.com/andypiper/MastoShell">andypiper/MastoShell: ★2</a>
 * <a href="https://github.com/andypiper/ulauncher-mastodon">andypiper/ulauncher-mastodon: ★2</a>
 * <a href="https://github.com/andypiper/sinatra-cf-twitter">andypiper/sinatra-cf-twitter: ★1</a>
 * <a href="https://github.com/andypiper/fsc_flogr">andypiper/fsc_flogr: ★1</a>
