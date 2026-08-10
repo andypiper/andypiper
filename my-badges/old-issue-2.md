@@ -20,6 +20,7 @@ Issues:
 - <a href="https://github.com/micropython/micropython/issues/8417">#8417</a>: `pyb.country` is missing from the documentation
 - <a href="https://github.com/mastodon/documentation/issues/1222">#1222</a>: Clarify scope of search API
 - <a href="https://github.com/mastodon/documentation/issues/1233">#1233</a>: Add information on OAuth token expiry
+- <a href="https://github.com/andypiper/fivebyfive/issues/11">#11</a>: Add wifi info from MicroPython discussion
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
