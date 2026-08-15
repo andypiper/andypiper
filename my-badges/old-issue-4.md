@@ -9,6 +9,7 @@ Issues:
 - <a href="https://github.com/xdevplatform/large-video-upload-python/issues/10">#10</a>: Improve error handling if media endpoint is unavailable
 - <a href="https://github.com/xdevplatform/tweet-search/issues/13">#13</a>: Update for Python 3 / latest Django
 - <a href="https://github.com/makeronicc/makeroni/issues/2">#2</a>: Needs CONTRIBUTORS & CODE-OF-CONDUCT
+- <a href="https://github.com/yug1224/gh-lgtmoon/issues/2">#2</a>: macOS only
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
