@@ -4,7 +4,6 @@
 
 Pull requests:
 
-- <a href="https://github.com/andypiper/mastodon_digest/pull/2">#2</a>: correctly handle indexing signals, add user-agent
 - <a href="https://github.com/makeronicc/hackwimbledon/pull/2">#2</a>: Adding in some more info
 - <a href="https://github.com/makeronicc/hackwimbledon/pull/3">#3</a>: Brand updates
 - <a href="https://github.com/andypiper/mastodon_digest/pull/5">#5</a>: Copilot/fix mastodon timeout handling
