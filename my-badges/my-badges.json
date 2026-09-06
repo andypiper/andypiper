@@ -59,7 +59,7 @@
     "id": "this-is-fine",
     "tier": 0,
     "desc": "I merged a PR with failing checks",
-    "body": "Pull requests:\n\n- <a href=\"https://github.com/makeronicc/hackwimbledon/pull/2\">#2</a>: Adding in some more info\n- <a href=\"https://github.com/makeronicc/hackwimbledon/pull/3\">#3</a>: Brand updates\n- <a href=\"https://github.com/andypiper/mastodon_digest/pull/5\">#5</a>: Copilot/fix mastodon timeout handling\n- <a href=\"https://github.com/makeronicc/hackwimbledon/pull/4\">#4</a>: add places and styling\n- <a href=\"https://github.com/makeronicc/hackwimbledon/pull/5\">#5</a>: migration\n- <a href=\"https://github.com/atomic14/esp32-zxspectrum/pull/23\">#23</a>: Wrap conditional  correctly to avoid emscripten error on Linux build.",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/makeronicc/hackwimbledon/pull/2\">#2</a>: Adding in some more info\n- <a href=\"https://github.com/makeronicc/hackwimbledon/pull/3\">#3</a>: Brand updates\n- <a href=\"https://github.com/andypiper/mastodon_digest/pull/5\">#5</a>: Copilot/fix mastodon timeout handling\n- <a href=\"https://github.com/makeronicc/hackwimbledon/pull/4\">#4</a>: add places and styling\n- <a href=\"https://github.com/makeronicc/hackwimbledon/pull/5\">#5</a>: migration",
     "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
   },
   {
